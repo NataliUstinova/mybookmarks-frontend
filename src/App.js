@@ -1,6 +1,9 @@
 import './App.css';
-import {quotes} from "./api";
+import api from "./Api";
+import {quotes} from "./api-draft"
 import {useEffect, useState} from "react";
+import { v4 as uuidv4 } from 'uuid';
+
 
 function BookTitleGrid({ quotes, handleBookClick, selectedBook, showAll }) {
   // Extract unique book titles and their thumbnails
@@ -10,30 +13,47 @@ function BookTitleGrid({ quotes, handleBookClick, selectedBook, showAll }) {
     
   }, [selectedBook, showAll]);
   
+  const [data, setData] = useState([]);
+
+  // useEffect(() => {
+  //   api.getData()
+  //     .then((res) => {
+  //       setData(res);
+  //     })
+  //     .catch((err) => {
+  //       console.log(err);
+  //     })
+  // }, []);
+
+  // useEffect(() => {
+  //   console.log(data)
+  // }, [data]);
+  
+  
   return (
     <div className="px-5 sm:px-0 w-[100vw] sm:w-full overflow-scroll hidden-scrollbar flex justify-start sm:grid sm:grid-cols-3 md:grid-cols-4 place-content-evenly gap-3">
-      {uniqueBookTitles.map((title) => {
+      {uniqueBookTitles.map((title, index) => {
         // Find the first matching quote for the thumbnail
         const matchingQuote = quotes.find((quote) => quote.book_title === title);
         const thumbnailUrl = matchingQuote ? matchingQuote.thumbnail : '';
 
         return (
-          <fieldset key={title} className="cursor-pointer relative flex flex-col items-start justify-start sm:justify-end gap-1" onClick={() => handleBookClick({title})}>
+          <div key={title} className="cursor-pointer relative flex flex-col items-start justify-start sm:justify-end gap-1" onClick={() => handleBookClick({title})}>
             <input type="radio" name="books" value={title} id="book" className="absolute 
             top-0 left-0 w-full h-full peer/book z-10 opacity-0"/>
             <h3 className={`peer-checked/book:opacity-100 ${showAll ? "opacity-100" : "opacity-70"} order-last sm:order-first
             truncate whitespace-normal`}>{title}</h3>
-            <img src={thumbnailUrl} alt={`${title} Thumbnail`} className={`rounded-sm peer-checked/book:opacity-100 ${showAll ? "opacity-100" : "opacity-70"} w-full min-w-[120px] aspect-[12/16] object-cover`}/>
-          </fieldset>
+            <img src={thumbnailUrl} alt={`${title} Thumbnail`} className={`rounded-sm peer-checked/book:opacity-100 peer-checked/book:filter-none ${showAll ? "opacity-100 filter-none" : "opacity-70 grayscale"} w-full min-w-[120px] aspect-[10/14] object-cover`}/>
+          </div>
         );
       })}
     </div>
   );
 }
 
-function Quote({ quote, random, handleRandomClick }) {
+function Quote({ quote, random, handleRandomClick, index }) {
   return (
-    <div className={`flex flex-col w-full gap-2 items-start justify-start 
+    <div key={random ? quote.id + "random" : quote.id} className={`flex flex-col w-full gap-2 items-start justify-start 
       ${random ? "bg-blue-50" : "bg-gray-50"} p-6 rounded-xl`}>
       <div>
         <p className="text-[18px] serif">{quote.content}</p>
@@ -155,7 +175,7 @@ function App() {
         </div>
 
         <div className="flex flex-col items-center max-w-[650px] sm:h-screen sm:overflow-scroll sm:hidden-scrollbar hidden-scrollbar gap-4 py-10 px-5 sm:px-0">
-          {shownQuotes.map((quote) => <Quote quote={quote} handleRandomClick={handleRandomClick} />)}
+          {shownQuotes.map((quote, index) => <Quote quote={quote} index={index} handleRandomClick={handleRandomClick} />)}
         </div>
       </div>
     </div>
