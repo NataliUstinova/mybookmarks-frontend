@@ -42,706 +42,6 @@ export const quotes = [
   },
   {
     "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "repentance",
-    "comment": "раскаяние",
-    "color": "yellow",
-    "created_at": "2023-09-04 22:06:09 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "irresolute",
-    "comment": "нерешительный",
-    "color": "yellow",
-    "created_at": "2023-09-04 22:00:57 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "bewilderly",
-    "comment": "сбивающий с толку",
-    "color": "yellow",
-    "created_at": "2023-09-04 21:56:19 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "strenuous",
-    "comment": "напряженный",
-    "color": "yellow",
-    "created_at": "2023-09-04 21:55:34 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "senility",
-    "comment": "старческий маразм",
-    "color": "yellow",
-    "created_at": "2023-09-04 21:53:04 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "Be more abstemious, or else ...",
-    "comment": "Будь более воздержанным, иначе...",
-    "color": "yellow",
-    "created_at": "2023-09-04 21:32:44 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "She was getting more and more exasperated.",
-    "comment": "Она становилась все более и более раздраженной.",
-    "color": "yellow",
-    "created_at": "2023-09-04 16:37:07 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "rakishly",
-    "comment": "лихо",
-    "color": "yellow",
-    "created_at": "2023-09-04 16:31:46 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "sententiously",
-    "comment": "назидательно",
-    "color": "yellow",
-    "created_at": "2023-09-04 16:28:39 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "senility",
-    "comment": "старческий маразм",
-    "color": "yellow",
-    "created_at": "2023-09-04 12:28:04 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "- А девушек я на прошлой неделе имел шесть штук, - похвастался Бернард перед Гельмгольцем.\n\n\"One on Monday, two on Tuesday, two more on Friday, and one on Saturday.\n\n- Одну в понедельник, двух во вторник, двух в пятницу и одну в субботу.\n\nAnd if I'd had the time or the inclination, there were at least a dozen more who were only too anxious ...\"\n\nИ еще по крайней мере дюжина набивалась, да не было времени и желания...",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-04 12:22:16 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "Что же до женщин, то Бернарду стоило лишь поманить их приглашением на такой вечер, и доступна делалась любая.",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-04 12:18:43 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "ways on, and the patchouli tap just dripping, and the soma tablets within reach of her hand-there she remained; and yet wasn't there at all, was all the time away, infinitely far away, on holiday; on holiday in some other world, where the music of the radio was a labyrinth of sonorous colours, a sliding, palpitating labyrinth, that led (by what beautifully inevitable windings) to a bright centre of absolute conviction; where the dancing images of the television box were the performers in some indescribably delicious all-singing feely; where the dripping patchouli was more than scent-was the sun, was a million saxophones, was Pope making love, only much more so, incomparably more, and without end.",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-04 12:17:25 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "subverter",
-    "comment": "ниспровергатель",
-    "color": "yellow",
-    "created_at": "2023-09-04 12:06:13 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "squeamish",
-    "comment": "брезгливый",
-    "color": "yellow",
-    "created_at": "2023-09-04 01:22:33 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "- Если ты не такой, как другие, то обречен на одиночество.",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-04 01:21:16 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "averted",
-    "comment": "предотвращенный",
-    "color": "yellow",
-    "created_at": "2023-09-04 00:37:38 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "undulating",
-    "comment": "волнообразный",
-    "color": "yellow",
-    "created_at": "2023-09-04 00:31:18 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "кожа, влажно блестящая от зноя.",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-04 00:27:52 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "emaciated",
-    "comment": "истощенный",
-    "color": "yellow",
-    "created_at": "2023-09-04 00:22:57 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "precipice",
-    "comment": "пропасть",
-    "color": "yellow",
-    "created_at": "2023-09-04 00:18:39 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "Now that it looked as though the threats were really to be fulfilled, Bernard was appalled.",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-04 00:09:13 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "As recently as a week ago, in the Director's office, he had imagined himself courageously resisting, stoically accepting suffering without a word.",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-04 00:07:58 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "rapt",
-    "comment": "восхищенный",
-    "color": "yellow",
-    "created_at": "2023-09-04 00:01:14 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "jolt",
-    "comment": "толчок",
-    "color": "yellow",
-    "created_at": "2023-09-03 22:51:05 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "voluptuous",
-    "comment": "сладострастный",
-    "color": "yellow",
-    "created_at": "2023-09-03 22:49:44 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "But wouldn't you like to be free to be happy in some other way, Lenina?\n\nНо разве не манит тебя другая свобода - свобода быть счастливой как-то по-иному?",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-03 22:48:50 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "I'd rather be myself,\" he said.\n\n- Предпочитаю быть самим собой, - сказал он.\n\n\"Myself and nasty.\n\n- Пусть хмурым, но собой.\n\nNot somebody else, however jolly.\"\n\nА не кем-то другим, хоть и развеселым.",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-03 22:44:46 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "Восторг ее был тихим экстазом осуществленного слияния, покоем не пустоты, не серой сытости, а гармонии, жизненных энергий, приведенных в равновесие.",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-03 22:37:31 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "exultant",
-    "comment": "ликующий",
-    "color": "yellow",
-    "created_at": "2023-09-03 22:20:21 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "benevolence",
-    "comment": "благожелательность",
-    "color": "blue",
-    "created_at": "2023-09-03 22:19:37 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "stealthy",
-    "comment": "скрытный",
-    "color": "yellow",
-    "created_at": "2023-09-03 22:05:02 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "uprush",
-    "comment": "толчок вверх",
-    "color": "yellow",
-    "created_at": "2023-09-03 21:41:16 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "Can you say something about nothing?",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-03 21:40:21 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "Words can be like X-rays, if you use them properly-they'll go through anything.",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-03 21:39:48 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "Some sort of extra power that you aren't us-ing-you know, like all the water that goes down the falls instead of through the turbines?",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-03 21:38:13 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "clung",
-    "comment": "прильнуть",
-    "color": "yellow",
-    "created_at": "2023-09-03 21:35:57 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "imploringly",
-    "comment": "умоляюще",
-    "color": "yellow",
-    "created_at": "2023-09-03 21:35:48 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "Slackly",
-    "comment": "Вяло",
-    "color": "yellow",
-    "created_at": "2023-09-03 21:30:42 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "furtively",
-    "comment": "украдкой",
-    "color": "yellow",
-    "created_at": "2023-09-03 21:26:39 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "afflicted",
-    "comment": "страдающий",
-    "color": "yellow",
-    "created_at": "2023-09-03 21:21:20 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "unmalicious",
-    "comment": "недоброжелательный",
-    "color": "yellow",
-    "created_at": "2023-09-03 21:17:37 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "copulate",
-    "comment": "совокупляться",
-    "color": "yellow",
-    "created_at": "2023-09-03 21:13:13 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "brute",
-    "comment": "грубый",
-    "color": "yellow",
-    "created_at": "2023-09-03 21:10:47 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "You can't consume much if you sit still and read books",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-03 21:04:52 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "conscription",
-    "comment": "воинская обязанность",
-    "color": "yellow",
-    "created_at": "2023-09-03 21:03:45 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "ingenious",
-    "comment": "изобретательный",
-    "color": "yellow",
-    "created_at": "2023-09-03 21:02:00 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "insurmountable",
-    "comment": "непреодолимый",
-    "color": "yellow",
-    "created_at": "2023-09-03 20:56:15 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "coaxing",
-    "comment": "уговаривать",
-    "color": "yellow",
-    "created_at": "2023-09-03 20:51:22 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "stickler",
-    "comment": "приверженец",
-    "color": "yellow",
-    "created_at": "2023-09-03 20:49:23 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "defiant",
-    "comment": "дерзкий",
-    "color": "yellow",
-    "created_at": "2023-09-03 20:46:19 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "Повсюду исключительность и замкнутость, сосредоточенность влечения на одном предмете; порыв и энергия направлены в узкое русло.",
-    "comment": "",
-    "color": "blue",
-    "created_at": "2023-09-03 20:45:21 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "rabble",
-    "comment": "сброд",
-    "color": "yellow",
-    "created_at": "2023-09-03 20:39:07 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "bosoms",
-    "comment": "груди",
-    "color": "yellow",
-    "created_at": "2023-09-03 20:37:42 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "contemptuous",
-    "comment": "презрительный",
-    "color": "yellow",
-    "created_at": "2023-09-03 20:36:24 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "briskly",
-    "comment": "бодро",
-    "color": "yellow",
-    "created_at": "2023-09-03 20:33:10 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "effusive",
-    "comment": "экспансивный",
-    "color": "yellow",
-    "created_at": "2023-09-03 20:31:45 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "maudlin",
-    "comment": "сентиментальный",
-    "color": "yellow",
-    "created_at": "2023-09-03 20:28:19 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "smut",
-    "comment": "непристойность",
-    "color": "yellow",
-    "created_at": "2023-09-03 20:07:46 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "put asunder.",
-    "comment": "разделите на части.",
-    "color": "yellow",
-    "created_at": "2023-09-03 19:58:51 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "indissolubly",
-    "comment": "неразрывно",
-    "color": "yellow",
-    "created_at": "2023-09-03 19:57:18 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "maddeningly",
-    "comment": "сводящий с ума",
-    "color": "yellow",
-    "created_at": "2023-09-03 19:54:35 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "gills",
-    "comment": "жабры",
-    "color": "yellow",
-    "created_at": "2023-09-03 19:43:20 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "deferential",
-    "comment": "почтительный",
-    "color": "yellow",
-    "created_at": "2023-09-03 19:42:20 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "sultry",
-    "comment": "знойный",
-    "color": "yellow",
-    "created_at": "2023-09-03 19:21:34 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "waggishly",
-    "comment": "игриво",
-    "color": "yellow",
-    "created_at": "2023-09-03 16:56:00 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "deftly",
-    "comment": "ловко",
-    "color": "yellow",
-    "created_at": "2023-09-03 15:18:59 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "ruddy",
-    "comment": "румяный",
-    "color": "yellow",
-    "created_at": "2023-09-03 15:12:32 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "abjectly",
-    "comment": "униженно",
-    "color": "yellow",
-    "created_at": "2023-09-03 14:46:17 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
-    "book_title": "О дивный новый мир",
-    "book_authors": "Олдос Хаксли",
-    "content": "callow",
-    "comment": "незрелый",
-    "color": "yellow",
-    "created_at": "2023-09-03 14:45:19 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
-  },
-  {
-    "id": uuidv4(),
     "book_title": "Солнечный удар",
     "book_authors": "Иван Бунин",
     "content": "Он еще помнил ее всю, со всеми малейшими ее особенностями, помнил запах ее загара и холстинкового платья, ее крепкое тело, живой, простой и веселый звук ее голоса… Чувство только что испытанных наслаждений всей ее женской прелестью было еще живо в нем необыкновенно, но теперь главным было все-таки это второе, совсем новое чувство – то страдное, непонятное чувство, которого совсем не было, пока они были вместе, которого он даже предположить в себе не мог, затевая вчера это, как он думал, только забавное знакомство, и о котором уже некому, некому было сказать теперь! – «А главное, – подумал он, – ведь и никогда уже не скажешь!",
@@ -4052,6 +3352,46 @@ export const quotes = [
   },
   {
     "id": uuidv4(),
+    "book_title": "Дама с собачкой",
+    "book_authors": "Антон Чехов",
+    "content": "Опыт многократный, в самом деле горький опыт, научил его давно, что всякое сближение, которое вначале так приятно разнообразит жизнь и представляется милым и легким приключением, у порядочных людей, особенно у москвичей, тяжелых на подъем, нерешительных, неизбежно вырастает в целую задачу, сложную чрезвычайно, и положение в конце концов становится тягостным.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-06-23 11:22:20 +0300",
+    "thumbnail": "https://akniga.org/uploads/media/topic/2021/02/13/12/preview/dbd0f9296a23a2a0fc7e_252x350crop.png"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "Дама с собачкой",
+    "book_authors": "Антон Чехов",
+    "content": "Листва не шевелилась на деревьях, кричали цикады, и однообразный, глухой шум моря, доносившийся снизу, говорил о покое, о вечном сне, какой ожидает нас. Так шумело внизу, когда еще тут не было ни Ялты, ни Ореанды, теперь шумит и будет шуметь так же равнодушно и глухо, когда нас не будет. И в этом постоянстве, в полном равнодушии к жизни и смерти каждого из нас кроется, быть может, залог нашего вечного спасения, непрерывного движения жизни на земле, непрерывного совершенства.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-06-23 11:22:20 +0300",
+    "thumbnail": "https://akniga.org/uploads/media/topic/2021/02/13/12/preview/dbd0f9296a23a2a0fc7e_252x350crop.png"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "Дама с собачкой",
+    "book_authors": "Антон Чехов",
+    "content": "Какие дикие нравы, какие лица! Что за бестолковые ночи, какие неинтересные незаметные дни! Неистовая игра в карты, обжорство, пьянство, постоянные разговоры всё об одном. Ненужные дела и разговоры всё об одном отхватывают на свою долю лучшую часть времени, лучшие силы, и в конце концов остается какая-то куцая, бескрылая жизнь, какая-то чепуха, и уйти и бежать нельзя, точно сидишь в сумасшедшем доме или в арестантских ротах!",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-06-23 11:22:20 +0300",
+    "thumbnail": "https://akniga.org/uploads/media/topic/2021/02/13/12/preview/dbd0f9296a23a2a0fc7e_252x350crop.png"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "Дама с собачкой",
+    "book_authors": "Антон Чехов",
+    "content": "За что она его любит так? Он всегда казался женщинам не тем, кем был, и любили они в нем не его самого, а человека, которого создавало их воображение и которого они в своей жизни жадно искали; и потом, когда замечали свою ошибку, то все-таки любили.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-06-23 11:22:20 +0300",
+    "thumbnail": "https://akniga.org/uploads/media/topic/2021/02/13/12/preview/dbd0f9296a23a2a0fc7e_252x350crop.png"
+  },
+  {
+    "id": uuidv4(),
     "book_title": "Сломленная",
     "book_authors": "Симона де Бовуар",
     "content": "Как давит Париж! Даже несмотря на мягкие осенние дни, эта тяжесть гнетет меня. Сегодня вечером я чувствую какую-то необъяснимую депрессию.",
@@ -6624,7 +5964,7 @@ export const quotes = [
     "id": uuidv4(),
     "book_title": "Искусство видеть",
     "book_authors": "Джон Бергер",
-    "content": "В городах, где мы живем, каждый день нашей жизни каждый из нас видит сотни рекламных изображений. Никакие другие образы не возникают перед нами так часто.  Ни в каком другом обществе в прошлом не существовало такой концентрации образов, такой плотности визуальной информации.  Человек может запомнить или забыть эту информацию, но какое-то мгновение он все-таки воспринимает ее, и она стимулирует его воображение при посредстве либо памяти, либо ожидания. Рекламный образ принадлежит мгновению.",
+    "content": "В городах, где мы живем, каждый день нашей жизни каждый из нас видит сотни рекламных изображений. Никакие другие образы не возникают перед нами так часто. Ни в каком другом обществе в прошлом не существовало такой концентрации образов, такой плотности визуальной информации. Человек может запомнить или забыть эту информацию, но какое-то мгновение он все-таки воспринимает ее, и она стимулирует его воображение при посредстве либо памяти, либо ожидания. Рекламный образ принадлежит мгновению.",
     "comment": "",
     "color": "blue",
     "created_at": "2020-06-19 21:22:20 +0300",
@@ -6634,7 +5974,7 @@ export const quotes = [
     "id": uuidv4(),
     "book_title": "Искусство видеть",
     "book_authors": "Джон Бергер",
-    "content": "реклама как система предлагает нам одну-единственную вещь.  Она предлагает каждому из нас изменить себя (или свою жизнь), купив что-нибудь еще.",
+    "content": "реклама как система предлагает нам одну-единственную вещь. Она предлагает каждому из нас изменить себя (или свою жизнь), купив что-нибудь еще.",
     "comment": "",
     "color": "blue",
     "created_at": "2020-06-19 21:22:20 +0300",
@@ -6664,7 +6004,7 @@ export const quotes = [
     "id": uuidv4(),
     "book_title": "Искусство видеть",
     "book_authors": "Джон Бергер",
-    "content": "В рекламе возникает масса отсылок к произведениям искусства минувших эпох. Иногда вся рекламная картинка представляет собой откровенную стилизацию под классическое полотно.  Рекламные образы нередко используют скульптуру и живопись, для того чтобы добавить себе обаяния и солидности. Картины в рамах часто висят в магазинных витринах вместе с другими товарами.",
+    "content": "В рекламе возникает масса отсылок к произведениям искусства минувших эпох. Иногда вся рекламная картинка представляет собой откровенную стилизацию под классическое полотно. Рекламные образы нередко используют скульптуру и живопись, для того чтобы добавить себе обаяния и солидности. Картины в рамах часто висят в магазинных витринах вместе с другими товарами.",
     "comment": "",
     "color": "blue",
     "created_at": "2020-06-19 21:22:20 +0300",
@@ -6764,7 +6104,7 @@ export const quotes = [
     "id": uuidv4(),
     "book_title": "Искусство видеть",
     "book_authors": "Джон Бергер",
-    "content": "Реклама не производит мечты. Единственное, что она делает, – это говорит каждому из нас, что нам пока нельзя позавидовать, но что это можно изменить.  Вс",
+    "content": "Реклама не производит мечты. Единственное, что она делает, – это говорит каждому из нас, что нам пока нельзя позавидовать, но что это можно изменить.",
     "comment": "",
     "color": "blue",
     "created_at": "2020-06-19 21:22:20 +0300",
@@ -6779,5 +6119,795 @@ export const quotes = [
     "color": "blue",
     "created_at": "2020-06-19 21:22:20 +0300",
     "thumbnail": "https://cv5.litres.ru/pub/c/cover_max1500/19377159.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "frenzy",
+    "comment": "неистовство",
+    "color": "yellow",
+    "created_at": "2023-09-07 15:22:31 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "ineradicably",
+    "comment": "неистребимо",
+    "color": "yellow",
+    "created_at": "2023-09-07 15:22:21 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "atonement",
+    "comment": "расплата",
+    "color": "yellow",
+    "created_at": "2023-09-07 15:21:57 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "lechery",
+    "comment": "разврат",
+    "color": "yellow",
+    "created_at": "2023-09-07 15:21:32 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "Strumpet",
+    "comment": "Шлюшка",
+    "color": "yellow",
+    "created_at": "2023-09-07 15:20:52 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "The young woman pressed both hands to her left side, and on that peach-bright, doll-beautiful face of hers appeared a strangely incongruous expression of yearning distress.",
+    "comment": "Молодая женщина прижала обе руки к левому боку, и на ее персиково-ярком, кукольно красивом лице появилось странно неуместное выражение тоскливого страдания.",
+    "color": "yellow",
+    "created_at": "2023-09-07 15:20:24 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "recoiled",
+    "comment": "отшатнулся",
+    "color": "yellow",
+    "created_at": "2023-09-07 15:19:58 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "Taken aback",
+    "comment": "Застигнутый врасплох",
+    "color": "yellow",
+    "created_at": "2023-09-07 15:18:22 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "- Счастье - хозяин суровый. Служить счастью, особенно счастью других, гораздо труднее, чем служить истине, если ты не сформован так, чтобы служить слепо.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 15:18:11 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "repentance",
+    "comment": "раскаяние",
+    "color": "yellow",
+    "created_at": "2023-09-04 22:06:09 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "irresolute",
+    "comment": "нерешительный",
+    "color": "yellow",
+    "created_at": "2023-09-04 22:00:57 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "bewilderly",
+    "comment": "сбивающий с толку",
+    "color": "yellow",
+    "created_at": "2023-09-04 21:56:19 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "strenuous",
+    "comment": "напряженный",
+    "color": "yellow",
+    "created_at": "2023-09-04 21:55:34 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "senility",
+    "comment": "старческий маразм",
+    "color": "yellow",
+    "created_at": "2023-09-04 21:53:04 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "Be more abstemious, or else ...",
+    "comment": "Будь более воздержанным, иначе...",
+    "color": "yellow",
+    "created_at": "2023-09-04 21:32:44 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "She was getting more and more exasperated.",
+    "comment": "Она становилась все более и более раздраженной.",
+    "color": "yellow",
+    "created_at": "2023-09-04 16:37:07 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "rakishly",
+    "comment": "лихо",
+    "color": "yellow",
+    "created_at": "2023-09-04 16:31:46 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "sententiously",
+    "comment": "назидательно",
+    "color": "yellow",
+    "created_at": "2023-09-04 16:28:39 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "senility",
+    "comment": "старческий маразм",
+    "color": "yellow",
+    "created_at": "2023-09-04 12:28:04 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "- А девушек я на прошлой неделе имел шесть штук, - похвастался Бернард перед Гельмгольцем.\n\n\"One on Monday, two on Tuesday, two more on Friday, and one on Saturday.\n\n- Одну в понедельник, двух во вторник, двух в пятницу и одну в субботу.\n\nAnd if I'd had the time or the inclination, there were at least a dozen more who were only too anxious ...\"\n\nИ еще по крайней мере дюжина набивалась, да не было времени и желания...",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-04 12:22:16 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "Что же до женщин, то Бернарду стоило лишь поманить их приглашением на такой вечер, и доступна делалась любая.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-04 12:18:43 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "ways on, and the patchouli tap just dripping, and the soma tablets within reach of her hand-there she remained; and yet wasn't there at all, was all the time away, infinitely far away, on holiday; on holiday in some other world, where the music of the radio was a labyrinth of sonorous colours, a sliding, palpitating labyrinth, that led (by what beautifully inevitable windings) to a bright centre of absolute conviction; where the dancing images of the television box were the performers in some indescribably delicious all-singing feely; where the dripping patchouli was more than scent-was the sun, was a million saxophones, was Pope making love, only much more so, incomparably more, and without end.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-04 12:17:25 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "subverter",
+    "comment": "ниспровергатель",
+    "color": "yellow",
+    "created_at": "2023-09-04 12:06:13 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "squeamish",
+    "comment": "брезгливый",
+    "color": "yellow",
+    "created_at": "2023-09-04 01:22:33 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "- Если ты не такой, как другие, то обречен на одиночество.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-04 01:21:16 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "averted",
+    "comment": "предотвращенный",
+    "color": "yellow",
+    "created_at": "2023-09-04 00:37:38 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "undulating",
+    "comment": "волнообразный",
+    "color": "yellow",
+    "created_at": "2023-09-04 00:31:18 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "кожа, влажно блестящая от зноя.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-04 00:27:52 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "emaciated",
+    "comment": "истощенный",
+    "color": "yellow",
+    "created_at": "2023-09-04 00:22:57 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "precipice",
+    "comment": "пропасть",
+    "color": "yellow",
+    "created_at": "2023-09-04 00:18:39 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "Now that it looked as though the threats were really to be fulfilled, Bernard was appalled.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-04 00:09:13 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "As recently as a week ago, in the Director's office, he had imagined himself courageously resisting, stoically accepting suffering without a word.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-04 00:07:58 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "rapt",
+    "comment": "восхищенный",
+    "color": "yellow",
+    "created_at": "2023-09-04 00:01:14 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "jolt",
+    "comment": "толчок",
+    "color": "yellow",
+    "created_at": "2023-09-03 22:51:05 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "voluptuous",
+    "comment": "сладострастный",
+    "color": "yellow",
+    "created_at": "2023-09-03 22:49:44 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "But wouldn't you like to be free to be happy in some other way, Lenina?\n\nНо разве не манит тебя другая свобода - свобода быть счастливой как-то по-иному?",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-03 22:48:50 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "I'd rather be myself,\" he said.\n\n- Предпочитаю быть самим собой, - сказал он.\n\n\"Myself and nasty.\n\n- Пусть хмурым, но собой.\n\nNot somebody else, however jolly.\"\n\nА не кем-то другим, хоть и развеселым.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-03 22:44:46 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "Восторг ее был тихим экстазом осуществленного слияния, покоем не пустоты, не серой сытости, а гармонии, жизненных энергий, приведенных в равновесие.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-03 22:37:31 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "exultant",
+    "comment": "ликующий",
+    "color": "yellow",
+    "created_at": "2023-09-03 22:20:21 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "benevolence",
+    "comment": "благожелательность",
+    "color": "blue",
+    "created_at": "2023-09-03 22:19:37 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "stealthy",
+    "comment": "скрытный",
+    "color": "yellow",
+    "created_at": "2023-09-03 22:05:02 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "uprush",
+    "comment": "толчок вверх",
+    "color": "yellow",
+    "created_at": "2023-09-03 21:41:16 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "Can you say something about nothing?",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-03 21:40:21 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "Words can be like X-rays, if you use them properly-they'll go through anything.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-03 21:39:48 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "Some sort of extra power that you aren't us-ing-you know, like all the water that goes down the falls instead of through the turbines?",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-03 21:38:13 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "clung",
+    "comment": "прильнуть",
+    "color": "yellow",
+    "created_at": "2023-09-03 21:35:57 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "imploringly",
+    "comment": "умоляюще",
+    "color": "yellow",
+    "created_at": "2023-09-03 21:35:48 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "Slackly",
+    "comment": "Вяло",
+    "color": "yellow",
+    "created_at": "2023-09-03 21:30:42 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "furtively",
+    "comment": "украдкой",
+    "color": "yellow",
+    "created_at": "2023-09-03 21:26:39 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "afflicted",
+    "comment": "страдающий",
+    "color": "yellow",
+    "created_at": "2023-09-03 21:21:20 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "unmalicious",
+    "comment": "недоброжелательный",
+    "color": "yellow",
+    "created_at": "2023-09-03 21:17:37 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "copulate",
+    "comment": "совокупляться",
+    "color": "yellow",
+    "created_at": "2023-09-03 21:13:13 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "brute",
+    "comment": "грубый",
+    "color": "yellow",
+    "created_at": "2023-09-03 21:10:47 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "You can't consume much if you sit still and read books",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-03 21:04:52 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "conscription",
+    "comment": "воинская обязанность",
+    "color": "yellow",
+    "created_at": "2023-09-03 21:03:45 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "ingenious",
+    "comment": "изобретательный",
+    "color": "yellow",
+    "created_at": "2023-09-03 21:02:00 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "insurmountable",
+    "comment": "непреодолимый",
+    "color": "yellow",
+    "created_at": "2023-09-03 20:56:15 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "coaxing",
+    "comment": "уговаривать",
+    "color": "yellow",
+    "created_at": "2023-09-03 20:51:22 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "stickler",
+    "comment": "приверженец",
+    "color": "yellow",
+    "created_at": "2023-09-03 20:49:23 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "defiant",
+    "comment": "дерзкий",
+    "color": "yellow",
+    "created_at": "2023-09-03 20:46:19 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "Повсюду исключительность и замкнутость, сосредоточенность влечения на одном предмете; порыв и энергия направлены в узкое русло.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-03 20:45:21 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "rabble",
+    "comment": "сброд",
+    "color": "yellow",
+    "created_at": "2023-09-03 20:39:07 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "bosoms",
+    "comment": "груди",
+    "color": "yellow",
+    "created_at": "2023-09-03 20:37:42 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "contemptuous",
+    "comment": "презрительный",
+    "color": "yellow",
+    "created_at": "2023-09-03 20:36:24 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "briskly",
+    "comment": "бодро",
+    "color": "yellow",
+    "created_at": "2023-09-03 20:33:10 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "effusive",
+    "comment": "экспансивный",
+    "color": "yellow",
+    "created_at": "2023-09-03 20:31:45 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "maudlin",
+    "comment": "сентиментальный",
+    "color": "yellow",
+    "created_at": "2023-09-03 20:28:19 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "smut",
+    "comment": "непристойность",
+    "color": "yellow",
+    "created_at": "2023-09-03 20:07:46 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "put asunder.",
+    "comment": "разделите на части.",
+    "color": "yellow",
+    "created_at": "2023-09-03 19:58:51 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "indissolubly",
+    "comment": "неразрывно",
+    "color": "yellow",
+    "created_at": "2023-09-03 19:57:18 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "maddeningly",
+    "comment": "сводящий с ума",
+    "color": "yellow",
+    "created_at": "2023-09-03 19:54:35 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "gills",
+    "comment": "жабры",
+    "color": "yellow",
+    "created_at": "2023-09-03 19:43:20 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "deferential",
+    "comment": "почтительный",
+    "color": "yellow",
+    "created_at": "2023-09-03 19:42:20 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "sultry",
+    "comment": "знойный",
+    "color": "yellow",
+    "created_at": "2023-09-03 19:21:34 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "waggishly",
+    "comment": "игриво",
+    "color": "yellow",
+    "created_at": "2023-09-03 16:56:00 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "deftly",
+    "comment": "ловко",
+    "color": "yellow",
+    "created_at": "2023-09-03 15:18:59 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "ruddy",
+    "comment": "румяный",
+    "color": "yellow",
+    "created_at": "2023-09-03 15:12:32 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "abjectly",
+    "comment": "униженно",
+    "color": "yellow",
+    "created_at": "2023-09-03 14:46:17 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+  },
+  {
+    "id": uuidv4(),
+    "book_title": "О дивный новый мир",
+    "book_authors": "Олдос Хаксли",
+    "content": "callow",
+    "comment": "незрелый",
+    "color": "yellow",
+    "created_at": "2023-09-03 14:45:19 +0300",
+    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
   }
 ]
