@@ -53,7 +53,7 @@ function BookTitleGrid({ quotes, handleBookClick, selectedBook, showAll }) {
 
 function Quote({ quote, random, handleRandomClick, index }) {
   return (
-    <div key={random ? quote.id + "random" : quote.id} className={`flex flex-col w-full gap-2 items-start justify-start 
+    <div key={index} className={`flex flex-col w-full gap-2 items-start justify-start 
       ${random ? "bg-blue-50" : "bg-gray-50"} p-6 rounded-xl`}>
       <div>
         <p className="text-[18px] serif">{quote.content}</p>
