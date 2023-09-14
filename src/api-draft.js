@@ -5514,7 +5514,7 @@ export const quotes = [
     "comment": "неистовство",
     "color": "yellow",
     "created_at": "2023-09-07 15:22:31 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5523,7 +5523,7 @@ export const quotes = [
     "comment": "неистребимо",
     "color": "yellow",
     "created_at": "2023-09-07 15:22:21 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5532,7 +5532,7 @@ export const quotes = [
     "comment": "расплата",
     "color": "yellow",
     "created_at": "2023-09-07 15:21:57 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5541,7 +5541,7 @@ export const quotes = [
     "comment": "разврат",
     "color": "yellow",
     "created_at": "2023-09-07 15:21:32 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5550,7 +5550,7 @@ export const quotes = [
     "comment": "Шлюшка",
     "color": "yellow",
     "created_at": "2023-09-07 15:20:52 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5559,7 +5559,7 @@ export const quotes = [
     "comment": "Молодая женщина прижала обе руки к левому боку, и на ее персиково-ярком, кукольно красивом лице появилось странно неуместное выражение тоскливого страдания.",
     "color": "yellow",
     "created_at": "2023-09-07 15:20:24 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5568,7 +5568,7 @@ export const quotes = [
     "comment": "отшатнулся",
     "color": "yellow",
     "created_at": "2023-09-07 15:19:58 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5577,7 +5577,7 @@ export const quotes = [
     "comment": "Застигнутый врасплох",
     "color": "yellow",
     "created_at": "2023-09-07 15:18:22 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5586,7 +5586,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 15:18:11 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5595,7 +5595,7 @@ export const quotes = [
     "comment": "раскаяние",
     "color": "yellow",
     "created_at": "2023-09-04 22:06:09 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5604,7 +5604,7 @@ export const quotes = [
     "comment": "нерешительный",
     "color": "yellow",
     "created_at": "2023-09-04 22:00:57 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5613,7 +5613,7 @@ export const quotes = [
     "comment": "сбивающий с толку",
     "color": "yellow",
     "created_at": "2023-09-04 21:56:19 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5622,7 +5622,7 @@ export const quotes = [
     "comment": "напряженный",
     "color": "yellow",
     "created_at": "2023-09-04 21:55:34 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5631,7 +5631,7 @@ export const quotes = [
     "comment": "старческий маразм",
     "color": "yellow",
     "created_at": "2023-09-04 21:53:04 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5640,7 +5640,7 @@ export const quotes = [
     "comment": "Будь более воздержанным, иначе...",
     "color": "yellow",
     "created_at": "2023-09-04 21:32:44 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5649,7 +5649,7 @@ export const quotes = [
     "comment": "Она становилась все более и более раздраженной.",
     "color": "yellow",
     "created_at": "2023-09-04 16:37:07 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5658,7 +5658,7 @@ export const quotes = [
     "comment": "лихо",
     "color": "yellow",
     "created_at": "2023-09-04 16:31:46 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5667,7 +5667,7 @@ export const quotes = [
     "comment": "назидательно",
     "color": "yellow",
     "created_at": "2023-09-04 16:28:39 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5676,7 +5676,7 @@ export const quotes = [
     "comment": "старческий маразм",
     "color": "yellow",
     "created_at": "2023-09-04 12:28:04 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5685,7 +5685,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-04 12:22:16 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5694,7 +5694,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-04 12:18:43 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5703,7 +5703,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-04 12:17:25 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5712,7 +5712,7 @@ export const quotes = [
     "comment": "ниспровергатель",
     "color": "yellow",
     "created_at": "2023-09-04 12:06:13 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5721,7 +5721,7 @@ export const quotes = [
     "comment": "брезгливый",
     "color": "yellow",
     "created_at": "2023-09-04 01:22:33 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5730,7 +5730,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-04 01:21:16 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5739,7 +5739,7 @@ export const quotes = [
     "comment": "предотвращенный",
     "color": "yellow",
     "created_at": "2023-09-04 00:37:38 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5748,7 +5748,7 @@ export const quotes = [
     "comment": "волнообразный",
     "color": "yellow",
     "created_at": "2023-09-04 00:31:18 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5757,7 +5757,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-04 00:27:52 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5766,7 +5766,7 @@ export const quotes = [
     "comment": "истощенный",
     "color": "yellow",
     "created_at": "2023-09-04 00:22:57 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5775,7 +5775,7 @@ export const quotes = [
     "comment": "пропасть",
     "color": "yellow",
     "created_at": "2023-09-04 00:18:39 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5784,7 +5784,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-04 00:09:13 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5793,7 +5793,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-04 00:07:58 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5802,7 +5802,7 @@ export const quotes = [
     "comment": "восхищенный",
     "color": "yellow",
     "created_at": "2023-09-04 00:01:14 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5811,7 +5811,7 @@ export const quotes = [
     "comment": "толчок",
     "color": "yellow",
     "created_at": "2023-09-03 22:51:05 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5820,7 +5820,7 @@ export const quotes = [
     "comment": "сладострастный",
     "color": "yellow",
     "created_at": "2023-09-03 22:49:44 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5829,7 +5829,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-03 22:48:50 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5838,7 +5838,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-03 22:44:46 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5847,7 +5847,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-03 22:37:31 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5856,7 +5856,7 @@ export const quotes = [
     "comment": "ликующий",
     "color": "yellow",
     "created_at": "2023-09-03 22:20:21 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5865,7 +5865,7 @@ export const quotes = [
     "comment": "благожелательность",
     "color": "blue",
     "created_at": "2023-09-03 22:19:37 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5874,7 +5874,7 @@ export const quotes = [
     "comment": "скрытный",
     "color": "yellow",
     "created_at": "2023-09-03 22:05:02 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5883,7 +5883,7 @@ export const quotes = [
     "comment": "толчок вверх",
     "color": "yellow",
     "created_at": "2023-09-03 21:41:16 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5892,7 +5892,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-03 21:40:21 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5901,7 +5901,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-03 21:39:48 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5910,7 +5910,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-03 21:38:13 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5919,7 +5919,7 @@ export const quotes = [
     "comment": "прильнуть",
     "color": "yellow",
     "created_at": "2023-09-03 21:35:57 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5928,7 +5928,7 @@ export const quotes = [
     "comment": "умоляюще",
     "color": "yellow",
     "created_at": "2023-09-03 21:35:48 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5937,7 +5937,7 @@ export const quotes = [
     "comment": "Вяло",
     "color": "yellow",
     "created_at": "2023-09-03 21:30:42 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5946,7 +5946,7 @@ export const quotes = [
     "comment": "украдкой",
     "color": "yellow",
     "created_at": "2023-09-03 21:26:39 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5955,7 +5955,7 @@ export const quotes = [
     "comment": "страдающий",
     "color": "yellow",
     "created_at": "2023-09-03 21:21:20 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5964,7 +5964,7 @@ export const quotes = [
     "comment": "недоброжелательный",
     "color": "yellow",
     "created_at": "2023-09-03 21:17:37 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5973,7 +5973,7 @@ export const quotes = [
     "comment": "совокупляться",
     "color": "yellow",
     "created_at": "2023-09-03 21:13:13 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5982,7 +5982,7 @@ export const quotes = [
     "comment": "грубый",
     "color": "yellow",
     "created_at": "2023-09-03 21:10:47 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -5991,7 +5991,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-03 21:04:52 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6000,7 +6000,7 @@ export const quotes = [
     "comment": "воинская обязанность",
     "color": "yellow",
     "created_at": "2023-09-03 21:03:45 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6009,7 +6009,7 @@ export const quotes = [
     "comment": "изобретательный",
     "color": "yellow",
     "created_at": "2023-09-03 21:02:00 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6018,7 +6018,7 @@ export const quotes = [
     "comment": "непреодолимый",
     "color": "yellow",
     "created_at": "2023-09-03 20:56:15 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6027,7 +6027,7 @@ export const quotes = [
     "comment": "уговаривать",
     "color": "yellow",
     "created_at": "2023-09-03 20:51:22 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6036,7 +6036,7 @@ export const quotes = [
     "comment": "приверженец",
     "color": "yellow",
     "created_at": "2023-09-03 20:49:23 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6045,7 +6045,7 @@ export const quotes = [
     "comment": "дерзкий",
     "color": "yellow",
     "created_at": "2023-09-03 20:46:19 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6054,7 +6054,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-03 20:45:21 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6063,7 +6063,7 @@ export const quotes = [
     "comment": "сброд",
     "color": "yellow",
     "created_at": "2023-09-03 20:39:07 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6072,7 +6072,7 @@ export const quotes = [
     "comment": "груди",
     "color": "yellow",
     "created_at": "2023-09-03 20:37:42 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6081,7 +6081,7 @@ export const quotes = [
     "comment": "презрительный",
     "color": "yellow",
     "created_at": "2023-09-03 20:36:24 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6090,7 +6090,7 @@ export const quotes = [
     "comment": "бодро",
     "color": "yellow",
     "created_at": "2023-09-03 20:33:10 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6099,7 +6099,7 @@ export const quotes = [
     "comment": "экспансивный",
     "color": "yellow",
     "created_at": "2023-09-03 20:31:45 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6108,7 +6108,7 @@ export const quotes = [
     "comment": "сентиментальный",
     "color": "yellow",
     "created_at": "2023-09-03 20:28:19 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6117,7 +6117,7 @@ export const quotes = [
     "comment": "непристойность",
     "color": "yellow",
     "created_at": "2023-09-03 20:07:46 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6126,7 +6126,7 @@ export const quotes = [
     "comment": "разделите на части.",
     "color": "yellow",
     "created_at": "2023-09-03 19:58:51 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6135,7 +6135,7 @@ export const quotes = [
     "comment": "неразрывно",
     "color": "yellow",
     "created_at": "2023-09-03 19:57:18 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6144,7 +6144,7 @@ export const quotes = [
     "comment": "сводящий с ума",
     "color": "yellow",
     "created_at": "2023-09-03 19:54:35 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6153,7 +6153,7 @@ export const quotes = [
     "comment": "жабры",
     "color": "yellow",
     "created_at": "2023-09-03 19:43:20 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6162,7 +6162,7 @@ export const quotes = [
     "comment": "почтительный",
     "color": "yellow",
     "created_at": "2023-09-03 19:42:20 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6171,7 +6171,7 @@ export const quotes = [
     "comment": "знойный",
     "color": "yellow",
     "created_at": "2023-09-03 19:21:34 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6180,7 +6180,7 @@ export const quotes = [
     "comment": "игриво",
     "color": "yellow",
     "created_at": "2023-09-03 16:56:00 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6189,7 +6189,7 @@ export const quotes = [
     "comment": "ловко",
     "color": "yellow",
     "created_at": "2023-09-03 15:18:59 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6198,7 +6198,7 @@ export const quotes = [
     "comment": "румяный",
     "color": "yellow",
     "created_at": "2023-09-03 15:12:32 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6207,7 +6207,7 @@ export const quotes = [
     "comment": "униженно",
     "color": "yellow",
     "created_at": "2023-09-03 14:46:17 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "О дивный новый мир",
@@ -6216,7 +6216,7 @@ export const quotes = [
     "comment": "незрелый",
     "color": "yellow",
     "created_at": "2023-09-03 14:45:19 +0300",
-    "thumbnail": "https://api.bookmate.ru/assets/books-covers/d4/d9/RuaclM7q-thumb.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
   },
   {
     "book_title": "Возлюбленная",
@@ -6676,5 +6676,5414 @@ export const quotes = [
     "color": "blue",
     "created_at": "2023-09-07 21:17:45 +0300",
     "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632283781i/6149.jpg"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Это не жена, не хозяйка, даже не прислуга, а скорее приживалка, бедная, никому не нужная родственница, ничтожество…",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 12:18:22 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Его бледное, помятое лицо выражало досаду и усталость; видно было, что он замучился и только кротость и деликатность души мешали ему высказать на словах свою досаду.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 12:18:14 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411156"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Он любил пофилософствовать, оставаясь с самим собой, в тишине, и тогда ему казалось, что он очень серьезный, глубокий человек и что на этом свете его занимают одни только важные вопросы.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 12:18:14 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411157"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Хотелось кротости, душевной тишины и уверенности в себе, как у этого гостя, который вот наелся огурцов и хлеба и думает, что от этого стал совершеннее",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 12:18:13 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411158"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Жена скоро прискучает всякому, да не всякий правду скажет, потому что, знаете ли, несчастной семейной жизни стыдятся и скрывают ее.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 12:18:12 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411159"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "На людях и на животных была написана скука.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 12:18:12 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411160"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Причину исключения он тщательно скрывал, что давало возможность всякому желающему видеть в моем воспитателе человека пострадавшего и до некоторой степени таинственного.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 12:18:11 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411161"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Любите, женитесь… делайте глупости. Глупость гораздо жизненнее и здоровее, чем наши потуги и погоня за осмысленной жизнью.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 12:18:11 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411162"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "есть какая-то сплошная, детски-безотчетная радость, ищущая предлога, чтобы только вырваться наружу и излиться в каком-нибудь движении, хотя бы в беспардонном шатании и толкотне.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 11:01:24 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411163"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Я, знаете ли, мыкался около своего детища и всё боялся, как бы сердце у меня не лопнуло от авторского волнения.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 10:39:30 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411164"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Надо вам сказать, скучища в этом паршивом К. была страшная. Если бы не женщины и не карты, то я с ума бы, кажется, сошел.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 10:37:46 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411165"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "— После хорошего обеда для меня достаточно самого ничтожного повода, чтобы в голову полезли чертовски крупные мысли.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 10:34:54 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411166"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Этакое дитя природы: пальцем тронет, так душа вон! И морда у него зверская, подозрительная»",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 10:24:21 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411167"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Солдатка Шустрова, вдова, живет в развратном беззаконии с Семеном Кисловым.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 10:19:51 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411168"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Между указательным и средним пальцами левой руки — сигара, распространяющая зловоние.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:04:38 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411169"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Но он всё стоял и не уходил, и спрашивал себя: «Что же меня держит здесь?» И ему было досадно и на себя, и на эту черную собаку, которая валялась на камнях, а не шла в поле, в лес, где бы она была независима, радостна. И ему, и этой собаке мешало уйти со двора, очевидно, одно и то же: привычка к неволе, к рабскому состоянию…",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:04:37 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411170"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Ни гибкости, ни смелости, ни сильной воли; я боюсь за каждый свой шаг, точно меня выпорют, я робею перед ничтожествами, идиотами, скотами, стоящими неизмеримо ниже меня умственно и нравственно; я боюсь дворников, швейцаров, городовых, жандармов, я всех боюсь, потому что я родился от затравленной матери, с детства я забит и запуган!..",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:04:36 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411171"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Соответствие жизни по амбиции личности, — сказал Початкин.\n\nИ, заметив, что Юлия не поняла Початкина, Макеичев поспешил пояснить:\n\n— Мы маленькие люди и должны жить соответственно званию.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:04:36 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411172"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Всё это раздражало и утомляло и делало будничную жизнь неприятной.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:04:35 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411173"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Зима протекала не весело. Везде в Москве играли в карты, но если вместо этого придумывали какое-нибудь другое развлечение, например, пели, читали, рисовали, то выходило еще скучнее. И оттого, что в Москве было мало талантливых людей и на всех вечерах участвовали всё одни и те же певцы и чтецы, само наслаждение искусством мало-помалу приелось и превратилось для многих в скучную, однообразную обязанность.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:04:34 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411174"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "никогда человек не бывает доволен тем, что у него есть.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:04:33 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411175"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Он шел и думал про нее: какова, должно быть, внутренняя сила у этой женщины, если, будучи такою некрасивой, угловатой, беспокойной, не умея одеться порядочно, всегда неряшливо причесанная и всегда какая-то нескладная, она все-таки обаятельна.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 16:41:38 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411176"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Лаптев вспомнил, что это самое или нечто подобное он слышал уже много раз когда-то давно, и на него пахнуло поэзией минувшего, свободой одинокой, холостой жизни, когда ему казалось, что он молод и может всё, что хочет, и когда не было любви к жене и воспоминаний о ребенке.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 16:40:50 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411177"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "— А всё-таки без любви нехорошо, — сказал Ярцев, идя за ней. — Мы всё только говорим и читаем о любви, но сами мало любим, а это, право, не хорошо.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 16:29:34 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411178"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "И ни о чем мать не говорит, только о ребенке. Я знаю эту слабость матерей и слежу за собой, но, право, моя Оля необыкновенная.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 16:27:56 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411179"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Жизнь текла обыкновенно, изо дня в день, не обещая ничего особенного.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 16:23:27 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411180"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "— А вы очень милы, надо вам сказать, — начал он. — Извините за трактирное сравнение, вы напоминаете мне свежепросоленный огурчик; он, так сказать, еще пахнет парником, но уже содержит в себе немножко соли и запах укропа. Из вас мало-помалу формируется великолепная женщина, чудесная, изящная женщина.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 14:51:19 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411181"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Лаптева не приглашали с собой, потому что обыкновенно он не ездил за город и потому что у него сидел теперь брат, но он понял это так, что его общество скучно для них, что он в этой веселой, молодой компании совсем лишний. И его досада, его горькое чувство были так сильны, что он едва не плакал; он даже был рад, что с ним поступают так нелюбезно, что им пренебрегают, что он глупый, скучный муж, золотой мешок, и ему казалось, что он был бы еще больше рад, если бы его жена изменила ему в эту ночь с лучшим другом и потом созналась бы в этом, глядя на него с ненавистью…",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 14:46:24 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411182"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Художественное произведение тогда лишь значительно и полезно, когда оно в своей идее содержит какую-нибудь серьезную общественную задачу, — говорил Костя, сердито глядя на Ярцева. — Если в произведении протест против крепостного права или автор вооружается против высшего света с его пошлостями, то такое произведение значительно и полезно. Те же романы и повести, где ах да ох, да она его полюбила, а он ее разлюбил, — такие произведения, говорю я, ничтожны и черт их побери.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 14:39:26 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411183"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Поручения исполнял он большею частью дурно. На него сыпались попреки, часто забывали заплатить ему за покупки, но он всегда молчал и в затруднительных случаях только вздыхал.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 14:38:21 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411184"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Она лежала и всё думала о том, как эта провинциальная жизнь бедна событиями, однообразна и в то же время беспокойна. То и дело приходится вздрагивать, чего-нибудь опасаться, сердиться или чувствовать себя виноватой, и нервы в конце концов портятся до такой степени, что страшно бывает выглянуть из-под одеяла.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 14:07:17 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411185"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Окна заиндевели.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:57 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411186"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Она любила наряжаться, но не умела и жалела на это деньги, и одевалась дурно и неряшливо, так что на улице обыкновенно, когда она, торопливо и широко шагая, шла на урок, ее легко можно было принять за молодого послушника.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:56 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411187"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Москва же развлекала ее, улицы, дома и церкви нравились ей очень, и если бы можно было ездить по Москве в этих прекрасных санях, на дорогих лошадях, ездить целый день, от утра до вечера, и при очень быстрой езде дышать прохладным осенним воздухом, то, пожалуй, она не чувствовала бы себя такой несчастной.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:55 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411188"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Нина родилась первая, родилась от сравнительно здоровой матери, и потому вышла крепче и лучше нас; я же и Федор были зачаты и рождены, когда мать была уже истощена постоянным страхом.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:55 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411189"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Старик обрадовался сыну, но считал неприличным приласкать его и как-нибудь обнаружить свою радость.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:54 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411190"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Лаптев жил теперь как в тумане, точно это не он был, а его двойник, и делал многое такое, чего бы он не решился сделать прежде.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:53 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411191"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Сидя потом у сестры и читая исторический роман, он вспоминал всё это, и ему было обидно, что на его великолепное, чистое, широкое чувство ответили так мелко; его не любили, но предложение его приняли, вероятно, только потому, что он богат, то есть предпочли в нем то, что сам он ценил в себе меньше всего.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:52 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411192"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Она замучилась, пала духом и уверяла себя теперь, что отказывать порядочному, доброму, любящему человеку только потому, что он не нравится, особенно когда с этим замужеством представляется возможность изменить свою жизнь, свою невеселую, монотонную, праздную жизнь, когда молодость уходит и не предвидится в будущем ничего более светлого, отказывать при таких обстоятельствах — это безумие, это каприз и прихоть, и за это может даже наказать бог.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:51 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411193"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "В священном писании сказано, что жена должна любить своего мужа, и в романах любви придается громадное значение, но нет ли преувеличения в этом?",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:51 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411194"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Она представила себе всех знакомых мужчин — чиновников, педагогов, офицеров, и одни из них были уже женаты и их семейная жизнь поражала своею пустотой и скукой, другие были неинтересны, бесцветны, неумны, безнравственны.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:50 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411195"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Правда, это нелюбимый человек и выйти за него значило бы проститься навсегда со своими мечтами, своими понятиями о счастье и супружеской жизни, но встретит ли она когда-нибудь того, о ком мечтала, и полюбит ли?",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:50 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411196"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Его пугало одиночество, и почему-то казалось ему, что если он останется в этом большом доме один, то с ним сделается апоплексический удар, но об этом он не любил говорить прямо.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:49 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411197"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Он стеснял ее своими капризами, чрезмерною обидчивостью и неопределенными жестами; и стоило только завести с ним разговор, как он тотчас же начинал говорить о себе самом.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:49 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411198"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "В одиночестве с каждым часом ее тревога становилась всё сильнее, и ей одной было не под силу справиться с этим тяжелым чувством. Надо было, чтобы кто-нибудь выслушал ее и сказал ей, что она поступила правильно.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:48 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411199"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Она уже не помнила, что сказала Лаптеву, но продолжала еще ощущать следы того порывистого, неприятного чувства, с каким отказала ему.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:47 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411200"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Но вот мало-помалу наступило безразличное настроение, в какое впадают преступники после сурового приговора, он думал уже о том, что, слава богу, теперь всё уже прошло, и нет этой ужасной неизвестности, уже не нужно по целым дням ожидать, томиться, думать всё об одном; теперь всё ясно; нужно оставить всякие надежды на личное счастье, жить без желаний, без надежд, не мечтать, не ждать, а чтобы не было этой скуки, с которой уже так надоело нянчиться, можно заняться чужими делами, чужим счастьем, а там незаметно наступит старость, жизнь придет к концу — и больше ничего не нужно. Ему уж было всё равно, он ничего не хотел и мог холодно рассуждать, но в лице, особенно под глазами, была какая-то тяжесть, лоб напрягался, как резина, — вот-вот брызнут слезы",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:46 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411201"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Лаптев понял, что это значит, и настроение у него переменилось сразу, резко, как будто в душе внезапно погас свет. Испытывая стыд, унижение человека, которым пренебрегли, который не нравится, противен, быть может, гадок, от которого бегут, он вышел из дому.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:46 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411202"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Ах, голубчик, как вообще мне не везло в любви! Я никогда не имел успеха у женщин, а если говорю опять, то потому только, что как-то грустно и обидно сознаваться перед самим собой, что молодость моя прошла вовсе без любви и что настоящим образом я люблю впервые только теперь, в тридцать четыре года. Пусть будет опять люблю.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:45 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411203"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "— Вы влюбитесь и будете страдать, разлюбите, будут вам изменять, потому что нет женщины, которая бы не изменяла, вы будете страдать, приходить в отчаяние и сами будете изменять. Но настанет время, когда всё это станет уже воспоминанием и вы будете холодно рассуждать и считать это совершенными пустяками…",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:45 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411204"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Нина Федоровна обожала своего мужа. И теперь, слушая исторический роман, она думала о том, как она много пережила, сколько выстрадала за всё время, и что если бы кто-нибудь описал ее жизнь, то вышло бы очень жалостно.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:44 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411205"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Когда человек неудовлетворен и чувствует себя несчастным, то какою пошлостью веет на него от этих лип, теней, облаков, от всех этих красот природы, самодовольных и равнодушных!",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:43 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411206"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "— Скажите, — спросил он, — не пригласить ли нам из Москвы какого-нибудь специалиста по внутренним болезням? Как вы думаете?\n\nДоктор вздохнул, пожал плечами и сделал обеими руками неопределенный жест.\n\nБыло очевидно, что он обиделся. Это был чрезвычайно обидчивый, мнительный доктор, которому всегда казалось, что ему не верят, что его не признают и недостаточно уважают, что публика эксплоатирует его, а товарищи относятся к нему с недоброжелательством. Он всё смеялся над собой, говорил, что такие дураки, как он, созданы только для того, чтобы публика ездила на них верхом.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:43 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411207"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "И кабинет его с подушками на диванах, с кипами старых бумаг по углам и с больным грязным пуделем под столом производил такое же растрепанное, шершавое впечатление, как он сам.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:42 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411208"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Друг, можно сказать, детства и вдруг вышли в такие вельможи-с!",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-10 13:58:41 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411209"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "ему показалось, что он в самом деле принес отечеству очень много пользы и что не будь его на свете, то, пожалуй, отечеству пришлось бы очень плохо.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:56:54 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411210"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Однажды оба они ехали в вагоне железной дороги и старались победить одну девицу. Крюгер сидел около этой девицы и рассыпался перед ней мелким бесом, Смирнов же молчал, мигал глазами и с вожделением облизывался.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:46:21 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411211"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Водка бела, но красит нос и чернит репутацию.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:43:43 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411212"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Он укрылся одеялом и стал думать. Думы были мучительные, скверные",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:38:54 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411213"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "привела многие недалекие умы в смятение.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:33:44 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411214"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Но где слава, там завистники и недоброжелатели.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:33:20 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411215"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Рассказывают, что А. И. в первую минуту своей жизни, взглянув на принимавшую его повитуху, горько заплакал и этим уже показал свое недовольство современной медициной.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:31:26 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411216"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Читай и не вникай в эту умственность.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:24:47 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411217"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Семипалатов поморщился: проза прервала поэзию на самом интересном месте.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:22:54 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411218"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Иван Петрович хотел дальше продолжать, но от восторга не мог выговорить ни одного слова и улыбнулся так широко и слащаво, что антрепренер, глядя на него, почувствовал во рту сладость.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:21:56 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411219"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "«В ожидании отхода поезда обозревал физиогномию начальника станции и остался ею весьма недоволен. Объявляю о сем по линии. Неунывающий дачник».",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:20:24 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411220"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Возьмем хоть вот этот рубль к примеру… Что он? Падает ведь, унижен, осрамлен, очернился паче сажи, потерял всякую добропорядочную репутацию, а люблю его! Люблю его, несмотря на все его недостатки, и прощаю… Ничего, брат, с моим добрым характером не поделаешь!",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:17:17 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411221"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Прочел я однажды в «Вестнике Европы» статью о вреде лесоистребления и почувствовал угрызения совести. Мне и ранее, откровенно говоря, было жаль употреблять нашу милую, зеленую березу для таких низменных целей, как педагогия.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:12:57 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411222"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Есть, ma chere, на земле люди, которые смотрят за тем, чтобы у ближних в головах и карманах ничего лишнего не было.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:11:31 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411223"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Письма обывателей до того скучны, что просто тошно делается!",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:09:31 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411224"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Один правовед сказал мне, что самая лучшая и безвредная специальность — это лежать на диване, задрав вверх ноги, и плевать в потолок; но я, честный, глупый леший, не поверил ему!",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-07 20:09:14 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411225"
+  },
+  {
+    "book_title": "Пестрые рассказы",
+    "book_authors": "Антон Чехов",
+    "content": "Множество мыслей, маленьких и больших, закопошилось в его голове.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-08-29 23:00:33 +0300",
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411226"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "— До тех пор, пока люди будут любить друг друга, пока красота души и тела будет самой лучшей и самой сладкой мечтой в мире, до тех пор, клянусь тебе, Суламифь, имя твое во многие века будет произноситься с умилением и благодарностью.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:04:54 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "— Благодарю тебя, мой царь, за все: за твою любовь, за твою красоту, за твою мудрость, к которой ты позволил мне прильнуть устами, как к сладкому источнику. Дай мне поцеловать твои руки, не отнимай их от моего рта до тех пор, пока последнее дыхание не отлетит от меня. Никогда не было и не будет женщины счастливее меня. Благодарю тебя, мой царь, мой возлюбленный, мой прекрасный. Вспоминай изредка о твоей рабе, о твоей обожженной солнцем Суламифи.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:33 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "«Положи меня, как печать, на сердце твоем, как перстень, на руке твоей, потому что крепка, как смерть, любовь и жестока, как ад, ревность: стрелы ее — стрелы огненные».",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:33 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "я хочу тебя попросить о чем-то...\n\n— О Суламифь, — все, что хочешь! Попроси у меня мою жизнь — я с восторгом отдам ее тебе. Я буду только жалеть, что слишком малой ценой заплатил за твою любовь.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:32 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Мы с тобою встретимся, Суламифь, и мы не узнаем друг друга, но с тоской и с восторгом будут стремиться наши сердца навстречу, потому что мы уже встречались с тобою, моя кроткая, моя прекрасная Суламифь, но мы не помним этого.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:31 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Жизнь человеческая коротка, но время бесконечно, и вещество бессмертно. Человек умирает и утучняет гниением своего тела землю, земля вскармливает колос, колос приносит зерно, человек поглощает хлеб и питает им свое тело. Проходят тьмы и тьмы тем веков, все в мире повторяется, — повторяются люди, звери, камни, растения. Во многообразном круговороте времени, и вещества повторяемся и мы с тобою, моя возлюбленная.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:31 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "С тех пор как Соломон охладел к царице Астис, утомленный ее необузданной чувственностью, она со всем пылом южного сладострастия и со всей яростью оскорбленной женской ревности предалась тем тайным оргиям извращенной похоти, которые входили в высший культ скопческого служения Изиде.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:30 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Сквозь прозрачную материю розово светилась ее кожа и видны были все чистые линии и возвышения ее стройного тела, которое до сих пор, несмотря на тридцатилетний возраст царицы, не утеряло своей гибкости, красоты и свежести.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:30 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "— Освежите меня яблоками, подкрепите меня вином, ибо я изнемогаю от любви.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:29 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Семьсот жен у меня и триста наложниц, а девиц я знал без числа, но ты единственная моя, кроткая моя, прекраснейшая из женщин.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:29 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "— Тысячи женщин до тебя, о моя прекрасная, задавали своим милым этот вопрос, и сотни веков после тебя они будут спрашивать об этом своих милых. Три вещи есть в мире, непонятные для меня, и четвертую я не постигаю: путь орла в небе, змеи на скале, корабля среди моря и путь мужчины к сердцу женщины.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:28 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Сердце мое затрепетало и раскрылось навстречу к тебе, как раскрывается цветок во время летней ночи от южного ветра. Чем ты так пленил меня, мой возлюбленный?",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:28 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Семьсот жен я знал, и триста наложниц, и девиц без числа, но единственная — ты, прекрасная моя!",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:27 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "камень Шамир. Греки называют его Адамас, что значит — неодолимый.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:27 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Но вот на этом месте я целую твою милую руку, опаленную солнцем, и клянусь тебе, что еще никогда: ни в пору первых любовных томлений юности, ни в дни моей славы, не горело мое сердце таким неутолимым желанием, которое будит во мне одна твоя улыбка, одно прикосновение твоих огненных кудрей, один изгиб твоих пурпуровых губ!",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 01:02:26 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Сестра моя, возлюбленная моя, ты пленила сердце мое одним взглядом твоих очей, одним ожерельем на твоей шее.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:40:37 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Но тогда не знал еще царь, что скоро пошлет ему бог такую нежную и пламенную, преданную и прекрасную любовь, которая одна дороже богатства, славы и мудрости, которая дороже самой жизни, потому что даже жизнью она не дорожит и не боится смерти.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:29:02 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "— Все суета сует и томление духа, — так говорит Екклезиаст.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:28:29 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "И понял царь, что во многой мудрости много печали, и кто умножает познание — умножает скорбь.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:28:10 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "И увидел он в своих исканиях, что участь сынов человеческих и участь животных одна: как те умирают, так умирают и эти, и одно дыхание у всех, и нет у человека преимущества перед скотом.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:28:06 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Но ничего не находил царь в обрядах языческих, кроме пьянства, ночных оргий, блуда, кровосмешения и противоестественных страстей, и в догматах их видел суесловие и обман.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:27:22 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "«Слово — искра в движении сердца», — так говорил царь.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:24:28 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Одно имя царя Соломона, произнесенное вслух, волновало сердце женщин, как аромат пролитого мирра, напоминающий о ночах любви.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:20:23 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Глаза же у царя были темны, как самый темный агат, как небо в безлунную летнюю ночь",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:19:52 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "И всех их очаровывал своей любовью Соломон, потому что бог дал ему такую неиссякаемую силу страсти, какой не было у людей обыкновенных.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:15:05 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Семьсот жен было у царя и триста наложниц, не считая рабынь и танцовщиц.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:14:59 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Суламифь",
+    "book_authors": "Александр Куприн",
+    "content": "Чего бы глаза царя ни пожелали, он не отказывал им и не возбранял сердцу своему никакого веселия.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 23:14:55 +0300",
+    "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "frolic",
+    "comment": "резвость",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:15:45 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "precipitously",
+    "comment": "стремительно",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:15:29 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "virtuous",
+    "comment": "добродетельный",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:15:00 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "insolence",
+    "comment": "наглость",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:11:15 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Flayed",
+    "comment": "Освежеванный",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:10:56 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "bowed in meek submission",
+    "comment": "склонился в кроткой покорности",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:08:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "obsequies",
+    "comment": "погребальные обряды",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:06:29 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "entreaty",
+    "comment": "мольба",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:06:19 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "logjam",
+    "comment": "затор",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:04:05 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "incessant clamour",
+    "comment": "непрекращающийся шум",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:02:50 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "nagged",
+    "comment": "раздраженный",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:02:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "indignant",
+    "comment": "возмущенный",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:00:55 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "impropriety",
+    "comment": "неуместность",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:00:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "entreaties",
+    "comment": "мольбы",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:58:52 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "manacles",
+    "comment": "кандалы",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:57:07 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "contrived",
+    "comment": "изобретенный",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:56:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "flutter",
+    "comment": "трепетать",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:53:45 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "whimper",
+    "comment": "хныканье",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:53:36 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "plundering",
+    "comment": "разграбление",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:51:55 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "guileful",
+    "comment": "коварный",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:45:11 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "preposterous",
+    "comment": "нелепый",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:44:18 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "vainglorious",
+    "comment": "тщеславный",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:43:25 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "I abominate, loathe, despise and abhor him,",
+    "comment": "Я испытываю к нему отвращение, немилость, презираю его,",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:40:21 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "beguiling",
+    "comment": "соблазнительный",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:38:43 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Fratricide",
+    "comment": "Братоубийство",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:38:04 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Sisyphus hated Salmoneus so much it robbed him of his sleep.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 13:37:35 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "enmity",
+    "comment": "враждебность",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:37:27 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "foolhardy",
+    "comment": "безрассудно",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:36:01 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "unquenchable zest",
+    "comment": "неугасимый пыл",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:32:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "defiance",
+    "comment": "неповиновение",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:32:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "tantalized",
+    "comment": "дразнящий",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:31:49 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "There Tantalus stands to this day, agonizingly close to satisfaction, but always denied it, enacting the tortured frustration that bears his name – tantalized, but never satisfied, until the end of time.fn8",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 13:31:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "bough",
+    "comment": "сук",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:30:43 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "ostentatious",
+    "comment": "показной",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:28:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "opulent",
+    "comment": "пышный",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:28:29 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "repentance",
+    "comment": "раскаяние",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:27:50 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "ramifications",
+    "comment": "последствия",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:25:44 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "temerity",
+    "comment": "безрассудство",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:24:50 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "revolves",
+    "comment": "вращается",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:20:10 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "firmament",
+    "comment": "небесный свод",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:20:06 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "sprawled",
+    "comment": "распростертый",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:19:26 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "incensed",
+    "comment": "разгневанный",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:18:56 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "heinous",
+    "comment": "отвратительный",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:18:48 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "lewd",
+    "comment": "непристойный",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:18:25 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "congenital boorish idiocy",
+    "comment": "врожденный хамский идиотизм",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:17:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "revulsion",
+    "comment": "отвращение",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:17:15 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "catharsis, the ritual process of purification that would redeem him.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 13:16:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "aptness",
+    "comment": "пригодность",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:14:53 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "gruesome",
+    "comment": "ужасный",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:14:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "admonishing",
+    "comment": "увещевающий",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:14:34 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "precepts",
+    "comment": "предписания",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:14:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Such astounding rebelliousness was not to be brooked.",
+    "comment": "С таким поразительным бунтарством нельзя было мириться.",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:10:48 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "brooked",
+    "comment": "терпимый",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:10:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "ascendancy",
+    "comment": "господство",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:09:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "subverting",
+    "comment": "подрывающий",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:09:11 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "convalescence, the return of a patient to full health.",
+    "comment": "выздоровление, возвращение пациента к полному здоровью.",
+    "color": "yellow",
+    "created_at": "2023-09-14 13:08:20 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "unassuageable",
+    "comment": "неустранимый",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:58:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "gnawed",
+    "comment": "обглоданный",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:57:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "his appetite was unsated",
+    "comment": "его аппетит был неудовлетворен",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:57:45 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "scurfy hair",
+    "comment": "растрепанные волосы",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:56:33 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "peckish",
+    "comment": "голодный",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:55:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "harbinger",
+    "comment": "предвестник",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:52:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "herald",
+    "comment": "вестник",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:52:18 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "sacrilege",
+    "comment": "святотатство",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:51:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "impetuous",
+    "comment": "стремительный",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:51:03 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "wreath",
+    "comment": "венок",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:50:41 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "abhorrent",
+    "comment": "отвратительный",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:45:34 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "profanity",
+    "comment": "кощунство",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:45:27 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "ogling",
+    "comment": "глазеющий",
+    "color": "yellow",
+    "created_at": "2023-09-14 12:45:15 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "inebriation",
+    "comment": "опьянение",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:17:09 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "When nineteenth-century biologists looked down their microscopes and saw a bacterium with a tail, from which clusters of grape-like nodules sprouted, they called it Staphylococcus. ‘Methylated spirits’ and ‘methane’ take their names from Methe. Botrytis, the ‘noble rot’ that benignly affects grapes on the vine, lending premium dessert wines their incomparable (and shatteringly expensive) bouquet, owes its name to Botrys.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 22:15:18 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "splendidly exemplifies",
+    "comment": "великолепно иллюстрирует",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:15:01 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "viticulture",
+    "comment": "виноградарство",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:13:43 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "enmity",
+    "comment": "враждебность",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:13:23 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "first draught of wine.",
+    "comment": "первый глоток вина.",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:12:24 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "mangled",
+    "comment": "искореженный",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:11:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "foolhardy",
+    "comment": "безрассудно",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:11:22 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "besotted",
+    "comment": "одурманенный",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:10:44 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "revelry",
+    "comment": "разгул",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:10:08 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "rout",
+    "comment": "раут",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:09:59 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "weaned",
+    "comment": "отлученный от груди",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:09:48 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "magisterial",
+    "comment": "властный",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:02:48 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "incredulous",
+    "comment": "недоверчивый",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:01:53 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "hotly indignant",
+    "comment": "горячо возмущенный",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:01:19 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "wondrous",
+    "comment": "чудесный",
+    "color": "yellow",
+    "created_at": "2023-09-13 22:00:19 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "hag",
+    "comment": "карга",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:56:41 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "In the fervour of his new infatuation he managed conveniently to forget",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 21:55:56 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The eruption of lust he had felt was all over, but he was surprised to feel the stirrings of something deeper, glowing like embers in his heart.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 21:53:31 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "wept",
+    "comment": "плакал",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:53:05 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "dazzle",
+    "comment": "ослеплять",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:51:37 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "writhing",
+    "comment": "извивающийся",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:47:30 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "insupportable dread.",
+    "comment": "невыносимый страх.",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:46:31 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "weary",
+    "comment": "утомленный",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:46:12 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "unable to restrain the itchy feet of wanderlust",
+    "comment": "не в силах сдержать зуд в ногах от жажды странствий",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:45:00 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Consigned to the Dust",
+    "comment": "Обращенный в прах",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:44:38 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "equivocating",
+    "comment": "двусмысленный",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:43:45 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "giddy",
+    "comment": "головокружительный",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:43:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "calamity",
+    "comment": "бедствие",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:42:00 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "grievance",
+    "comment": "жалоба",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:41:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Aphrodite lent Harmonia her girdle, a magical item of lingerie that had the power to provoke the most dizzying and rapturous desire.fn10 It is said that Harmonia was bed-shy and that her love for Cadmus had yet to be consummated.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 21:40:00 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Descended from Titans and gods, allied to and punished by Olympians, but very mortal and very human, the pair might nowadays be called an ‘iconic power couple’.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 21:39:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "fray",
+    "comment": "столкновение",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:17:08 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "horrid din",
+    "comment": "ужасный грохот",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:15:15 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "straining",
+    "comment": "напрягающий",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:13:22 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "furrows",
+    "comment": "борозды",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:12:30 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Show too much loyalty and service to one and you risked provoking the enmity of another.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 21:10:29 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "impunity",
+    "comment": "безнаказанность",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:09:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Heroes do not wring their hands and wonder, heroes act.",
+    "comment": "Герои не заламывают руки и не удивляются, герои действуют.",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:07:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "irked",
+    "comment": "раздраженный",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:06:47 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "perplex",
+    "comment": "запутывать",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:06:23 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "cruel hoax",
+    "comment": "жестокий розыгрыш",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:06:18 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "plume of dust",
+    "comment": "столб пыли",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:05:17 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "amble away.",
+    "comment": "уходи неторопливой походкой.",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:03:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "faintly stunned",
+    "comment": "слегка ошеломленный",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:03:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "derision",
+    "comment": "высмеивание",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:02:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "chamberlain",
+    "comment": "камергер",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:01:55 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "competition against which Cadmus pitted himself",
+    "comment": "соревнование, против которого выступил Кадмус",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:01:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "wistfully",
+    "comment": "задумчиво",
+    "color": "yellow",
+    "created_at": "2023-09-13 21:00:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "She did this not in worshipful admiration but to muffle her laughter – she found the men’s vanity when it came to physical prowess endlessly amusing.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 20:59:38 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "retinue",
+    "comment": "свита",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:56:30 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "allotting",
+    "comment": "выделение",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:45:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "heifer",
+    "comment": "телка",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:45:04 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Europa was entranced.",
+    "comment": "Европа была очарована.",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:44:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "recrimination",
+    "comment": "взаимные обвинения",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:44:00 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "heed",
+    "comment": "внимайте",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:43:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "javelins",
+    "comment": "копья",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:43:09 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "trot",
+    "comment": "рысь",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:42:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Levant (modern-day Lebanon).",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 20:40:48 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "bulge",
+    "comment": "выпуклость",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:40:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "And though greatly he failed, more greatly he dared.",
+    "comment": "И хотя он сильно потерпел неудачу, еще больше он осмелился.",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:39:44 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "youthful impetuosity,",
+    "comment": "юношеская порывистость,",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:39:29 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "taunts",
+    "comment": "насмешки",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:38:03 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Phaeton’s affectionate friend Cygnus went to the River Eridanos, into whose waters poor dead Phaeton had plunged. He sat there on the bank mourning the loss of his lover with such a plaintive wail that a distraught Apollo struck him dumb and finally, out of pity and remorse for the youth’s ceaseless but now silent and inconsolable suffering, transformed him into a beautiful swan. This species, the mute swan, became holy to Apollo. In remembrance of the death of the beloved Phaeton the bird is silent all its life until the very moment of its death, when it sings with terrible melancholy its strange and lovely goodbye, its swan song. In honour of Cygnus the young of all swans are called ‘cygnets’.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 20:36:50 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "inconsolable suffering,",
+    "comment": "безутешное страдание,",
+    "color": "yellow",
+    "created_at": "2023-09-13 20:36:02 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "whinny",
+    "comment": "ржание",
+    "color": "yellow",
+    "created_at": "2023-09-13 18:11:38 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Phaeton caught from her a fragrance which he could not name but which made him dizzy with delight.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 18:09:59 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "He was filled with awe, but felt too a sudden stab of fear which he tried to play off as thrilled anticipation",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 18:09:49 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "earnestness",
+    "comment": "серьезность",
+    "color": "yellow",
+    "created_at": "2023-09-13 18:06:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Remiss of me",
+    "comment": "Небрежность с моей стороны",
+    "color": "yellow",
+    "created_at": "2023-09-13 18:06:12 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "smouldered",
+    "comment": "тлеющий",
+    "color": "yellow",
+    "created_at": "2023-09-13 18:05:25 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "flustered",
+    "comment": "взволнованный",
+    "color": "yellow",
+    "created_at": "2023-09-13 18:05:08 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "the fruit of my loins.",
+    "comment": "плод моих чресел.",
+    "color": "yellow",
+    "created_at": "2023-09-13 18:04:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "insufferable snob",
+    "comment": "невыносимый сноб",
+    "color": "yellow",
+    "created_at": "2023-09-13 18:01:25 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "exasperatingly condescending",
+    "comment": "раздражающе снисходительный",
+    "color": "yellow",
+    "created_at": "2023-09-13 18:00:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "maddeningly",
+    "comment": "сводящий с ума",
+    "color": "yellow",
+    "created_at": "2023-09-13 17:57:47 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Shrines",
+    "comment": "Святыни",
+    "color": "yellow",
+    "created_at": "2023-09-13 17:53:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "One day, unable to control his lust, he tracked her down to some corner of high Olympus and tried to force himself on her.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 17:50:11 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Io may have been a cow, but she was a very influential and important one.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 17:49:35 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Supposedly Zeus impregnated Io just by gently laying a hand on her – Epaphus means ‘touch’.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 17:49:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "relent",
+    "comment": "смягчаться",
+    "color": "yellow",
+    "created_at": "2023-09-13 17:47:06 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Io, meanwhile, charged on along the northern shore of the Aegean Sea, swimming over at the place where Europe becomes Asia, the spot we still call in her honour the cow-crossing, or in Greek, the Bosporus",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 17:46:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "gadfly",
+    "comment": "овод",
+    "color": "yellow",
+    "created_at": "2023-09-13 17:45:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "rogue",
+    "comment": "мошенник",
+    "color": "yellow",
+    "created_at": "2023-09-13 17:44:17 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "wiliest",
+    "comment": "самый хитрый",
+    "color": "yellow",
+    "created_at": "2023-09-13 17:44:04 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "PANOPTES, the ‘all-seeing’.",
+    "comment": "ПАНОПТЕС, ‘всевидящий’.",
+    "color": "yellow",
+    "created_at": "2023-09-13 17:42:37 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Hera knew her husband all too well. Once his libidinous propensities were aroused there would be no taming them",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 17:41:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "It is easier to hide a hundred mountains from a jealous wife than one mistress.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 17:39:41 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "would stretch her anger to its limits",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 17:38:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "would stretch her anger to its limits",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 17:38:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "When lust descends, discretion, common sense and wisdom fly off and what may seem cunning concealment to one in the grip of passion looks like transparently clumsy idiocy to everyone else.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 16:45:49 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "vexed",
+    "comment": "раздосадованный",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:34:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The people began to murmur and grumble.",
+    "comment": "Народ начал роптать.",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:33:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "calamitous",
+    "comment": "пагубный",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:31:41 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "repent",
+    "comment": "каяться",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:29:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "splendid",
+    "comment": "великолепный",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:18:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "indignantly",
+    "comment": "возмущенно",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:16:59 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "guileless",
+    "comment": "бесхитростный",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:16:01 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The sisters clung to each other and sobbed their hearts out.",
+    "comment": "Сестры прижались друг к другу и рыдали навзрыд.",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:13:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "It was all too monstrously unjust:",
+    "comment": "Все это было слишком чудовищно несправедливо:",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:12:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "It was so appallingly unfair.",
+    "comment": "Это было так ужасно несправедливо.",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:12:10 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "tittered",
+    "comment": "захихикал",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:03:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "She looked appallingly beautiful.",
+    "comment": "Она выглядела потрясающе красивой.",
+    "color": "yellow",
+    "created_at": "2023-09-13 16:00:35 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "ardour",
+    "comment": "пыл",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:58:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "pining",
+    "comment": "тоскующий",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:57:36 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "‘What ails you, beloved wife?’",
+    "comment": "- Что с тобой, любимая жена?",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:56:55 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The ‘monster’ with whom she slept every night was, you will have guessed, the god Eros whose self-inflicted dart had caused him to fall in love with Psyche, a love now magnified by their repeated nights of mutual bliss.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 15:55:50 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "strewn",
+    "comment": "усеянный",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:47:31 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "handmaidens, here to do your bidding.",
+    "comment": "служанки, я здесь, чтобы выполнить ваш приказ.",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:47:00 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "twitch",
+    "comment": "подергивание",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:46:31 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "edifice",
+    "comment": "сооружение",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:44:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "crude",
+    "comment": "сырой",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:44:37 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "hovel",
+    "comment": "лачуга",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:44:30 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "rapacious",
+    "comment": "хищный",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:43:52 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "turrets",
+    "comment": "башенки",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:43:26 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "ramshackle",
+    "comment": "ветхий",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:42:56 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "gust",
+    "comment": "порыв",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:41:36 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Larks",
+    "comment": "Жаворонки",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:40:44 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "lamentations",
+    "comment": "причитания",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:40:13 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "gloomy but resigned",
+    "comment": "мрачный, но покорный",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:38:52 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "So it is ordained, so it must be.",
+    "comment": "Так предначертано, так должно быть.",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:38:10 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "lovestruck",
+    "comment": "влюбленный",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:35:55 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "flustered",
+    "comment": "взволнованный",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:35:37 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "clamber",
+    "comment": "карабкаться",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:35:19 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "swineherd",
+    "comment": "свинопас",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:34:55 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "bristly",
+    "comment": "щетинистый",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:34:46 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "quiverful of arrows.",
+    "comment": "колчан, полный стрел.",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:31:05 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "quiverful",
+    "comment": "трепещущий",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:30:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "EROS – the strain of love named after the god, or after whom the god is named. The kind that gets us into most trouble. So much more than affectionate, so much less than spiritual, eros and the erotic can lead us to glory and to disgrace, to the highest pitch of happiness and the deepest pit of despair.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 15:23:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "storgic",
+    "comment": "сторгический",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:23:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Eros can be as capricious, mischievous, random and cruel as love itself.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 15:22:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "POTHOS – the personification of languorous longing, of love for the absent and the departed.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 15:20:01 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "HERMAPHRODITUS – the protector of effeminate males, mannish females and those of what we would now call a more fluid gender.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 15:19:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "callous",
+    "comment": "черствый",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:15:25 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "She departed in a sulky surge, shocked and humiliated by the new and unwelcome experience of rejection.",
+    "comment": "Она ушла в мрачном настроении, потрясенная и униженная новым и нежеланным переживанием отказа.",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:14:30 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "exerted herself mightily to win him",
+    "comment": "приложила все усилия, чтобы завоевать его",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:14:11 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Salmacis had a reputation for vanity and indolence.",
+    "comment": "Салмацис слыл человеком тщеславным и ленивым.",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:13:50 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "toiling",
+    "comment": "тяжкий труд",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:09:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Your name will become a laughing stock.’",
+    "comment": "Твое имя станет посмешищем.’",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:05:34 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "‘You dare to defy me?’",
+    "comment": "- Ты смеешь бросать мне вызов?",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:04:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "frantic with worry",
+    "comment": "обезумевший от беспокойства",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:04:21 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "dementedly wandering",
+    "comment": "безумно блуждающий",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:04:01 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "span",
+    "comment": "промежуток",
+    "color": "yellow",
+    "created_at": "2023-09-13 15:01:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Demeter’s despair can hardly be described. We have all lost something precious to us – animal, vegetable or mineral – and passed through the agonizing stages of grief, fright and anger that sudden dispossession can cause. When the loss is so personal, unforeseen, absolute and impossible to understand, those feelings are amplified to the most terrible degree.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 15:00:55 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "flitted",
+    "comment": "промелькнувший",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:59:30 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "rank, ugly vultures",
+    "comment": "гнусные, уродливые стервятники",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:55:20 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "vultures",
+    "comment": "грифы",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:54:53 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "folly of your actions.",
+    "comment": "глупость твоих поступков.",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:54:02 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "sulky muttering.",
+    "comment": "угрюмое бормотание.",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:52:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Zeus’s stinging sense of being wronged and ill-used flared up anew.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 14:51:43 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "fuss",
+    "comment": "суета",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:51:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "chisel",
+    "comment": "зубило",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:51:04 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "meddling",
+    "comment": "вмешательство",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:49:25 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "circumvented",
+    "comment": "обойденный",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:47:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "blithe",
+    "comment": "беззаботный",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:46:01 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The heroes and those deemed exceedingly righteous (as well as the dead who had some divine blood in them) found themselves transported to the Elysian Fields, which lay somewhere on the archipelago known as the Fortunate Isles, or Isles of the Blessed.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 14:44:47 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "muster point",
+    "comment": "точка сбора",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:43:53 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "disobliging",
+    "comment": "неуважительный",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:42:11 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Woe",
+    "comment": "Горе",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:41:52 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Hermes was assigned a new role – that of Arch Psychopomp, or ‘chief conductor of souls’ – a duty he discharged with his customary sprightliness and puckish humour.",
+    "comment": "Гермесу была назначена новая роль – Архип–психопомпа, или \"главного проводника душ\", - и эту обязанность он выполнял со своей обычной жизнерадостностью и озорным юмором.",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:41:26 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "appealed",
+    "comment": "обратился",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:40:20 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "votive",
+    "comment": "обетованный",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:39:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "They always paltered and prevaricated.",
+    "comment": "Они всегда лукавили и увиливали от ответа.",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:37:18 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "beseech",
+    "comment": "умолять",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:35:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "perspicacity",
+    "comment": "проницательность",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:34:00 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "stead",
+    "comment": "земельный участок",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:33:31 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "assuaged",
+    "comment": "успокоенный",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:30:10 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "pestilence",
+    "comment": "эпидемия",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:26:05 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "locusts",
+    "comment": "саранча",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:25:53 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "glorious",
+    "comment": "славный",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:24:52 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "skittish",
+    "comment": "пугливый",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:23:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "sundial",
+    "comment": "солнечные часы",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:22:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Temptation loses much of its power when removed from sight.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 14:22:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "vexing",
+    "comment": "раздражающий",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:22:27 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "virtuous",
+    "comment": "добродетельный",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:22:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "facile",
+    "comment": "легкий",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:20:24 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "attainments",
+    "comment": "достижения",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:20:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "inkling",
+    "comment": "намекающий",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:19:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "winningly",
+    "comment": "выигрышно",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:19:11 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "veneration",
+    "comment": "почитание",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:18:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "perspicacious",
+    "comment": "проницательный",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:18:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "guise",
+    "comment": "облик",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:18:05 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "earthenware",
+    "comment": "глиняная посуда",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:15:13 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "paragon",
+    "comment": "образец",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:14:44 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "bestowed",
+    "comment": "дарованный",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:14:37 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "conferred",
+    "comment": "посовещались",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:14:02 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "cunning",
+    "comment": "хитрость",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:13:33 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "poise",
+    "comment": "уравновешенность",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:13:20 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "jasper",
+    "comment": "яшма",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:12:56 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "For a whole week, watched by a grave and concerned Athena, the King of the Gods paced up and down in front of his throne considering how best humans should pay for daring to appropriate fire, for presuming to ape the Olympians.",
+    "comment": "Целую неделю под наблюдением серьезной и озабоченной Афины Царь Богов расхаживал взад-вперед перед своим троном, размышляя о том, как лучше всего люди должны заплатить за то, что осмелились присвоить огонь, за то, что осмелились подражать олимпийцам.",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:07:31 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "cold contempt.",
+    "comment": "холодное презрение.",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:05:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "impudent",
+    "comment": "бесстыжий",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:05:09 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "puny",
+    "comment": "хилый",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:05:01 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Ouranos was brought low by a son he had no regard for, but Zeus had been betrayed by the friend he loved most. No betrayal could be more terrible.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 14:03:56 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "tumultuous",
+    "comment": "беспорядочный",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:03:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "groggily",
+    "comment": "сонно",
+    "color": "yellow",
+    "created_at": "2023-09-13 14:01:01 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "forecourt",
+    "comment": "передний двор",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:59:05 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "had never defied him outright",
+    "comment": "никогда не бросал ему вызов прямо",
+    "color": "blue",
+    "created_at": "2023-09-13 13:58:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "taunted",
+    "comment": "насмехался",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:57:19 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Stalk",
+    "comment": "Стебель",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:56:12 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "His humans were happy, yes; but to Prometheus such a safe, unchallenged and unchallenging existence had no zest to it.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 13:55:13 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "wistful",
+    "comment": "задумчивый",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:53:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Perhaps we only imagined these first days of beautiful simplicity and universal kindness so that we could have a high point of paradisal sublimity against which to judge the low, degraded times that came after.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 13:53:29 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "sublimity",
+    "comment": "возвышенность",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:52:52 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "guile",
+    "comment": "коварство",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:49:47 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "startled",
+    "comment": "пораженный",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:48:20 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "consternation",
+    "comment": "испуг",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:45:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "wriggled",
+    "comment": "извивался",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:45:10 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "what would transpire.",
+    "comment": "что бы произошло.",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:44:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "meek",
+    "comment": "кроткий",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:42:24 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "With a cry of fury and despair Prometheus hurried forward to survey the damage.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 13:42:07 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "tentatively",
+    "comment": "робко",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:36:19 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "god seemed moody and irritable, less inclined to go for walks, less silly and playful and more prone to sulks and outbursts of petulance",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 13:20:23 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "sulks",
+    "comment": "дуется",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:20:03 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "petulance",
+    "comment": "раздражительность",
+    "color": "yellow",
+    "created_at": "2023-09-13 13:19:43 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "gaunt",
+    "comment": "тощий",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:48:43 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "jostle",
+    "comment": "толкаться",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:47:07 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "wayward",
+    "comment": "своенравный",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:45:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "quicksilver",
+    "comment": "ртуть",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:43:34 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "In the same way that I suggested Artemis and Athena might be considered to represent opposites (wild v. cultivated, impulsive v. considered, etc.) so the mutability, swiftness and energetic impulses of traffic and exchange personified by Hermes might be said to present an exact counter to the serenity, permanence, order and centred domestic sufficiency of Hestia.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 12:42:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "hucksters",
+    "comment": "торгаши",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:40:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "pert",
+    "comment": "дерзкий",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:39:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "ingratiate",
+    "comment": "снискать расположение",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:38:05 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "What a nutty bunch we are, eh?",
+    "comment": "Что мы за чокнутая компания, а?",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:35:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "roster",
+    "comment": "список",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:35:12 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "strum",
+    "comment": "бренчать",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:33:55 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "transfixed",
+    "comment": "ошеломленный",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:33:05 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "a quelling eye.",
+    "comment": "уничтожающий взгляд.",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:32:45 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "gurgled",
+    "comment": "булькало",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:31:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "bewitched",
+    "comment": "заколдованный",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:30:45 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "aspen",
+    "comment": "осина",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:29:22 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "entrails",
+    "comment": "внутренности",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:28:05 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "augury",
+    "comment": "предзнаменование",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:27:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "laurel",
+    "comment": "лавр",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:22:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "precocity",
+    "comment": "не по годам развитый",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:21:59 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "lowing",
+    "comment": "мычащий",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:21:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "pert",
+    "comment": "дерзкий",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:20:19 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Or, to put it another way, his sex-crazed glance fell on yet another appetizing immortal.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 12:18:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "recriminations",
+    "comment": "взаимные обвинения",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:18:33 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "chasm",
+    "comment": "бездна",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:14:36 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "to atone for his crime.",
+    "comment": "чтобы искупить свое преступление.",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:13:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "toiled",
+    "comment": "измученный",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:12:07 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "incensing",
+    "comment": "воспламеняющий",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:11:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Hera had done everything possible to prevent the birth of these living reminders of Zeus’s infidelity and her frustrated rage at her failure knew no bounds.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 12:10:33 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "chastity",
+    "comment": "целомудрие",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:07:27 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Inasmuch",
+    "comment": "Поскольку",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:07:08 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "giddy",
+    "comment": "головокружительный",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:05:49 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "stags",
+    "comment": "олени",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:05:26 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Appellations",
+    "comment": "Наименования",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:04:55 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Please one member of the family and you maddened another.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 12:03:56 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "reprobate",
+    "comment": "отверженный",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:03:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "whom she loftily characterized as a hoydenish tomboy and a disgrace to the dignity of feminine divinity.",
+    "comment": "которого она высокомерно охарактеризовала как дерзкого сорванца и позорящего достоинство женской божественности.",
+    "color": "yellow",
+    "created_at": "2023-09-13 12:02:52 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "dreadful pickle",
+    "comment": "ужасный маринад",
+    "color": "yellow",
+    "created_at": "2023-09-13 11:58:29 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "wrath",
+    "comment": "гнев",
+    "color": "yellow",
+    "created_at": "2023-09-13 11:58:01 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "demure",
+    "comment": "скромный",
+    "color": "yellow",
+    "created_at": "2023-09-13 11:55:18 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "always heard the hot urgings of passion.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 11:54:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "It was, as a Greek might say, her moira both to serve and to love.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 11:53:18 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Athena, like Demeter, remained untouched by man.fn22 Her childless, single life and her youthful relationship with Pallas have led some to maintain that she should stand as a symbol of feminine same-sex love.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 11:51:31 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "coercion",
+    "comment": "принуждение",
+    "color": "yellow",
+    "created_at": "2023-09-13 11:50:07 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "besotted",
+    "comment": "одурманенный",
+    "color": "yellow",
+    "created_at": "2023-09-13 11:49:30 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Athena’s simple gift was the first olive tree.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 11:47:13 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "bewildered amazement",
+    "comment": "сбитый с толку изумлением",
+    "color": "yellow",
+    "created_at": "2023-09-13 11:42:44 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "smithy",
+    "comment": "кузница",
+    "color": "yellow",
+    "created_at": "2023-09-13 11:40:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "so everyone racked their brains and tried to think of another solution",
+    "comment": "поэтому все ломали голову и пытались придумать другое решение",
+    "color": "yellow",
+    "created_at": "2023-09-13 11:40:30 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Each day the pain grew until Zeus was in the most acute, searing, blinding, pounding agony that had ever been suffered in the history of anything.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 11:39:23 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "guile",
+    "comment": "коварство",
+    "color": "yellow",
+    "created_at": "2023-09-13 11:35:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The spark that had always jumped between him and Metis threatened to burst into a great fire.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 11:35:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "She did not notice that, even now, her insatiable lord was watching with lustful eyes the dancing of LETO, a most beautiful nymph from the island of Kos.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 11:34:15 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The Greek for ‘immortal’ is ambrotos and ‘immortality’ itself is AMBROSIA, which became the name of the specially blessed honey.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 02:20:21 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Many plates were broken in ecstasy, a tradition that is carried on to this day wherever Greeks gather to eat, celebrate and earn tourist money.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 02:20:04 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "implacability",
+    "comment": "неумолимость",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:18:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Meliss is still the Greek word for the honeybee, and it is true that its sting is a suicide weapon of last resort.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 02:17:35 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "perkily",
+    "comment": "самоуверенно",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:16:38 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Wretched",
+    "comment": "Несчастный",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:14:55 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Zeus’s eyebrows gathered in a dark and troubled frown.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 02:14:09 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "ravishing",
+    "comment": "восхитительный",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:13:15 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "bulgy",
+    "comment": "выпуклый",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:12:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Something gloopy without being unguent, slow-moving without being stodgy, sweet without being cloying, and perfumed with a flavour that drove the senses wild with pleasure.",
+    "comment": "Что-нибудь тягучее, но не приторное, медлительное, но не тягучее, сладкое, но не приторное, и с ароматом, который сводит чувства с ума от удовольствия.",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:11:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "cloying",
+    "comment": "приторный",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:11:00 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "stodgy",
+    "comment": "скучный",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:10:53 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "heron",
+    "comment": "цапля",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:09:41 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "sniffing and blinking back tears.",
+    "comment": "шмыгая носом и смаргивая слезы.",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:08:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "wafting",
+    "comment": "доносящийся",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:08:31 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "anointed",
+    "comment": "помазанный",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:08:23 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "trestle",
+    "comment": "эстакада",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:08:07 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "hastily",
+    "comment": "торопливо",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:06:03 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "As for Hera – rather than acknowledge that she had been paid back for her cruel and unnatural betrayal of the maternal instinct, she maintained a dignified and frosty silence.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 02:04:29 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Despite – or perhaps because of – the pangs of rejection he had endured all his life, he was motivated not by anger or resentment but only by a desire to please, to make himself useful and give delight.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 02:03:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "gloating",
+    "comment": "злорадствующий",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:03:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "to try his hand at freeing Hera from her increasingly embarrassing predicament. All to no avail.",
+    "comment": "чтобы попробовать свои силы в освобождении Геры из ее все более затруднительного положения. Все безрезультатно.",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:02:20 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "peremptory",
+    "comment": "безапелляционный",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:00:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "hapless",
+    "comment": "несчастный",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:00:33 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "serve as his calling card to heaven.",
+    "comment": "послужи его визитной карточкой на небеса.",
+    "color": "yellow",
+    "created_at": "2023-09-13 02:00:07 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "With his awkward gait, slightly contorted features and disordered black curls, he was a fearful sight.",
+    "comment": "Со своей неуклюжей походкой, слегка искаженными чертами лица и растрепанными черными кудрями он представлял собой устрашающее зрелище.",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:58:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The screams were appalling.",
+    "comment": "Крики были ужасающими.",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:57:10 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "a nuptial feast, a grand public ceremony that would for ever bind her in wedlock to Zeus.",
+    "comment": "брачный пир, грандиозная публичная церемония, которая навеки свяжет ее узами брака с Зевсом.",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:55:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Love and war, Venus and Mars, have always had a strong affinity.",
+    "comment": "Любовь и война, Венера и Марс, всегда имели сильное сродство.",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:53:30 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "More perplexingly perhaps, she was equally drawn to him.",
+    "comment": "Возможно, еще более озадачивало то, что ее в равной степени тянуло к нему.",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:52:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "acknowledged with grudging consent that",
+    "comment": "признал с неохотным согласием, что",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:52:02 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "pugnacious",
+    "comment": "драчливый",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:51:19 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "parturition",
+    "comment": "роды",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:19:00 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "hurled",
+    "comment": "брошенный",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:18:17 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "swarthy",
+    "comment": "смуглый",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:18:08 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The Runt",
+    "comment": "Коротышка",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:17:38 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "dispensation",
+    "comment": "устроение",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:14:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "stammer",
+    "comment": "заикание",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:13:33 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "bore",
+    "comment": "скука",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:12:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "dowager",
+    "comment": "вдова",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:12:19 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "flair",
+    "comment": "чутье",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:12:05 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "exacting spiteful revenge",
+    "comment": "требующий злобной мести",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:10:26 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "a tyrant and a bore – jealous and suspicious, storming and ranting like the very picture of a scorned harridan wife",
+    "comment": "тиран и зануда – ревнивый и подозрительный, бушующий и разглагольствующий, как воплощение презираемой жены-карги",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:09:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "reactive always to the errant infidelities of her husband-brother Zeus.",
+    "comment": "всегда реагировала на странствующие измены своего мужа-брата Зевса.",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:07:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "errant",
+    "comment": "заблудший",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:07:38 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "haughty",
+    "comment": "надменный",
+    "color": "yellow",
+    "created_at": "2023-09-13 01:06:49 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Zeus gave Demeter responsibility for the harvest and with it sovereignty over growth, fertility and the seasons. Her Roman name was CERES, from which we get our word ‘cereal",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 22:56:34 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "colt",
+    "comment": "жеребенок",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:56:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "well, the question of who was the most beautiful goddess would turn out to be the most vexed, thorny and ultimately cataclysmic one ever asked.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 22:55:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "conch",
+    "comment": "раковина",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:53:51 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "soubriquet",
+    "comment": "прозвание",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:52:11 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "topple",
+    "comment": "опрокидывать",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:51:15 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "He always kept an eager, avaricious eye on the youngest of his brothers",
+    "comment": "Он всегда пристально, алчно следил за младшим из своих братьев",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:50:46 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "In common with his brothers and some of his sisters, he was also to exhibit urgent bodily lust, deep spiritual love and every feeling in between.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 22:49:55 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "unfathomable",
+    "comment": "непостижимый",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:49:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "truculent",
+    "comment": "грубый",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:49:20 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "In time Hades acquired a pet, a gigantic snake-tailed, three-headed dog, offspring of those monstrous children of Gaia and Tartarus, Echidna and Typhon. His name was KERBEROS (although he answered to his Roman name, CERBERUS, too). He was the original hound of hell, the fearsome and tireless watchdog and guardian of the underworld.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 22:46:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "From there the three of them could fly to all corners of the world to exact their revenge on those transgressors whose crimes were foul enough to merit their violent attentions.",
+    "comment": "Оттуда они втроем могли бы полететь во все уголки мира, чтобы отомстить тем преступникам, чьи преступления были достаточно отвратительны, чтобы заслужить их жестокое внимание.",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:44:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "lamentation and wailing. S",
+    "comment": "причитания и стенания.",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:41:01 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "woe",
+    "comment": "горе",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:40:09 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Hades also came to symbolize riches and opulence. The jewels and precious metals that are mined deep underground and the priceless crops of grain, vegetables and flowers that germinate beneath the earth are all reminders that from decay and death spring life, abundance and wealth. The Romans called him PLUTO and words like ‘plutocrat’ and ‘plutonium’ tell of this great opulence and power.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 22:39:00 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "merriment",
+    "comment": "веселье",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:38:08 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "A modest divinity, Hestia is usually depicted in a plain gown offering up flame in a bowl or sitting on a coarse woollen cushion on a simple wooden throne. It was the custom in Greece to say a grace to her before every meal.",
+    "comment": "Скромное божество, Гестия, обычно изображается в простом платье, подносящей пламя в чаше или сидящей на грубой шерстяной подушке на простом деревянном троне. В Греции был обычай читать ей молитву перед каждым приемом пищи.",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:18:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Refusing offers of marriage from the other gods, Hestia devoted herself to perpetual maidenhood. Placid, contented, kind, hospitable and domestic, she tended to stay away from the everyday power struggles and political machinations of the other gods",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 22:18:08 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The Latin for hearth is focus – which speaks for itself.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 22:15:57 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "hearth",
+    "comment": "очаг",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:15:00 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "unopposable might.",
+    "comment": "непреодолимая мощь.",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:09:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "firmament",
+    "comment": "небесный свод",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:08:56 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "To the victors, the spoils. L",
+    "comment": "Победителям - трофеи.",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:08:17 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "It was time for a new order, an order purged of the wasteful bloodlust and elemental brutality that had marked earlier times.",
+    "comment": "Пришло время для установления нового порядка, порядка, очищенного от расточительной жажды крови и элементарной жестокости, которыми были отмечены прежние времена.",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:07:50 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "showed magnanimity and mercy,",
+    "comment": "проявил великодушие и милосердие,",
+    "color": "yellow",
+    "created_at": "2023-09-12 22:03:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "As for Kronos – the dark unhappy soul who had once been Lord of All, the brooding and unnatural tyrant who ate his own children out of fear of prophecy – his punishment, just as his gelded father Ouranos had foretold, was ceaselessly to travel the world, measuring out eternity in inexorable, perpetual and lonely exile. Every day and hour and minute was his to be marked out, for Zeus doomed Kronos to count infinity itself.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 22:02:04 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "contorted",
+    "comment": "искаженный",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:59:24 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "enmity",
+    "comment": "враждебность",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:58:43 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "fell prey to diseases",
+    "comment": "пал жертвой болезней",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:57:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "denizens",
+    "comment": "обитатели",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:55:20 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "taloned",
+    "comment": "когтистый",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:53:15 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "benevolent",
+    "comment": "доброжелательный",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:51:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "vile and rapacious spirits of violent death.",
+    "comment": "мерзкие и алчные духи насильственной смерти.",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:50:56 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "carrion",
+    "comment": "падаль",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:50:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "smiling demurely.",
+    "comment": "скромно улыбаясь.",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:50:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "EUNOMIA, goddess of law and legislation, DIKÉ goddess of justice and the moral order (the Roman equivalent was JUSTITIA) and EIRENE, the goddess of peace (PAX to the Romans).",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:48:44 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "the benign relationship between natural law and the unfolding of time – what you might call ‘divine serendipity’.",
+    "comment": "благоприятная взаимосвязь между законом природы и ходом времени – то, что вы могли бы назвать ‘божественной прозорливостью’.",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:47:48 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "propitious moment",
+    "comment": "благоприятный момент",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:47:08 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Eurynome bore Zeus three ravishing daughters, AGLAEA (which means ‘splendour’), EUPHROSYNE also known as EUTHYMIA (glee, merriment, mirth) and THALIAfn6 (cheerfulness). Together they were known as the CHARITES or, to the Romans, the GRATIAE.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:45:41 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Zeus always found time to fulfil his desires. Perhaps he saw it as discharging his duty to populate the earth. It is certainly the case that Zeus liked to discharge.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:43:18 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Polyhymnia\n\nHymnos is the Greek for ‘praise’ and POLYHYMNIA was the Muse of hymns, of sacred music, dance, poetry and rhetoric as well as – slightly randomly one might think – agriculture, pantomime, geometry and meditation. I suppose today we would call her ‘the Muse of mindfulness’.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:41:03 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "CLIO or Kleio (famous) was the Muse of history. She was responsible for proclaiming, for noising abroad and making famous the deeds of the great.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:37:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "dross",
+    "comment": "шлак",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:36:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Auden believed that the image of a capricious goddess whispering ideas in the poet’s ear was the best way of accounting for the maddening unreliability of creative inspiration.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:36:16 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "the Pierian Spring, the metaphorical source of all the arts and sciences, flowed",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:35:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "So it was for the Greek cosmos, a creation that began with clunky and elemental lo-res outlines now exploded into rich, varied life.",
+    "comment": "Так было и с греческим космосом, творением, которое начиналось с неуклюжих и элементарных очертаний, а теперь воплотилось в богатую, разнообразную жизнь.",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:34:31 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "speciation",
+    "comment": "видообразование",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:33:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Proliferation",
+    "comment": "Распространение",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:31:26 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "called for a ceasefire.",
+    "comment": "призвал к прекращению огня.",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:31:06 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "ferocity",
+    "comment": "свирепость",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:28:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "blunder",
+    "comment": "оплошность",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:28:07 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "bellow",
+    "comment": "реветь",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:27:20 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "It was vexing that",
+    "comment": "Было досадно, что",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:24:23 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "coup de grâce",
+    "comment": "последний удар",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:23:25 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "exultation",
+    "comment": "ликование",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:22:59 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Kronos’s question turned into a sudden uprush of uncontrollable vomiting.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:20:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "surge",
+    "comment": "волна",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:20:17 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "incredulity",
+    "comment": "недоверие",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:19:05 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "proffered",
+    "comment": "предложенный",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:18:43 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "‘I have been awake for more days and nights than I can count. Hypnos and Morpheus have made themselves strangers to me.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:17:48 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Power over everything gave him no satisfaction",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:16:54 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "foul-tempered",
+    "comment": "скверный характер",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:16:33 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "devising",
+    "comment": "разрабатывая",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:15:14 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "to imagine and how to reason. How to find the strength to let passions cool before acting. How to make a plan and how to know when a plan needed to be changed or abandoned. How to let the head rule the heart and the heart win the affection of others.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:14:41 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "astounded",
+    "comment": "изумленный",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:13:56 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "impetuous",
+    "comment": "стремительный",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:12:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Zeus’s determined mother visited Crete whenever she felt able to slip away from the ever watchful Kronos.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:11:38 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Horn of Plenty, the CORNUCOPIA.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:11:22 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "downy",
+    "comment": "пушистый",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:09:20 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The Titans bowed low and Kronos gave a grunt of satisfaction that was the closest he ever came to an expression of happiness.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 21:08:02 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The Oath of Allegiance",
+    "comment": "Клятва верности",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:07:15 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "accouchement",
+    "comment": "роды",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:05:20 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "belch",
+    "comment": "отрыжка",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:04:45 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "imploring",
+    "comment": "умоляющий",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:04:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "pangs",
+    "comment": "муки",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:02:34 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "revere",
+    "comment": "чтить",
+    "color": "yellow",
+    "created_at": "2023-09-12 21:01:22 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Still Kronos continued to take his pleasure with Rhea and still she consented, loving him hopelessly and trusting that the monstrous eating of their firstborn had been some sort of aberration.",
+    "comment": "И все же Кронос продолжал получать удовольствие от Реи, и все же она согласилась, безнадежно любя его и веря, что чудовищное поедание их первенца было своего рода отклонением от нормы.",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:59:37 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "sullen",
+    "comment": "угрюмый",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:58:03 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "In Greek ‘from the foam’ can be rendered as something like APHRODITE,",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:55:10 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Brooding, simmering and raging in the ground, deep beneath the earth that once loved him, Ouranos compressed all his fury and divine energy into the very rock itself, hoping that one day some excavating creature somewhere would mine it and try to harness the immortal power that radiated from within. That could never happen, of course. It would be too dangerous. Surely the race has yet to be born that could be so foolish as to attempt to unleash the power of uranium?",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:52:48 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Brooding",
+    "comment": "Задумчивый",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:51:50 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "corralling",
+    "comment": "загон в угол",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:51:12 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "contrive",
+    "comment": "затевать",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:51:03 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "sneer",
+    "comment": "насмешка",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:50:07 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "‘There will be revenge. I curse your life, that it be ground out in slow remorseless perpetuity, its immortal eternity an insufferable burden without end.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:49:28 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "gnawing agony",
+    "comment": "грызущая агония",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:48:40 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "exuded",
+    "comment": "источал",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:48:22 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "scourges",
+    "comment": "бедствия",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:46:25 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "flayed",
+    "comment": "освежеванный",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:46:07 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "perpetrators",
+    "comment": "виновники преступлений",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:45:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "vengeance",
+    "comment": "отмщение",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:45:03 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "remorseless",
+    "comment": "безжалостный",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:44:42 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "rapacious",
+    "comment": "хищный",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:42:30 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "The soil was blessed with such a fecund richness that one could almost believe that if you planted a pencil it would burst into flower.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:42:15 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "fecund",
+    "comment": "плодовитый",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:41:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "writhing",
+    "comment": "извивающийся",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:39:31 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "anguish",
+    "comment": "мучение",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:39:18 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "eagerness",
+    "comment": "рвение",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:38:24 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Gelded",
+    "comment": "Кастрированный",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:37:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "beguiling",
+    "comment": "соблазнительный",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:37:18 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "progenitor",
+    "comment": "прародитель",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:35:22 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "hubris",
+    "comment": "высокомерие",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:34:34 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "senile",
+    "comment": "старческий",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:33:32 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Deceit",
+    "comment": "Обман",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:33:09 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "curtly",
+    "comment": "коротко",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:30:58 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Eventide",
+    "comment": "Вечер",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:30:44 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "scythe",
+    "comment": "коса",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:29:52 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "brooding silence",
+    "comment": "задумчивое молчание",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:28:49 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Sickle",
+    "comment": "Серп",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:27:45 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "resigned groan",
+    "comment": "покорный стон",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:27:24 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "abysmal place",
+    "comment": "ужасное место",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:26:50 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "snarl",
+    "comment": "рычание",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:24:06 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "bountiful",
+    "comment": "щедрый",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:18:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "in the cleft of the mountain.",
+    "comment": "в расщелине горы.",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:18:06 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "a most terrible and implacable hatred",
+    "comment": "самая ужасная и непримиримая ненависть",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:17:27 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "abominable",
+    "comment": "отвратительный",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:16:44 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "Filled with disgust, he cursed them: ‘For offending my eyes, you shall never see light again!’",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-12 20:16:17 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "revulsion",
+    "comment": "отвращение",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:15:39 +0300",
+    "thumbnail": ""
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "coalesce",
+    "comment": "объединяться",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:11:54 +0300",
+    "thumbnail": ""
   }
 ]
