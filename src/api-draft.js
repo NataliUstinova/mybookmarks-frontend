@@ -6693,7 +6693,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 12:18:14 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411156"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6702,7 +6702,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 12:18:14 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411157"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6711,7 +6711,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 12:18:13 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411158"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6720,7 +6720,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 12:18:12 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411159"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6729,7 +6729,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 12:18:12 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411160"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6738,7 +6738,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 12:18:11 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411161"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6747,7 +6747,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 12:18:11 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411162"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6756,7 +6756,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 11:01:24 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411163"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6765,7 +6765,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 10:39:30 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411164"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6774,7 +6774,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 10:37:46 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411165"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6783,7 +6783,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 10:34:54 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411166"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6792,7 +6792,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 10:24:21 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411167"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6801,7 +6801,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 10:19:51 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411168"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6810,7 +6810,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:04:38 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411169"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6819,7 +6819,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:04:37 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411170"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6828,7 +6828,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:04:36 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411171"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6837,7 +6837,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:04:36 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411172"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6846,7 +6846,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:04:35 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411173"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6855,7 +6855,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:04:34 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411174"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6864,7 +6864,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:04:33 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411175"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6873,7 +6873,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 16:41:38 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411176"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6882,7 +6882,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 16:40:50 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411177"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6891,7 +6891,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 16:29:34 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411178"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6900,7 +6900,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 16:27:56 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411179"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6909,7 +6909,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 16:23:27 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411180"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6918,7 +6918,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 14:51:19 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411181"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6927,7 +6927,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 14:46:24 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411182"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6936,7 +6936,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 14:39:26 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411183"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6945,7 +6945,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 14:38:21 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411184"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6954,7 +6954,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 14:07:17 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411185"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6963,7 +6963,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:57 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411186"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6972,7 +6972,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:56 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411187"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6981,7 +6981,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:55 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411188"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6990,7 +6990,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:55 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411189"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -6999,7 +6999,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:54 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411190"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7008,7 +7008,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:53 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411191"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7017,7 +7017,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:52 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411192"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7026,7 +7026,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:51 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411193"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7035,7 +7035,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:51 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411194"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7044,7 +7044,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:50 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411195"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7053,7 +7053,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:50 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411196"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7062,7 +7062,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:49 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411197"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7071,7 +7071,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:49 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411198"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7080,7 +7080,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:48 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411199"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7089,7 +7089,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:47 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411200"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7098,7 +7098,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:46 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411201"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7107,7 +7107,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:46 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411202"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7116,7 +7116,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:45 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411203"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7125,7 +7125,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:45 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411204"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7134,7 +7134,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:44 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411205"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7143,7 +7143,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:43 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411206"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7152,7 +7152,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:43 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411207"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7161,7 +7161,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:42 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411208"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7170,7 +7170,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-10 13:58:41 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411209"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7179,7 +7179,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:56:54 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411210"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7188,7 +7188,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:46:21 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411211"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7197,7 +7197,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:43:43 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411212"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7206,7 +7206,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:38:54 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411213"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7215,7 +7215,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:33:44 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411214"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7224,7 +7224,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:33:20 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411215"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7233,7 +7233,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:31:26 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411216"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7242,7 +7242,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:24:47 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411217"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7251,7 +7251,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:22:54 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411218"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7260,7 +7260,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:21:56 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411219"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7269,7 +7269,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:20:24 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411220"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7278,7 +7278,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:17:17 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411221"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7287,7 +7287,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:12:57 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411222"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7296,7 +7296,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:11:31 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411223"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7305,7 +7305,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:09:31 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411224"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7314,7 +7314,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-07 20:09:14 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411225"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Пестрые рассказы",
@@ -7323,7 +7323,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-08-29 23:00:33 +0300",
-    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411226"
+    "thumbnail": "https://img3.labirint.ru/rc/e6a15820b5bec9cea7c4c21a2ef49a44/363x561q80/books39/388401/cover.jpg?1367411155"
   },
   {
     "book_title": "Суламифь",
@@ -7569,7 +7569,7 @@ export const quotes = [
     "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "frolic",
     "comment": "резвость",
@@ -7578,868 +7578,3082 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "free of delusional aspiration",
+    "comment": "свободный от бредовых устремлений",
+    "color": "yellow",
+    "created_at": "2023-09-15 14:22:04 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "pernicious",
+    "comment": "пагубный",
+    "color": "yellow",
+    "created_at": "2023-09-15 14:21:22 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "blithely ignorant of",
+    "comment": "пребывающий в блаженном неведении относительно",
+    "color": "yellow",
+    "created_at": "2023-09-15 14:21:07 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "presentiment",
+    "comment": "предчувствие",
+    "color": "yellow",
+    "created_at": "2023-09-15 14:20:51 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "fend off",
+    "comment": "отбиваться от",
+    "color": "yellow",
+    "created_at": "2023-09-15 14:19:37 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "buoyancy",
+    "comment": "плавучесть",
+    "color": "yellow",
+    "created_at": "2023-09-15 14:17:54 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "talons",
+    "comment": "когти",
+    "color": "yellow",
+    "created_at": "2023-09-15 14:17:43 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "afterthought",
+    "comment": "запоздалая мысль",
+    "color": "yellow",
+    "created_at": "2023-09-15 14:15:56 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "forethought",
+    "comment": "предусмотрительность",
+    "color": "yellow",
+    "created_at": "2023-09-15 14:15:52 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "compunctions",
+    "comment": "угрызения совести",
+    "color": "yellow",
+    "created_at": "2023-09-15 14:04:35 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Edith Hamilton’s Mythology: Timeless Tales of Gods and Heroes (1942)",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-15 13:52:45 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "prolific",
+    "comment": "плодовитый",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:51:55 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "profuse",
+    "comment": "обильный",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:51:55 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "irreverent",
+    "comment": "непочтительный",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:51:55 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "candour",
+    "comment": "искренность",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:41:00 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "maxim",
+    "comment": "изречение",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:40:49 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "benevolence",
+    "comment": "благожелательность",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:40:04 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "akin to",
+    "comment": "родственный",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:39:34 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "At some point myth becomes cult becomes religion. It moves from stories told around the fire to a systematized set of beliefs to which obedience is owed. Priestly castes arose who ordained how people should behave.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-15 13:39:02 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "hobbling",
+    "comment": "ковыляющий",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:37:18 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "swarthy",
+    "comment": "смуглый",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:37:11 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "accretes",
+    "comment": "срастается",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:36:29 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Much as a pearl is formed around grit, so a legend is taken to have been built up around a grain of truth.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-15 13:36:11 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "privy",
+    "comment": "конфиденциальный",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:26:29 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "asinine",
+    "comment": "идиотcкий, ослиный тупой",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:26:13 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "jeers",
+    "comment": "насмешки",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:24:46 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "throng",
+    "comment": "толпа",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:24:21 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "frolicking",
+    "comment": "резвящийся",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:22:10 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "the merest suggestion of clothing covering his modesty",
+    "comment": "малейший намек на одежду, прикрывающую его скромность",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:21:47 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "valueless – but priceless",
+    "comment": "бесполезный – но бесценный",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:20:03 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "contorted dream",
+    "comment": "искаженный сон",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:19:03 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "The unbounded delight began to fade",
+    "comment": "Безграничный восторг начал угасать",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:17:48 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "unbounded",
+    "comment": "неограниченный",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:17:34 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "giddy with joy",
+    "comment": "голова кружится от радости",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:15:30 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "dodging",
+    "comment": "уклоняющийся",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:14:23 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "rapacious or avaricious",
+    "comment": "хищный или алчный",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:13:43 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "belligerently",
+    "comment": "воинственно",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:12:48 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "entourage",
+    "comment": "окружение",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:12:34 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "pawed",
+    "comment": "облапанный",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:11:59 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "‘Wine tastes sour without you,’ he said.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-15 13:11:24 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "choked lanes",
+    "comment": "забитые переулки",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:11:13 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "inroads",
+    "comment": "вторжения",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:10:26 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "twinkled",
+    "comment": "мерцал",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:09:27 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "hoarse",
+    "comment": "хриплый",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:06:14 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "alluring beauty",
+    "comment": "манящая красота",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:05:23 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "flinching",
+    "comment": "вздрагивая",
+    "color": "yellow",
+    "created_at": "2023-09-15 13:05:10 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "oxcart",
+    "comment": "запряженная волами повозка",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:52:12 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "foster",
+    "comment": "способствовать",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:51:44 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "inundating",
+    "comment": "наводняющий",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:50:02 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "pounced",
+    "comment": "набросился",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:46:26 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "daze",
+    "comment": "ошеломлять",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:45:58 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "inquisitiveness",
+    "comment": "любознательность",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:44:15 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "deftly",
+    "comment": "ловко",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:42:57 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "bustling up b",
+    "comment": "суетящийся б",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:41:39 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "threshold",
+    "comment": "порог",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:41:07 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "They had been married since they were very young and now in their old age they loved each other as deeply as ever, with a quiet unwavering intensity that amused their neighbours.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-15 12:39:40 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "unwavering",
+    "comment": "непоколебимый",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:39:35 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "sparse",
+    "comment": "редкий",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:39:02 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "forlorn",
+    "comment": "заброшенный",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:38:37 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "provender",
+    "comment": "провиант",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:37:40 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "oak",
+    "comment": "дуб",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:37:30 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "linden",
+    "comment": "липы",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:37:20 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "kinship",
+    "comment": "родство",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:36:56 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "befell",
+    "comment": "постигший",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:33:25 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "gullible",
+    "comment": "доверчивый",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:33:02 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "languished",
+    "comment": "разомлевший",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:30:21 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "ploughed furrows",
+    "comment": "вспаханные борозды",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:28:35 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "cathartic obsequy",
+    "comment": "очищающее погребение",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:25:29 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "dirge",
+    "comment": "панихида",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:25:18 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "threnody",
+    "comment": "плач",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:25:12 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "heartily",
+    "comment": "сердечно",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:24:53 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Snotty",
+    "comment": "Сопливый",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:23:38 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "sullen",
+    "comment": "угрюмый",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:22:11 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "bewitching",
+    "comment": "завораживающий",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:18:28 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "ubiquitous",
+    "comment": "вездесущий",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:17:25 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "prowess",
+    "comment": "доблесть",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:14:01 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "blusters",
+    "comment": "взрывы",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:12:13 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "prevailed",
+    "comment": "преобладал",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:11:53 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "futile",
+    "comment": "бесполезный",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:08:32 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "felicitous",
+    "comment": "счастливый",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:08:24 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Yet, with the faith and demented fury of the lovestruck",
+    "comment": "И все же, с верой и безумной яростью влюбленного",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:06:02 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "ardent lovers",
+    "comment": "пылкие любовники",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:04:22 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "frankincense",
+    "comment": "ладан",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:03:14 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "unreciprocated",
+    "comment": "безответный",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:02:25 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "deplorable",
+    "comment": "прискорбный",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:02:08 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "abate",
+    "comment": "уменьшать",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:01:26 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "nuzzled",
+    "comment": "уткнулся носом",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:01:12 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "tempestuously",
+    "comment": "бурно",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:01:04 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "unyielding",
+    "comment": "непоколебимый",
+    "color": "yellow",
+    "created_at": "2023-09-15 12:00:18 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Her lines were sweepingly, swoopingly, swooningly smooth, supple and sensuous.",
+    "comment": "Ее линии были размашистыми, стремительными, умопомрачительно плавными, податливыми и чувственными.",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:59:39 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "hesitation",
+    "comment": "нерешительность",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:58:53 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "in a frenzy of creativity, of literal enthusiasm.",
+    "comment": "в порыве творчества, буквального энтузиазма.",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:56:04 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Love and beauty, as most of us find out in the course of our lives, are remorseless, relentless and ruthless.",
+    "comment": "Любовь и красота, как большинство из нас убеждается в течение своей жизни, безжалостны, неослабеваемы и безгрешны.",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:55:42 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "amorousness",
+    "comment": "влюбленность",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:55:35 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "sexiness",
+    "comment": "сексуальность",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:54:47 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "merciless",
+    "comment": "беспощадный",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:53:57 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "shake his head in bewilderment",
+    "comment": "недоуменно качает головой",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:53:24 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "slender",
+    "comment": "стройный",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:53:01 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "tubby",
+    "comment": "толстый",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:52:52 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "indiscriminately",
+    "comment": "без разбора",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:51:52 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "insatiable carnal lust",
+    "comment": "ненасытная плотская похоть",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:51:44 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "wrathful",
+    "comment": "гневный",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:51:19 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "impertinence",
+    "comment": "дерзость",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:51:13 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "pervaded",
+    "comment": "наполненный",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:51:05 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "The island of Cyprus, being the landing ground of spume-born Aphrodite, had long worshipped the goddess of love and beauty with a special fervour, earning Cypriots a reputation for libertine licentiousness and libidinous loose-living. Cyprus was thought of by the mainland as a degenerate place, an Island of Free Love.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-15 11:50:54 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "libidinous loose-living.",
+    "comment": "похотливый разгульный образ жизни.",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:50:46 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "licentiousness",
+    "comment": "распущенность",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:50:01 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "clutching",
+    "comment": "сжимающий",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:48:56 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "garb",
+    "comment": "наряд",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:47:50 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "quick-witted",
+    "comment": "сообразительный",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:37:36 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "maddened beyond endurance",
+    "comment": "обезумевший сверх всякой меры",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:36:55 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "enflamed",
+    "comment": "воспламененный",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:36:45 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "intensified by the forbidden nature of their feelings and their thrillingly unbridgeable proximity.",
+    "comment": "усиленный запретной природой их чувств и их волнующе непреодолимой близостью.",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:36:29 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "benevolent",
+    "comment": "доброжелательный",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:36:03 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "feuding",
+    "comment": "враждующий",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:34:56 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "ribaldry",
+    "comment": "сквернословие",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:34:06 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "belittlement",
+    "comment": "принижение",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:32:57 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "blithely disregarded.",
+    "comment": "беспечно проигнорированный.",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:32:45 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "bequeathed",
+    "comment": "завещанный",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:32:03 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "daffodil",
+    "comment": "бледно-желтый",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:31:56 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "desolation",
+    "comment": "опустошение",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:29:41 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "gleam",
+    "comment": "отблеск",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:29:15 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "beguiling",
+    "comment": "соблазнительный",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:26:46 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "tumultuous passions swirling inside her",
+    "comment": "бурные страсти бурлили внутри нее",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:22:25 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "When love comes late it comes like a tornado.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-15 11:21:44 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "splendidly alone.",
+    "comment": "великолепно одинок.",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:20:54 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "brooding",
+    "comment": "задумчивый",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:18:51 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "was instantly lovestruck.",
+    "comment": "я мгновенно влюбился.",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:17:54 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "to welter in silent agony.",
+    "comment": "корчиться в безмолвной агонии.",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:17:17 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "prattling",
+    "comment": "болтающий",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:16:56 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "shunned",
+    "comment": "остерегался",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:16:41 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "quailed",
+    "comment": "испуганный",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:06:52 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "scheming liar!",
+    "comment": "коварный лжец!",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:06:21 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "It is mortifying to be witnessed trying to catch your husband out.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-15 11:03:02 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "deigned",
+    "comment": "соизволил",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:01:25 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "inconsequential chatter",
+    "comment": "несущественная болтовня",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:01:03 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "chaffinch",
+    "comment": "зяблик",
+    "color": "yellow",
+    "created_at": "2023-09-15 11:00:32 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "slushy, mushy and gushy,",
+    "comment": "слякотный, кашеобразный и фонтанирующий,",
+    "color": "yellow",
+    "created_at": "2023-09-15 10:59:51 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "mellifluous",
+    "comment": "сладкозвучный",
+    "color": "yellow",
+    "created_at": "2023-09-15 10:59:22 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "over-solicitous",
+    "comment": "чрезмерно заботливый",
+    "color": "yellow",
+    "created_at": "2023-09-15 10:58:55 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "tremendous",
+    "comment": "огромный",
+    "color": "yellow",
+    "created_at": "2023-09-15 10:58:44 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "comely",
+    "comment": "симпатичный",
+    "color": "yellow",
+    "created_at": "2023-09-15 10:58:29 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "comeliest",
+    "comment": "самый симпатичный",
+    "color": "yellow",
+    "created_at": "2023-09-15 10:58:20 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "joyfully",
+    "comment": "радостно",
+    "color": "yellow",
+    "created_at": "2023-09-15 10:58:18 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "pronouncement",
+    "comment": "заявление",
+    "color": "yellow",
+    "created_at": "2023-09-15 10:57:47 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "trod",
+    "comment": "топтал",
+    "color": "yellow",
+    "created_at": "2023-09-15 10:56:17 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Perhaps she was basing her opinion on the inexhaustible libido of her husband and her own more moderate sex drive.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-15 10:54:25 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "arbitrate in a wager between",
+    "comment": "выступать арбитром в пари между",
+    "color": "yellow",
+    "created_at": "2023-09-15 10:53:53 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "soothsayers",
+    "comment": "предсказатели",
+    "color": "yellow",
+    "created_at": "2023-09-15 10:51:34 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "flagrantly indecent",
+    "comment": "вопиюще неприличный",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:28:27 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "stonily",
+    "comment": "с каменным видом",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:27:55 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "A lifetime of therapy could surely not clear up such a psychic mess as that.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-15 00:27:34 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "paragons of male beauty.",
+    "comment": "образцы мужской красоты.",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:26:56 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "smitten",
+    "comment": "пораженный",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:26:47 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Smyrna had been acting out her passion in a kind of mad dream of lust",
+    "comment": "Смирна проявляла свою страсть в каком-то безумном сне о вожделении",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:25:40 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "obliging",
+    "comment": "услужливый",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:24:44 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "In the minds of mortals, though, even those of the notoriously laissez-faire and decadent Cyprus, incest was a taboo of the gravest kind.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-15 00:23:43 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "spiteful",
+    "comment": "злобный",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:23:10 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "brambly",
+    "comment": "колючий",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:21:54 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "remorseless inevitability",
+    "comment": "безжалостная неизбежность",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:15:56 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "imp",
+    "comment": "чертенок",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:11:09 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "boon",
+    "comment": "благо",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:08:57 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "sat in companionable silence",
+    "comment": "сидели в дружеском молчании",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:07:55 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "exquisite",
+    "comment": "изысканный",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:05:27 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "blithely unaware.",
+    "comment": "пребывающий в блаженном неведении.",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:04:25 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "tumultuous",
+    "comment": "беспорядочный",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:03:28 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "enticingly seductive",
+    "comment": "заманчиво соблазнительный",
+    "color": "yellow",
+    "created_at": "2023-09-15 00:02:17 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "unreconciled",
+    "comment": "непримиримый",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:58:35 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "conundrum",
+    "comment": "головоломка",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:58:26 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "vexingly subverted",
+    "comment": "досадно ниспровергнутый",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:57:56 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "vulpine",
+    "comment": "хищный",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:56:34 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "benighted",
+    "comment": "погруженный во мрак",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:55:59 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "yearn",
+    "comment": "тосковать",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:53:53 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "shunned",
+    "comment": "остерегался",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:53:35 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "coaxed",
+    "comment": "уговаривал",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:53:14 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "lascivious",
+    "comment": "похотливый",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:50:36 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "haggard",
+    "comment": "изможденный",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:49:40 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Selene’s words had planted a seed of doubt.",
+    "comment": "Слова Селены посеяли семя сомнения.",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:49:12 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "beckon",
+    "comment": "манить",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:48:44 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "trinkets",
+    "comment": "безделушки",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:48:07 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "it takes is honey and money.’\n\n‘What’s that?’\n\n‘Honeyed words and silver coins turn the most virtuous to treachery.’",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 23:47:27 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "sorrowfully",
+    "comment": "печально",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:46:47 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "insouciance",
+    "comment": "беззаботность",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:46:35 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "All the time jealousy and injured pride were boiling inside her.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 23:46:18 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "dreadfully",
+    "comment": "ужасно",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:46:02 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "act of wanton lust.",
+    "comment": "акт беспричинной похоти.",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:41:57 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "They had reckoned without the King of the Gods.",
+    "comment": "Они не учли Царя Богов.",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:41:01 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "virile",
+    "comment": "мужественный",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:40:26 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Those who knew him best said that his inner beauty matched or even exceeded his outer.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 23:39:59 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "sulky, petulant or spoiled",
+    "comment": "угрюмый, раздражительный или избалованный",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:39:49 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "No more beautiful youth had ever lived and moved upon the earth than this Prince Ganymede. His hair was golden, his skin like warm honey, his lips a soft, sweet invitation to lose yourself in mad and magical kisses.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 23:39:13 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "hoopoe",
+    "comment": "удод",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:36:05 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Tereus grunted his assent.",
+    "comment": "Терей проворчал что-то в знак согласия.",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:35:02 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "unspeakable depravities,",
+    "comment": "невыразимые пороки,",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:34:22 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "repulsive",
+    "comment": "отталкивающий",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:33:51 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "abominable truth",
+    "comment": "отвратительная правда",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:33:21 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "had long frothed with desire for this beautiful, unattainable girl",
+    "comment": "уже давно сгорал от желания к этой прекрасной, недосягаемой девушке",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:31:00 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "harried",
+    "comment": "измученный",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:30:18 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "plaintively",
+    "comment": "жалобно",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:29:51 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "So maddened by desire did she become",
+    "comment": "Настолько обезумевшей от желания она стала",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:29:18 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "in perpetuity.",
+    "comment": "на веки вечные.",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:25:56 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "hurled",
+    "comment": "брошенный",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:23:19 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "impermissible",
+    "comment": "недопустимый",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:23:09 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "sacrilegious",
+    "comment": "святотатственный",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:23:04 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "frenzied revelry.",
+    "comment": "неистовое веселье.",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:21:46 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "contemplative",
+    "comment": "созерцательный",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:21:29 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "despoiling",
+    "comment": "разорение",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:21:14 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "depredations",
+    "comment": "грабежи",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:21:03 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "degeneracy",
+    "comment": "вырождение",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:20:38 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "unpardonable",
+    "comment": "непростительный",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:20:10 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "despairingly",
+    "comment": "в отчаянии",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:19:20 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "parables",
+    "comment": "притчи",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:18:22 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "adorn",
+    "comment": "украшать",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:17:29 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "impudence",
+    "comment": "наглость",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:17:04 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "outwardly she managed to keep her composure",
+    "comment": "внешне ей удавалось сохранять самообладание",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:14:57 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "heart thudded",
+    "comment": "сердце глухо забилось",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:14:41 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "complacently",
+    "comment": "самодовольно",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:12:27 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "wheezed",
+    "comment": "хрипел",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:12:01 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "ill-chosen words.",
+    "comment": "неудачно подобранные слова.",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:11:23 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Such praise as she daily received would have gone to anyone’s head.",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-14 23:10:14 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "without equal",
+    "comment": "без равных",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:09:18 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "loom",
+    "comment": "ткацкий станок",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:08:46 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "spinsters",
+    "comment": "старые девы",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:08:28 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "distaff",
+    "comment": "прялка",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:08:05 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "volley",
+    "comment": "залп",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:02:33 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "sneer",
+    "comment": "насмешка",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:02:00 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "imbued",
+    "comment": "пропитанный",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:01:31 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "splendour",
+    "comment": "пышность",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:01:18 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "flames of his pride flared up again.",
+    "comment": "пламя его гордости вспыхнуло снова.",
+    "color": "yellow",
+    "created_at": "2023-09-14 23:00:03 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "skidded to a halt,",
+    "comment": "резко затормозил,",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:59:02 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "concertina",
+    "comment": "гармошка",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:58:45 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "belched",
+    "comment": "рыгнул",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:53:34 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "drowsy",
+    "comment": "сонный",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:52:43 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "adulation",
+    "comment": "преклонение",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:49:52 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "revelled in the fame",
+    "comment": "упивался славой",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:49:45 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "disreputable",
+    "comment": "пользующийся дурной репутацией",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:48:29 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "mellifluous sounds",
+    "comment": "сладкозвучные звуки",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:47:53 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "affectation",
+    "comment": "жеманство",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:47:29 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "such wretched and inconsolable unhappiness was terrible to behold.",
+    "comment": "на такое жалкое и безутешное несчастье было страшно смотреть.",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:44:14 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "conceited",
+    "comment": "тщеславный",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:42:30 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "boastful",
+    "comment": "хвастливый",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:42:26 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "Niobe unburdened herself of her haughtiest broadside",
+    "comment": "Ниоба сбросила с себя бремя своего самого надменного выпада",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:41:08 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "conceit",
+    "comment": "тщеславие",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:40:06 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "hubris",
+    "comment": "высокомерие",
+    "color": "yellow",
+    "created_at": "2023-09-14 22:30:38 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "earnestness",
+    "comment": "серьезность",
+    "color": "yellow",
+    "created_at": "2023-09-14 19:13:48 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_authors": "Stephen Fry",
+    "content": "frolic",
+    "comment": "резвость",
+    "color": "yellow",
+    "created_at": "2023-09-14 14:15:45 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "precipitously",
     "comment": "стремительно",
     "color": "yellow",
     "created_at": "2023-09-14 14:15:29 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "virtuous",
     "comment": "добродетельный",
     "color": "yellow",
     "created_at": "2023-09-14 14:15:00 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "insolence",
     "comment": "наглость",
     "color": "yellow",
     "created_at": "2023-09-14 14:11:15 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "Flayed",
     "comment": "Освежеванный",
     "color": "yellow",
     "created_at": "2023-09-14 14:10:56 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "bowed in meek submission",
     "comment": "склонился в кроткой покорности",
     "color": "yellow",
     "created_at": "2023-09-14 14:08:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "obsequies",
     "comment": "погребальные обряды",
     "color": "yellow",
     "created_at": "2023-09-14 14:06:29 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "entreaty",
     "comment": "мольба",
     "color": "yellow",
     "created_at": "2023-09-14 14:06:19 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "logjam",
     "comment": "затор",
     "color": "yellow",
     "created_at": "2023-09-14 14:04:05 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "incessant clamour",
     "comment": "непрекращающийся шум",
     "color": "yellow",
     "created_at": "2023-09-14 14:02:50 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "nagged",
     "comment": "раздраженный",
     "color": "yellow",
     "created_at": "2023-09-14 14:02:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "indignant",
     "comment": "возмущенный",
     "color": "yellow",
     "created_at": "2023-09-14 14:00:55 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "impropriety",
     "comment": "неуместность",
     "color": "yellow",
     "created_at": "2023-09-14 14:00:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "entreaties",
     "comment": "мольбы",
     "color": "yellow",
     "created_at": "2023-09-14 13:58:52 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "manacles",
     "comment": "кандалы",
     "color": "yellow",
     "created_at": "2023-09-14 13:57:07 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "contrived",
     "comment": "изобретенный",
     "color": "yellow",
     "created_at": "2023-09-14 13:56:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "flutter",
     "comment": "трепетать",
     "color": "yellow",
     "created_at": "2023-09-14 13:53:45 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "whimper",
     "comment": "хныканье",
     "color": "yellow",
     "created_at": "2023-09-14 13:53:36 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "plundering",
     "comment": "разграбление",
     "color": "yellow",
     "created_at": "2023-09-14 13:51:55 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "guileful",
     "comment": "коварный",
     "color": "yellow",
     "created_at": "2023-09-14 13:45:11 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "preposterous",
     "comment": "нелепый",
     "color": "yellow",
     "created_at": "2023-09-14 13:44:18 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "vainglorious",
     "comment": "тщеславный",
     "color": "yellow",
     "created_at": "2023-09-14 13:43:25 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "I abominate, loathe, despise and abhor him,",
     "comment": "Я испытываю к нему отвращение, немилость, презираю его,",
     "color": "yellow",
     "created_at": "2023-09-14 13:40:21 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "beguiling",
     "comment": "соблазнительный",
     "color": "yellow",
     "created_at": "2023-09-14 13:38:43 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "Fratricide",
     "comment": "Братоубийство",
     "color": "yellow",
     "created_at": "2023-09-14 13:38:04 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "Sisyphus hated Salmoneus so much it robbed him of his sleep.",
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 13:37:35 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "enmity",
     "comment": "враждебность",
     "color": "yellow",
     "created_at": "2023-09-14 13:37:27 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "foolhardy",
     "comment": "безрассудно",
     "color": "yellow",
     "created_at": "2023-09-14 13:36:01 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "unquenchable zest",
     "comment": "неугасимый пыл",
     "color": "yellow",
     "created_at": "2023-09-14 13:32:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "defiance",
     "comment": "неповиновение",
     "color": "yellow",
     "created_at": "2023-09-14 13:32:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "tantalized",
     "comment": "дразнящий",
     "color": "yellow",
     "created_at": "2023-09-14 13:31:49 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "There Tantalus stands to this day, agonizingly close to satisfaction, but always denied it, enacting the tortured frustration that bears his name – tantalized, but never satisfied, until the end of time.fn8",
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 13:31:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "bough",
     "comment": "сук",
     "color": "yellow",
     "created_at": "2023-09-14 13:30:43 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "ostentatious",
     "comment": "показной",
     "color": "yellow",
     "created_at": "2023-09-14 13:28:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "opulent",
     "comment": "пышный",
     "color": "yellow",
     "created_at": "2023-09-14 13:28:29 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "repentance",
     "comment": "раскаяние",
     "color": "yellow",
     "created_at": "2023-09-14 13:27:50 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "ramifications",
     "comment": "последствия",
     "color": "yellow",
     "created_at": "2023-09-14 13:25:44 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "temerity",
     "comment": "безрассудство",
     "color": "yellow",
     "created_at": "2023-09-14 13:24:50 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "revolves",
     "comment": "вращается",
     "color": "yellow",
     "created_at": "2023-09-14 13:20:10 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "firmament",
     "comment": "небесный свод",
     "color": "yellow",
     "created_at": "2023-09-14 13:20:06 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "sprawled",
     "comment": "распростертый",
     "color": "yellow",
     "created_at": "2023-09-14 13:19:26 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "incensed",
     "comment": "разгневанный",
     "color": "yellow",
     "created_at": "2023-09-14 13:18:56 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "heinous",
     "comment": "отвратительный",
     "color": "yellow",
     "created_at": "2023-09-14 13:18:48 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "lewd",
     "comment": "непристойный",
     "color": "yellow",
     "created_at": "2023-09-14 13:18:25 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "congenital boorish idiocy",
     "comment": "врожденный хамский идиотизм",
     "color": "yellow",
     "created_at": "2023-09-14 13:17:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "revulsion",
     "comment": "отвращение",
     "color": "yellow",
     "created_at": "2023-09-14 13:17:15 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "catharsis, the ritual process of purification that would redeem him.",
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-14 13:16:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "aptness",
     "comment": "пригодность",
     "color": "yellow",
     "created_at": "2023-09-14 13:14:53 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "gruesome",
     "comment": "ужасный",
     "color": "yellow",
     "created_at": "2023-09-14 13:14:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "admonishing",
     "comment": "увещевающий",
     "color": "yellow",
     "created_at": "2023-09-14 13:14:34 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "precepts",
     "comment": "предписания",
     "color": "yellow",
     "created_at": "2023-09-14 13:14:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "Such astounding rebelliousness was not to be brooked.",
     "comment": "С таким поразительным бунтарством нельзя было мириться.",
     "color": "yellow",
     "created_at": "2023-09-14 13:10:48 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "brooked",
     "comment": "терпимый",
     "color": "yellow",
     "created_at": "2023-09-14 13:10:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "ascendancy",
     "comment": "господство",
     "color": "yellow",
     "created_at": "2023-09-14 13:09:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "subverting",
     "comment": "подрывающий",
     "color": "yellow",
     "created_at": "2023-09-14 13:09:11 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "convalescence, the return of a patient to full health.",
     "comment": "выздоровление, возвращение пациента к полному здоровью.",
     "color": "yellow",
     "created_at": "2023-09-14 13:08:20 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "unassuageable",
     "comment": "неустранимый",
     "color": "yellow",
     "created_at": "2023-09-14 12:58:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "gnawed",
     "comment": "обглоданный",
     "color": "yellow",
     "created_at": "2023-09-14 12:57:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "his appetite was unsated",
     "comment": "его аппетит был неудовлетворен",
     "color": "yellow",
     "created_at": "2023-09-14 12:57:45 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "scurfy hair",
     "comment": "растрепанные волосы",
     "color": "yellow",
     "created_at": "2023-09-14 12:56:33 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "peckish",
     "comment": "голодный",
     "color": "yellow",
     "created_at": "2023-09-14 12:55:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "harbinger",
     "comment": "предвестник",
     "color": "yellow",
     "created_at": "2023-09-14 12:52:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "herald",
     "comment": "вестник",
     "color": "yellow",
     "created_at": "2023-09-14 12:52:18 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "sacrilege",
     "comment": "святотатство",
     "color": "yellow",
     "created_at": "2023-09-14 12:51:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "impetuous",
     "comment": "стремительный",
     "color": "yellow",
     "created_at": "2023-09-14 12:51:03 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "wreath",
     "comment": "венок",
     "color": "yellow",
     "created_at": "2023-09-14 12:50:41 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "abhorrent",
     "comment": "отвратительный",
     "color": "yellow",
     "created_at": "2023-09-14 12:45:34 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "profanity",
     "comment": "кощунство",
     "color": "yellow",
     "created_at": "2023-09-14 12:45:27 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "ogling",
     "comment": "глазеющий",
     "color": "yellow",
     "created_at": "2023-09-14 12:45:15 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "inebriation",
     "comment": "опьянение",
     "color": "yellow",
     "created_at": "2023-09-13 22:17:09 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "When nineteenth-century biologists looked down their microscopes and saw a bacterium with a tail, from which clusters of grape-like nodules sprouted, they called it Staphylococcus. ‘Methylated spirits’ and ‘methane’ take their names from Methe. Botrytis, the ‘noble rot’ that benignly affects grapes on the vine, lending premium dessert wines their incomparable (and shatteringly expensive) bouquet, owes its name to Botrys.",
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 22:15:18 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "splendidly exemplifies",
     "comment": "великолепно иллюстрирует",
     "color": "yellow",
     "created_at": "2023-09-13 22:15:01 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "viticulture",
     "comment": "виноградарство",
     "color": "yellow",
     "created_at": "2023-09-13 22:13:43 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "enmity",
     "comment": "враждебность",
     "color": "yellow",
     "created_at": "2023-09-13 22:13:23 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "first draught of wine.",
     "comment": "первый глоток вина.",
     "color": "yellow",
     "created_at": "2023-09-13 22:12:24 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "mangled",
     "comment": "искореженный",
     "color": "yellow",
     "created_at": "2023-09-13 22:11:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "foolhardy",
     "comment": "безрассудно",
     "color": "yellow",
     "created_at": "2023-09-13 22:11:22 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "besotted",
     "comment": "одурманенный",
     "color": "yellow",
     "created_at": "2023-09-13 22:10:44 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "revelry",
     "comment": "разгул",
     "color": "yellow",
     "created_at": "2023-09-13 22:10:08 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "rout",
     "comment": "раут",
     "color": "yellow",
     "created_at": "2023-09-13 22:09:59 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "weaned",
     "comment": "отлученный от груди",
     "color": "yellow",
     "created_at": "2023-09-13 22:09:48 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "magisterial",
     "comment": "властный",
     "color": "yellow",
     "created_at": "2023-09-13 22:02:48 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "incredulous",
     "comment": "недоверчивый",
     "color": "yellow",
     "created_at": "2023-09-13 22:01:53 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "hotly indignant",
     "comment": "горячо возмущенный",
     "color": "yellow",
     "created_at": "2023-09-13 22:01:19 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "wondrous",
     "comment": "чудесный",
     "color": "yellow",
     "created_at": "2023-09-13 22:00:19 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "hag",
     "comment": "карга",
     "color": "yellow",
     "created_at": "2023-09-13 21:56:41 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "In the fervour of his new infatuation he managed conveniently to forget",
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 21:55:56 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "The eruption of lust he had felt was all over, but he was surprised to feel the stirrings of something deeper, glowing like embers in his heart.",
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 21:53:31 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "wept",
     "comment": "плакал",
     "color": "yellow",
     "created_at": "2023-09-13 21:53:05 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "dazzle",
     "comment": "ослеплять",
     "color": "yellow",
     "created_at": "2023-09-13 21:51:37 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "writhing",
     "comment": "извивающийся",
     "color": "yellow",
     "created_at": "2023-09-13 21:47:30 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "insupportable dread.",
     "comment": "невыносимый страх.",
     "color": "yellow",
     "created_at": "2023-09-13 21:46:31 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "weary",
     "comment": "утомленный",
     "color": "yellow",
     "created_at": "2023-09-13 21:46:12 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "unable to restrain the itchy feet of wanderlust",
     "comment": "не в силах сдержать зуд в ногах от жажды странствий",
     "color": "yellow",
     "created_at": "2023-09-13 21:45:00 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "Consigned to the Dust",
     "comment": "Обращенный в прах",
     "color": "yellow",
     "created_at": "2023-09-13 21:44:38 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "equivocating",
     "comment": "двусмысленный",
     "color": "yellow",
     "created_at": "2023-09-13 21:43:45 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos",
+    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
     "book_authors": "Stephen Fry",
     "content": "giddy",
     "comment": "головокружительный",
     "color": "yellow",
     "created_at": "2023-09-13 21:43:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8448,7 +10662,7 @@ export const quotes = [
     "comment": "бедствие",
     "color": "yellow",
     "created_at": "2023-09-13 21:42:00 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8457,7 +10671,7 @@ export const quotes = [
     "comment": "жалоба",
     "color": "yellow",
     "created_at": "2023-09-13 21:41:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8466,7 +10680,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 21:40:00 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8475,7 +10689,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 21:39:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8484,7 +10698,7 @@ export const quotes = [
     "comment": "столкновение",
     "color": "yellow",
     "created_at": "2023-09-13 21:17:08 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8493,7 +10707,7 @@ export const quotes = [
     "comment": "ужасный грохот",
     "color": "yellow",
     "created_at": "2023-09-13 21:15:15 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8502,7 +10716,7 @@ export const quotes = [
     "comment": "напрягающий",
     "color": "yellow",
     "created_at": "2023-09-13 21:13:22 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8511,7 +10725,7 @@ export const quotes = [
     "comment": "борозды",
     "color": "yellow",
     "created_at": "2023-09-13 21:12:30 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8520,7 +10734,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 21:10:29 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8529,7 +10743,7 @@ export const quotes = [
     "comment": "безнаказанность",
     "color": "yellow",
     "created_at": "2023-09-13 21:09:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8538,7 +10752,7 @@ export const quotes = [
     "comment": "Герои не заламывают руки и не удивляются, герои действуют.",
     "color": "yellow",
     "created_at": "2023-09-13 21:07:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8547,7 +10761,7 @@ export const quotes = [
     "comment": "раздраженный",
     "color": "yellow",
     "created_at": "2023-09-13 21:06:47 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8556,7 +10770,7 @@ export const quotes = [
     "comment": "запутывать",
     "color": "yellow",
     "created_at": "2023-09-13 21:06:23 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8565,7 +10779,7 @@ export const quotes = [
     "comment": "жестокий розыгрыш",
     "color": "yellow",
     "created_at": "2023-09-13 21:06:18 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8574,7 +10788,7 @@ export const quotes = [
     "comment": "столб пыли",
     "color": "yellow",
     "created_at": "2023-09-13 21:05:17 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8583,7 +10797,7 @@ export const quotes = [
     "comment": "уходи неторопливой походкой.",
     "color": "yellow",
     "created_at": "2023-09-13 21:03:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8592,7 +10806,7 @@ export const quotes = [
     "comment": "слегка ошеломленный",
     "color": "yellow",
     "created_at": "2023-09-13 21:03:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8601,7 +10815,7 @@ export const quotes = [
     "comment": "высмеивание",
     "color": "yellow",
     "created_at": "2023-09-13 21:02:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8610,7 +10824,7 @@ export const quotes = [
     "comment": "камергер",
     "color": "yellow",
     "created_at": "2023-09-13 21:01:55 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8619,7 +10833,7 @@ export const quotes = [
     "comment": "соревнование, против которого выступил Кадмус",
     "color": "yellow",
     "created_at": "2023-09-13 21:01:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8628,7 +10842,7 @@ export const quotes = [
     "comment": "задумчиво",
     "color": "yellow",
     "created_at": "2023-09-13 21:00:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8637,7 +10851,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 20:59:38 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8646,7 +10860,7 @@ export const quotes = [
     "comment": "свита",
     "color": "yellow",
     "created_at": "2023-09-13 20:56:30 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8655,7 +10869,7 @@ export const quotes = [
     "comment": "выделение",
     "color": "yellow",
     "created_at": "2023-09-13 20:45:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8664,7 +10878,7 @@ export const quotes = [
     "comment": "телка",
     "color": "yellow",
     "created_at": "2023-09-13 20:45:04 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8673,7 +10887,7 @@ export const quotes = [
     "comment": "Европа была очарована.",
     "color": "yellow",
     "created_at": "2023-09-13 20:44:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8682,7 +10896,7 @@ export const quotes = [
     "comment": "взаимные обвинения",
     "color": "yellow",
     "created_at": "2023-09-13 20:44:00 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8691,7 +10905,7 @@ export const quotes = [
     "comment": "внимайте",
     "color": "yellow",
     "created_at": "2023-09-13 20:43:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8700,7 +10914,7 @@ export const quotes = [
     "comment": "копья",
     "color": "yellow",
     "created_at": "2023-09-13 20:43:09 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8709,7 +10923,7 @@ export const quotes = [
     "comment": "рысь",
     "color": "yellow",
     "created_at": "2023-09-13 20:42:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8718,7 +10932,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 20:40:48 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8727,7 +10941,7 @@ export const quotes = [
     "comment": "выпуклость",
     "color": "yellow",
     "created_at": "2023-09-13 20:40:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8736,7 +10950,7 @@ export const quotes = [
     "comment": "И хотя он сильно потерпел неудачу, еще больше он осмелился.",
     "color": "yellow",
     "created_at": "2023-09-13 20:39:44 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8745,7 +10959,7 @@ export const quotes = [
     "comment": "юношеская порывистость,",
     "color": "yellow",
     "created_at": "2023-09-13 20:39:29 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8754,7 +10968,7 @@ export const quotes = [
     "comment": "насмешки",
     "color": "yellow",
     "created_at": "2023-09-13 20:38:03 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8763,7 +10977,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 20:36:50 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8772,7 +10986,7 @@ export const quotes = [
     "comment": "безутешное страдание,",
     "color": "yellow",
     "created_at": "2023-09-13 20:36:02 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8781,7 +10995,7 @@ export const quotes = [
     "comment": "ржание",
     "color": "yellow",
     "created_at": "2023-09-13 18:11:38 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8790,7 +11004,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 18:09:59 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8799,7 +11013,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 18:09:49 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8808,7 +11022,7 @@ export const quotes = [
     "comment": "серьезность",
     "color": "yellow",
     "created_at": "2023-09-13 18:06:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8817,7 +11031,7 @@ export const quotes = [
     "comment": "Небрежность с моей стороны",
     "color": "yellow",
     "created_at": "2023-09-13 18:06:12 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8826,7 +11040,7 @@ export const quotes = [
     "comment": "тлеющий",
     "color": "yellow",
     "created_at": "2023-09-13 18:05:25 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8835,7 +11049,7 @@ export const quotes = [
     "comment": "взволнованный",
     "color": "yellow",
     "created_at": "2023-09-13 18:05:08 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8844,7 +11058,7 @@ export const quotes = [
     "comment": "плод моих чресел.",
     "color": "yellow",
     "created_at": "2023-09-13 18:04:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8853,7 +11067,7 @@ export const quotes = [
     "comment": "невыносимый сноб",
     "color": "yellow",
     "created_at": "2023-09-13 18:01:25 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8862,7 +11076,7 @@ export const quotes = [
     "comment": "раздражающе снисходительный",
     "color": "yellow",
     "created_at": "2023-09-13 18:00:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8871,7 +11085,7 @@ export const quotes = [
     "comment": "сводящий с ума",
     "color": "yellow",
     "created_at": "2023-09-13 17:57:47 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8880,7 +11094,7 @@ export const quotes = [
     "comment": "Святыни",
     "color": "yellow",
     "created_at": "2023-09-13 17:53:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8889,7 +11103,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 17:50:11 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8898,7 +11112,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 17:49:35 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8907,7 +11121,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 17:49:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8916,7 +11130,7 @@ export const quotes = [
     "comment": "смягчаться",
     "color": "yellow",
     "created_at": "2023-09-13 17:47:06 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8925,7 +11139,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 17:46:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8934,7 +11148,7 @@ export const quotes = [
     "comment": "овод",
     "color": "yellow",
     "created_at": "2023-09-13 17:45:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8943,7 +11157,7 @@ export const quotes = [
     "comment": "мошенник",
     "color": "yellow",
     "created_at": "2023-09-13 17:44:17 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8952,7 +11166,7 @@ export const quotes = [
     "comment": "самый хитрый",
     "color": "yellow",
     "created_at": "2023-09-13 17:44:04 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8961,7 +11175,7 @@ export const quotes = [
     "comment": "ПАНОПТЕС, ‘всевидящий’.",
     "color": "yellow",
     "created_at": "2023-09-13 17:42:37 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8970,7 +11184,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 17:41:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8979,7 +11193,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 17:39:41 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8988,7 +11202,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 17:38:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -8997,7 +11211,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 17:38:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9006,7 +11220,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 16:45:49 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9015,7 +11229,7 @@ export const quotes = [
     "comment": "раздосадованный",
     "color": "yellow",
     "created_at": "2023-09-13 16:34:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9024,7 +11238,7 @@ export const quotes = [
     "comment": "Народ начал роптать.",
     "color": "yellow",
     "created_at": "2023-09-13 16:33:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9033,7 +11247,7 @@ export const quotes = [
     "comment": "пагубный",
     "color": "yellow",
     "created_at": "2023-09-13 16:31:41 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9042,7 +11256,7 @@ export const quotes = [
     "comment": "каяться",
     "color": "yellow",
     "created_at": "2023-09-13 16:29:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9051,7 +11265,7 @@ export const quotes = [
     "comment": "великолепный",
     "color": "yellow",
     "created_at": "2023-09-13 16:18:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9060,7 +11274,7 @@ export const quotes = [
     "comment": "возмущенно",
     "color": "yellow",
     "created_at": "2023-09-13 16:16:59 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9069,7 +11283,7 @@ export const quotes = [
     "comment": "бесхитростный",
     "color": "yellow",
     "created_at": "2023-09-13 16:16:01 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9078,7 +11292,7 @@ export const quotes = [
     "comment": "Сестры прижались друг к другу и рыдали навзрыд.",
     "color": "yellow",
     "created_at": "2023-09-13 16:13:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9087,7 +11301,7 @@ export const quotes = [
     "comment": "Все это было слишком чудовищно несправедливо:",
     "color": "yellow",
     "created_at": "2023-09-13 16:12:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9096,7 +11310,7 @@ export const quotes = [
     "comment": "Это было так ужасно несправедливо.",
     "color": "yellow",
     "created_at": "2023-09-13 16:12:10 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9105,7 +11319,7 @@ export const quotes = [
     "comment": "захихикал",
     "color": "yellow",
     "created_at": "2023-09-13 16:03:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9114,7 +11328,7 @@ export const quotes = [
     "comment": "Она выглядела потрясающе красивой.",
     "color": "yellow",
     "created_at": "2023-09-13 16:00:35 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9123,7 +11337,7 @@ export const quotes = [
     "comment": "пыл",
     "color": "yellow",
     "created_at": "2023-09-13 15:58:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9132,7 +11346,7 @@ export const quotes = [
     "comment": "тоскующий",
     "color": "yellow",
     "created_at": "2023-09-13 15:57:36 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9141,7 +11355,7 @@ export const quotes = [
     "comment": "- Что с тобой, любимая жена?",
     "color": "yellow",
     "created_at": "2023-09-13 15:56:55 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9150,7 +11364,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 15:55:50 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9159,7 +11373,7 @@ export const quotes = [
     "comment": "усеянный",
     "color": "yellow",
     "created_at": "2023-09-13 15:47:31 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9168,7 +11382,7 @@ export const quotes = [
     "comment": "служанки, я здесь, чтобы выполнить ваш приказ.",
     "color": "yellow",
     "created_at": "2023-09-13 15:47:00 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9177,7 +11391,7 @@ export const quotes = [
     "comment": "подергивание",
     "color": "yellow",
     "created_at": "2023-09-13 15:46:31 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9186,7 +11400,7 @@ export const quotes = [
     "comment": "сооружение",
     "color": "yellow",
     "created_at": "2023-09-13 15:44:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9195,7 +11409,7 @@ export const quotes = [
     "comment": "сырой",
     "color": "yellow",
     "created_at": "2023-09-13 15:44:37 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9204,7 +11418,7 @@ export const quotes = [
     "comment": "лачуга",
     "color": "yellow",
     "created_at": "2023-09-13 15:44:30 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9213,7 +11427,7 @@ export const quotes = [
     "comment": "хищный",
     "color": "yellow",
     "created_at": "2023-09-13 15:43:52 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9222,7 +11436,7 @@ export const quotes = [
     "comment": "башенки",
     "color": "yellow",
     "created_at": "2023-09-13 15:43:26 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9231,7 +11445,7 @@ export const quotes = [
     "comment": "ветхий",
     "color": "yellow",
     "created_at": "2023-09-13 15:42:56 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9240,7 +11454,7 @@ export const quotes = [
     "comment": "порыв",
     "color": "yellow",
     "created_at": "2023-09-13 15:41:36 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9249,7 +11463,7 @@ export const quotes = [
     "comment": "Жаворонки",
     "color": "yellow",
     "created_at": "2023-09-13 15:40:44 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9258,7 +11472,7 @@ export const quotes = [
     "comment": "причитания",
     "color": "yellow",
     "created_at": "2023-09-13 15:40:13 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9267,7 +11481,7 @@ export const quotes = [
     "comment": "мрачный, но покорный",
     "color": "yellow",
     "created_at": "2023-09-13 15:38:52 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9276,7 +11490,7 @@ export const quotes = [
     "comment": "Так предначертано, так должно быть.",
     "color": "yellow",
     "created_at": "2023-09-13 15:38:10 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9285,7 +11499,7 @@ export const quotes = [
     "comment": "влюбленный",
     "color": "yellow",
     "created_at": "2023-09-13 15:35:55 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9294,7 +11508,7 @@ export const quotes = [
     "comment": "взволнованный",
     "color": "yellow",
     "created_at": "2023-09-13 15:35:37 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9303,7 +11517,7 @@ export const quotes = [
     "comment": "карабкаться",
     "color": "yellow",
     "created_at": "2023-09-13 15:35:19 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9312,7 +11526,7 @@ export const quotes = [
     "comment": "свинопас",
     "color": "yellow",
     "created_at": "2023-09-13 15:34:55 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9321,7 +11535,7 @@ export const quotes = [
     "comment": "щетинистый",
     "color": "yellow",
     "created_at": "2023-09-13 15:34:46 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9330,7 +11544,7 @@ export const quotes = [
     "comment": "колчан, полный стрел.",
     "color": "yellow",
     "created_at": "2023-09-13 15:31:05 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9339,7 +11553,7 @@ export const quotes = [
     "comment": "трепещущий",
     "color": "yellow",
     "created_at": "2023-09-13 15:30:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9348,16 +11562,16 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 15:23:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "storgic",
-    "comment": "сторгический",
+    "comment": "сторгический A primary type of love that is friendly/affectionate and is based on caring and nurturing. Compare agapic love, erotic love, ludic love, manic love, pragmatic love.",
     "color": "yellow",
     "created_at": "2023-09-13 15:23:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9366,7 +11580,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 15:22:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9375,7 +11589,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 15:20:01 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9384,7 +11598,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 15:19:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9393,7 +11607,7 @@ export const quotes = [
     "comment": "черствый",
     "color": "yellow",
     "created_at": "2023-09-13 15:15:25 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9402,7 +11616,7 @@ export const quotes = [
     "comment": "Она ушла в мрачном настроении, потрясенная и униженная новым и нежеланным переживанием отказа.",
     "color": "yellow",
     "created_at": "2023-09-13 15:14:30 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9411,7 +11625,7 @@ export const quotes = [
     "comment": "приложила все усилия, чтобы завоевать его",
     "color": "yellow",
     "created_at": "2023-09-13 15:14:11 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9420,7 +11634,7 @@ export const quotes = [
     "comment": "Салмацис слыл человеком тщеславным и ленивым.",
     "color": "yellow",
     "created_at": "2023-09-13 15:13:50 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9429,7 +11643,7 @@ export const quotes = [
     "comment": "тяжкий труд",
     "color": "yellow",
     "created_at": "2023-09-13 15:09:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9438,7 +11652,7 @@ export const quotes = [
     "comment": "Твое имя станет посмешищем.’",
     "color": "yellow",
     "created_at": "2023-09-13 15:05:34 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9447,7 +11661,7 @@ export const quotes = [
     "comment": "- Ты смеешь бросать мне вызов?",
     "color": "yellow",
     "created_at": "2023-09-13 15:04:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9456,7 +11670,7 @@ export const quotes = [
     "comment": "обезумевший от беспокойства",
     "color": "yellow",
     "created_at": "2023-09-13 15:04:21 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9465,7 +11679,7 @@ export const quotes = [
     "comment": "безумно блуждающий",
     "color": "yellow",
     "created_at": "2023-09-13 15:04:01 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9474,7 +11688,7 @@ export const quotes = [
     "comment": "промежуток",
     "color": "yellow",
     "created_at": "2023-09-13 15:01:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9483,7 +11697,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 15:00:55 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9492,7 +11706,16 @@ export const quotes = [
     "comment": "промелькнувший",
     "color": "yellow",
     "created_at": "2023-09-13 14:59:30 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "offered",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 14:58:13 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9501,7 +11724,7 @@ export const quotes = [
     "comment": "гнусные, уродливые стервятники",
     "color": "yellow",
     "created_at": "2023-09-13 14:55:20 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9510,7 +11733,7 @@ export const quotes = [
     "comment": "грифы",
     "color": "yellow",
     "created_at": "2023-09-13 14:54:53 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9519,7 +11742,7 @@ export const quotes = [
     "comment": "глупость твоих поступков.",
     "color": "yellow",
     "created_at": "2023-09-13 14:54:02 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9528,7 +11751,7 @@ export const quotes = [
     "comment": "угрюмое бормотание.",
     "color": "yellow",
     "created_at": "2023-09-13 14:52:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9537,7 +11760,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 14:51:43 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9546,7 +11769,7 @@ export const quotes = [
     "comment": "суета",
     "color": "yellow",
     "created_at": "2023-09-13 14:51:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9555,7 +11778,7 @@ export const quotes = [
     "comment": "зубило",
     "color": "yellow",
     "created_at": "2023-09-13 14:51:04 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9564,7 +11787,7 @@ export const quotes = [
     "comment": "вмешательство",
     "color": "yellow",
     "created_at": "2023-09-13 14:49:25 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9573,7 +11796,7 @@ export const quotes = [
     "comment": "обойденный",
     "color": "yellow",
     "created_at": "2023-09-13 14:47:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9582,7 +11805,7 @@ export const quotes = [
     "comment": "беззаботный",
     "color": "yellow",
     "created_at": "2023-09-13 14:46:01 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9591,16 +11814,16 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 14:44:47 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
     "book_authors": "Stephen Fry",
-    "content": "muster point",
-    "comment": "точка сбора",
+    "content": "muster point.f",
+    "comment": "точка сбора.f",
     "color": "yellow",
     "created_at": "2023-09-13 14:43:53 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9609,7 +11832,7 @@ export const quotes = [
     "comment": "неуважительный",
     "color": "yellow",
     "created_at": "2023-09-13 14:42:11 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9618,7 +11841,7 @@ export const quotes = [
     "comment": "Горе",
     "color": "yellow",
     "created_at": "2023-09-13 14:41:52 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9627,7 +11850,7 @@ export const quotes = [
     "comment": "Гермесу была назначена новая роль – Архип–психопомпа, или \"главного проводника душ\", - и эту обязанность он выполнял со своей обычной жизнерадостностью и озорным юмором.",
     "color": "yellow",
     "created_at": "2023-09-13 14:41:26 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9636,7 +11859,7 @@ export const quotes = [
     "comment": "обратился",
     "color": "yellow",
     "created_at": "2023-09-13 14:40:20 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9645,7 +11868,7 @@ export const quotes = [
     "comment": "обетованный",
     "color": "yellow",
     "created_at": "2023-09-13 14:39:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9654,7 +11877,7 @@ export const quotes = [
     "comment": "Они всегда лукавили и увиливали от ответа.",
     "color": "yellow",
     "created_at": "2023-09-13 14:37:18 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9663,7 +11886,7 @@ export const quotes = [
     "comment": "умолять",
     "color": "yellow",
     "created_at": "2023-09-13 14:35:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9672,7 +11895,7 @@ export const quotes = [
     "comment": "проницательность",
     "color": "yellow",
     "created_at": "2023-09-13 14:34:00 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9681,7 +11904,7 @@ export const quotes = [
     "comment": "земельный участок",
     "color": "yellow",
     "created_at": "2023-09-13 14:33:31 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9690,7 +11913,7 @@ export const quotes = [
     "comment": "успокоенный",
     "color": "yellow",
     "created_at": "2023-09-13 14:30:10 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9699,7 +11922,7 @@ export const quotes = [
     "comment": "эпидемия",
     "color": "yellow",
     "created_at": "2023-09-13 14:26:05 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9708,7 +11931,7 @@ export const quotes = [
     "comment": "саранча",
     "color": "yellow",
     "created_at": "2023-09-13 14:25:53 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9717,7 +11940,7 @@ export const quotes = [
     "comment": "славный",
     "color": "yellow",
     "created_at": "2023-09-13 14:24:52 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9726,7 +11949,7 @@ export const quotes = [
     "comment": "пугливый",
     "color": "yellow",
     "created_at": "2023-09-13 14:23:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9735,7 +11958,7 @@ export const quotes = [
     "comment": "солнечные часы",
     "color": "yellow",
     "created_at": "2023-09-13 14:22:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9744,7 +11967,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 14:22:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9753,7 +11976,7 @@ export const quotes = [
     "comment": "раздражающий",
     "color": "yellow",
     "created_at": "2023-09-13 14:22:27 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9762,7 +11985,7 @@ export const quotes = [
     "comment": "добродетельный",
     "color": "yellow",
     "created_at": "2023-09-13 14:22:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9771,7 +11994,7 @@ export const quotes = [
     "comment": "легкий",
     "color": "yellow",
     "created_at": "2023-09-13 14:20:24 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9780,7 +12003,7 @@ export const quotes = [
     "comment": "достижения",
     "color": "yellow",
     "created_at": "2023-09-13 14:20:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9789,7 +12012,7 @@ export const quotes = [
     "comment": "намекающий",
     "color": "yellow",
     "created_at": "2023-09-13 14:19:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9798,7 +12021,7 @@ export const quotes = [
     "comment": "выигрышно",
     "color": "yellow",
     "created_at": "2023-09-13 14:19:11 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9807,7 +12030,7 @@ export const quotes = [
     "comment": "почитание",
     "color": "yellow",
     "created_at": "2023-09-13 14:18:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9816,7 +12039,7 @@ export const quotes = [
     "comment": "проницательный",
     "color": "yellow",
     "created_at": "2023-09-13 14:18:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9825,7 +12048,7 @@ export const quotes = [
     "comment": "облик",
     "color": "yellow",
     "created_at": "2023-09-13 14:18:05 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9834,7 +12057,7 @@ export const quotes = [
     "comment": "глиняная посуда",
     "color": "yellow",
     "created_at": "2023-09-13 14:15:13 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9843,7 +12066,7 @@ export const quotes = [
     "comment": "образец",
     "color": "yellow",
     "created_at": "2023-09-13 14:14:44 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9852,7 +12075,7 @@ export const quotes = [
     "comment": "дарованный",
     "color": "yellow",
     "created_at": "2023-09-13 14:14:37 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9861,7 +12084,7 @@ export const quotes = [
     "comment": "посовещались",
     "color": "yellow",
     "created_at": "2023-09-13 14:14:02 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9870,7 +12093,7 @@ export const quotes = [
     "comment": "хитрость",
     "color": "yellow",
     "created_at": "2023-09-13 14:13:33 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9879,7 +12102,7 @@ export const quotes = [
     "comment": "уравновешенность",
     "color": "yellow",
     "created_at": "2023-09-13 14:13:20 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9888,7 +12111,7 @@ export const quotes = [
     "comment": "яшма",
     "color": "yellow",
     "created_at": "2023-09-13 14:12:56 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9897,7 +12120,7 @@ export const quotes = [
     "comment": "Целую неделю под наблюдением серьезной и озабоченной Афины Царь Богов расхаживал взад-вперед перед своим троном, размышляя о том, как лучше всего люди должны заплатить за то, что осмелились присвоить огонь, за то, что осмелились подражать олимпийцам.",
     "color": "yellow",
     "created_at": "2023-09-13 14:07:31 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9906,7 +12129,7 @@ export const quotes = [
     "comment": "холодное презрение.",
     "color": "yellow",
     "created_at": "2023-09-13 14:05:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9915,7 +12138,7 @@ export const quotes = [
     "comment": "бесстыжий",
     "color": "yellow",
     "created_at": "2023-09-13 14:05:09 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9924,7 +12147,7 @@ export const quotes = [
     "comment": "хилый",
     "color": "yellow",
     "created_at": "2023-09-13 14:05:01 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9933,7 +12156,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 14:03:56 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9942,7 +12165,7 @@ export const quotes = [
     "comment": "беспорядочный",
     "color": "yellow",
     "created_at": "2023-09-13 14:03:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9951,7 +12174,7 @@ export const quotes = [
     "comment": "сонно",
     "color": "yellow",
     "created_at": "2023-09-13 14:01:01 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9960,16 +12183,25 @@ export const quotes = [
     "comment": "передний двор",
     "color": "yellow",
     "created_at": "2023-09-13 13:59:05 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
     "book_authors": "Stephen Fry",
-    "content": "had never defied him outright",
-    "comment": "никогда не бросал ему вызов прямо",
+    "content": "had never defied him outright. T",
+    "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 13:58:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "had never defied him outright. T",
+    "comment": "",
+    "color": "blue",
+    "created_at": "2023-09-13 13:58:14 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9978,7 +12210,7 @@ export const quotes = [
     "comment": "насмехался",
     "color": "yellow",
     "created_at": "2023-09-13 13:57:19 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9987,7 +12219,7 @@ export const quotes = [
     "comment": "Стебель",
     "color": "yellow",
     "created_at": "2023-09-13 13:56:12 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -9996,7 +12228,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 13:55:13 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10005,7 +12237,7 @@ export const quotes = [
     "comment": "задумчивый",
     "color": "yellow",
     "created_at": "2023-09-13 13:53:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10014,7 +12246,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 13:53:29 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10023,7 +12255,7 @@ export const quotes = [
     "comment": "возвышенность",
     "color": "yellow",
     "created_at": "2023-09-13 13:52:52 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10032,7 +12264,7 @@ export const quotes = [
     "comment": "коварство",
     "color": "yellow",
     "created_at": "2023-09-13 13:49:47 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10041,7 +12273,7 @@ export const quotes = [
     "comment": "пораженный",
     "color": "yellow",
     "created_at": "2023-09-13 13:48:20 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10050,7 +12282,7 @@ export const quotes = [
     "comment": "испуг",
     "color": "yellow",
     "created_at": "2023-09-13 13:45:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10059,7 +12291,7 @@ export const quotes = [
     "comment": "извивался",
     "color": "yellow",
     "created_at": "2023-09-13 13:45:10 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10068,7 +12300,7 @@ export const quotes = [
     "comment": "что бы произошло.",
     "color": "yellow",
     "created_at": "2023-09-13 13:44:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10077,7 +12309,7 @@ export const quotes = [
     "comment": "кроткий",
     "color": "yellow",
     "created_at": "2023-09-13 13:42:24 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10086,7 +12318,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 13:42:07 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10095,7 +12327,7 @@ export const quotes = [
     "comment": "робко",
     "color": "yellow",
     "created_at": "2023-09-13 13:36:19 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10104,7 +12336,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 13:20:23 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10113,7 +12345,7 @@ export const quotes = [
     "comment": "дуется",
     "color": "yellow",
     "created_at": "2023-09-13 13:20:03 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10122,7 +12354,7 @@ export const quotes = [
     "comment": "раздражительность",
     "color": "yellow",
     "created_at": "2023-09-13 13:19:43 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10131,7 +12363,7 @@ export const quotes = [
     "comment": "тощий",
     "color": "yellow",
     "created_at": "2023-09-13 12:48:43 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10140,7 +12372,7 @@ export const quotes = [
     "comment": "толкаться",
     "color": "yellow",
     "created_at": "2023-09-13 12:47:07 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10149,7 +12381,7 @@ export const quotes = [
     "comment": "своенравный",
     "color": "yellow",
     "created_at": "2023-09-13 12:45:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10158,7 +12390,7 @@ export const quotes = [
     "comment": "ртуть",
     "color": "yellow",
     "created_at": "2023-09-13 12:43:34 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10167,7 +12399,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 12:42:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10176,7 +12408,7 @@ export const quotes = [
     "comment": "торгаши",
     "color": "yellow",
     "created_at": "2023-09-13 12:40:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10185,7 +12417,7 @@ export const quotes = [
     "comment": "дерзкий",
     "color": "yellow",
     "created_at": "2023-09-13 12:39:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10194,7 +12426,7 @@ export const quotes = [
     "comment": "снискать расположение",
     "color": "yellow",
     "created_at": "2023-09-13 12:38:05 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10203,7 +12435,7 @@ export const quotes = [
     "comment": "Что мы за чокнутая компания, а?",
     "color": "yellow",
     "created_at": "2023-09-13 12:35:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10212,7 +12444,7 @@ export const quotes = [
     "comment": "список",
     "color": "yellow",
     "created_at": "2023-09-13 12:35:12 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10221,7 +12453,7 @@ export const quotes = [
     "comment": "бренчать",
     "color": "yellow",
     "created_at": "2023-09-13 12:33:55 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10230,7 +12462,7 @@ export const quotes = [
     "comment": "ошеломленный",
     "color": "yellow",
     "created_at": "2023-09-13 12:33:05 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10239,7 +12471,7 @@ export const quotes = [
     "comment": "уничтожающий взгляд.",
     "color": "yellow",
     "created_at": "2023-09-13 12:32:45 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10248,7 +12480,7 @@ export const quotes = [
     "comment": "булькало",
     "color": "yellow",
     "created_at": "2023-09-13 12:31:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10257,7 +12489,7 @@ export const quotes = [
     "comment": "заколдованный",
     "color": "yellow",
     "created_at": "2023-09-13 12:30:45 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10266,7 +12498,7 @@ export const quotes = [
     "comment": "осина",
     "color": "yellow",
     "created_at": "2023-09-13 12:29:22 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10275,7 +12507,7 @@ export const quotes = [
     "comment": "внутренности",
     "color": "yellow",
     "created_at": "2023-09-13 12:28:05 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10284,7 +12516,7 @@ export const quotes = [
     "comment": "предзнаменование",
     "color": "yellow",
     "created_at": "2023-09-13 12:27:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10293,7 +12525,7 @@ export const quotes = [
     "comment": "лавр",
     "color": "yellow",
     "created_at": "2023-09-13 12:22:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10302,7 +12534,7 @@ export const quotes = [
     "comment": "не по годам развитый",
     "color": "yellow",
     "created_at": "2023-09-13 12:21:59 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10311,7 +12543,7 @@ export const quotes = [
     "comment": "мычащий",
     "color": "yellow",
     "created_at": "2023-09-13 12:21:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10320,7 +12552,7 @@ export const quotes = [
     "comment": "дерзкий",
     "color": "yellow",
     "created_at": "2023-09-13 12:20:19 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10329,7 +12561,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 12:18:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10338,7 +12570,7 @@ export const quotes = [
     "comment": "взаимные обвинения",
     "color": "yellow",
     "created_at": "2023-09-13 12:18:33 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10347,7 +12579,7 @@ export const quotes = [
     "comment": "бездна",
     "color": "yellow",
     "created_at": "2023-09-13 12:14:36 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10356,7 +12588,7 @@ export const quotes = [
     "comment": "чтобы искупить свое преступление.",
     "color": "yellow",
     "created_at": "2023-09-13 12:13:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10365,7 +12597,7 @@ export const quotes = [
     "comment": "измученный",
     "color": "yellow",
     "created_at": "2023-09-13 12:12:07 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10374,7 +12606,7 @@ export const quotes = [
     "comment": "воспламеняющий",
     "color": "yellow",
     "created_at": "2023-09-13 12:11:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10383,7 +12615,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 12:10:33 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10392,7 +12624,7 @@ export const quotes = [
     "comment": "целомудрие",
     "color": "yellow",
     "created_at": "2023-09-13 12:07:27 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10401,7 +12633,7 @@ export const quotes = [
     "comment": "Поскольку",
     "color": "yellow",
     "created_at": "2023-09-13 12:07:08 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10410,7 +12642,7 @@ export const quotes = [
     "comment": "головокружительный",
     "color": "yellow",
     "created_at": "2023-09-13 12:05:49 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10419,7 +12651,7 @@ export const quotes = [
     "comment": "олени",
     "color": "yellow",
     "created_at": "2023-09-13 12:05:26 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10428,7 +12660,7 @@ export const quotes = [
     "comment": "Наименования",
     "color": "yellow",
     "created_at": "2023-09-13 12:04:55 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10437,7 +12669,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 12:03:56 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10446,7 +12678,7 @@ export const quotes = [
     "comment": "отверженный",
     "color": "yellow",
     "created_at": "2023-09-13 12:03:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10455,7 +12687,7 @@ export const quotes = [
     "comment": "которого она высокомерно охарактеризовала как дерзкого сорванца и позорящего достоинство женской божественности.",
     "color": "yellow",
     "created_at": "2023-09-13 12:02:52 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10464,7 +12696,7 @@ export const quotes = [
     "comment": "ужасный маринад",
     "color": "yellow",
     "created_at": "2023-09-13 11:58:29 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10473,7 +12705,7 @@ export const quotes = [
     "comment": "гнев",
     "color": "yellow",
     "created_at": "2023-09-13 11:58:01 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10482,7 +12714,7 @@ export const quotes = [
     "comment": "скромный",
     "color": "yellow",
     "created_at": "2023-09-13 11:55:18 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10491,7 +12723,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 11:54:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10500,7 +12732,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 11:53:18 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10509,7 +12741,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 11:51:31 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10518,7 +12750,7 @@ export const quotes = [
     "comment": "принуждение",
     "color": "yellow",
     "created_at": "2023-09-13 11:50:07 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10527,7 +12759,7 @@ export const quotes = [
     "comment": "одурманенный",
     "color": "yellow",
     "created_at": "2023-09-13 11:49:30 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10536,7 +12768,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 11:47:13 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10545,7 +12777,7 @@ export const quotes = [
     "comment": "сбитый с толку изумлением",
     "color": "yellow",
     "created_at": "2023-09-13 11:42:44 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10554,7 +12786,7 @@ export const quotes = [
     "comment": "кузница",
     "color": "yellow",
     "created_at": "2023-09-13 11:40:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10563,7 +12795,7 @@ export const quotes = [
     "comment": "поэтому все ломали голову и пытались придумать другое решение",
     "color": "yellow",
     "created_at": "2023-09-13 11:40:30 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10572,7 +12804,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 11:39:23 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10581,7 +12813,7 @@ export const quotes = [
     "comment": "коварство",
     "color": "yellow",
     "created_at": "2023-09-13 11:35:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10590,7 +12822,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 11:35:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10599,7 +12831,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 11:34:15 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10608,7 +12840,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 02:20:21 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10617,7 +12849,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 02:20:04 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10626,7 +12858,7 @@ export const quotes = [
     "comment": "неумолимость",
     "color": "yellow",
     "created_at": "2023-09-13 02:18:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10635,7 +12867,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 02:17:35 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10644,7 +12876,7 @@ export const quotes = [
     "comment": "самоуверенно",
     "color": "yellow",
     "created_at": "2023-09-13 02:16:38 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10653,7 +12885,7 @@ export const quotes = [
     "comment": "Несчастный",
     "color": "yellow",
     "created_at": "2023-09-13 02:14:55 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10662,7 +12894,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 02:14:09 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10671,7 +12903,7 @@ export const quotes = [
     "comment": "восхитительный",
     "color": "yellow",
     "created_at": "2023-09-13 02:13:15 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10680,7 +12912,7 @@ export const quotes = [
     "comment": "выпуклый",
     "color": "yellow",
     "created_at": "2023-09-13 02:12:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10689,7 +12921,7 @@ export const quotes = [
     "comment": "Что-нибудь тягучее, но не приторное, медлительное, но не тягучее, сладкое, но не приторное, и с ароматом, который сводит чувства с ума от удовольствия.",
     "color": "yellow",
     "created_at": "2023-09-13 02:11:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10698,7 +12930,7 @@ export const quotes = [
     "comment": "приторный",
     "color": "yellow",
     "created_at": "2023-09-13 02:11:00 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10707,7 +12939,7 @@ export const quotes = [
     "comment": "скучный",
     "color": "yellow",
     "created_at": "2023-09-13 02:10:53 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10716,7 +12948,7 @@ export const quotes = [
     "comment": "цапля",
     "color": "yellow",
     "created_at": "2023-09-13 02:09:41 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10725,7 +12957,7 @@ export const quotes = [
     "comment": "шмыгая носом и смаргивая слезы.",
     "color": "yellow",
     "created_at": "2023-09-13 02:08:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10734,7 +12966,7 @@ export const quotes = [
     "comment": "доносящийся",
     "color": "yellow",
     "created_at": "2023-09-13 02:08:31 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10743,7 +12975,7 @@ export const quotes = [
     "comment": "помазанный",
     "color": "yellow",
     "created_at": "2023-09-13 02:08:23 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10752,7 +12984,7 @@ export const quotes = [
     "comment": "эстакада",
     "color": "yellow",
     "created_at": "2023-09-13 02:08:07 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10761,7 +12993,7 @@ export const quotes = [
     "comment": "торопливо",
     "color": "yellow",
     "created_at": "2023-09-13 02:06:03 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10770,7 +13002,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 02:04:29 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10779,7 +13011,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-13 02:03:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10788,7 +13020,7 @@ export const quotes = [
     "comment": "злорадствующий",
     "color": "yellow",
     "created_at": "2023-09-13 02:03:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10797,7 +13029,7 @@ export const quotes = [
     "comment": "чтобы попробовать свои силы в освобождении Геры из ее все более затруднительного положения. Все безрезультатно.",
     "color": "yellow",
     "created_at": "2023-09-13 02:02:20 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10806,7 +13038,7 @@ export const quotes = [
     "comment": "безапелляционный",
     "color": "yellow",
     "created_at": "2023-09-13 02:00:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10815,7 +13047,7 @@ export const quotes = [
     "comment": "несчастный",
     "color": "yellow",
     "created_at": "2023-09-13 02:00:33 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10824,7 +13056,7 @@ export const quotes = [
     "comment": "послужи его визитной карточкой на небеса.",
     "color": "yellow",
     "created_at": "2023-09-13 02:00:07 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10833,7 +13065,7 @@ export const quotes = [
     "comment": "Со своей неуклюжей походкой, слегка искаженными чертами лица и растрепанными черными кудрями он представлял собой устрашающее зрелище.",
     "color": "yellow",
     "created_at": "2023-09-13 01:58:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10842,7 +13074,7 @@ export const quotes = [
     "comment": "Крики были ужасающими.",
     "color": "yellow",
     "created_at": "2023-09-13 01:57:10 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10851,7 +13083,7 @@ export const quotes = [
     "comment": "брачный пир, грандиозная публичная церемония, которая навеки свяжет ее узами брака с Зевсом.",
     "color": "yellow",
     "created_at": "2023-09-13 01:55:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10860,7 +13092,7 @@ export const quotes = [
     "comment": "Любовь и война, Венера и Марс, всегда имели сильное сродство.",
     "color": "yellow",
     "created_at": "2023-09-13 01:53:30 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10869,7 +13101,7 @@ export const quotes = [
     "comment": "Возможно, еще более озадачивало то, что ее в равной степени тянуло к нему.",
     "color": "yellow",
     "created_at": "2023-09-13 01:52:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10878,7 +13110,7 @@ export const quotes = [
     "comment": "признал с неохотным согласием, что",
     "color": "yellow",
     "created_at": "2023-09-13 01:52:02 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10887,7 +13119,7 @@ export const quotes = [
     "comment": "драчливый",
     "color": "yellow",
     "created_at": "2023-09-13 01:51:19 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10896,7 +13128,7 @@ export const quotes = [
     "comment": "роды",
     "color": "yellow",
     "created_at": "2023-09-13 01:19:00 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10905,7 +13137,7 @@ export const quotes = [
     "comment": "брошенный",
     "color": "yellow",
     "created_at": "2023-09-13 01:18:17 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10914,7 +13146,7 @@ export const quotes = [
     "comment": "смуглый",
     "color": "yellow",
     "created_at": "2023-09-13 01:18:08 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10923,7 +13155,7 @@ export const quotes = [
     "comment": "Коротышка",
     "color": "yellow",
     "created_at": "2023-09-13 01:17:38 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10932,7 +13164,7 @@ export const quotes = [
     "comment": "устроение",
     "color": "yellow",
     "created_at": "2023-09-13 01:14:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10941,7 +13173,7 @@ export const quotes = [
     "comment": "заикание",
     "color": "yellow",
     "created_at": "2023-09-13 01:13:33 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10950,7 +13182,7 @@ export const quotes = [
     "comment": "скука",
     "color": "yellow",
     "created_at": "2023-09-13 01:12:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10959,7 +13191,7 @@ export const quotes = [
     "comment": "вдова",
     "color": "yellow",
     "created_at": "2023-09-13 01:12:19 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10968,7 +13200,7 @@ export const quotes = [
     "comment": "чутье",
     "color": "yellow",
     "created_at": "2023-09-13 01:12:05 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10977,7 +13209,7 @@ export const quotes = [
     "comment": "требующий злобной мести",
     "color": "yellow",
     "created_at": "2023-09-13 01:10:26 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10986,7 +13218,7 @@ export const quotes = [
     "comment": "тиран и зануда – ревнивый и подозрительный, бушующий и разглагольствующий, как воплощение презираемой жены-карги",
     "color": "yellow",
     "created_at": "2023-09-13 01:09:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -10995,7 +13227,7 @@ export const quotes = [
     "comment": "всегда реагировала на странствующие измены своего мужа-брата Зевса.",
     "color": "yellow",
     "created_at": "2023-09-13 01:07:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11004,7 +13236,7 @@ export const quotes = [
     "comment": "заблудший",
     "color": "yellow",
     "created_at": "2023-09-13 01:07:38 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11013,7 +13245,7 @@ export const quotes = [
     "comment": "надменный",
     "color": "yellow",
     "created_at": "2023-09-13 01:06:49 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11022,7 +13254,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 22:56:34 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11031,7 +13263,7 @@ export const quotes = [
     "comment": "жеребенок",
     "color": "yellow",
     "created_at": "2023-09-12 22:56:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11040,7 +13272,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 22:55:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11049,7 +13281,7 @@ export const quotes = [
     "comment": "раковина",
     "color": "yellow",
     "created_at": "2023-09-12 22:53:51 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11058,7 +13290,7 @@ export const quotes = [
     "comment": "прозвание",
     "color": "yellow",
     "created_at": "2023-09-12 22:52:11 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11067,7 +13299,7 @@ export const quotes = [
     "comment": "опрокидывать",
     "color": "yellow",
     "created_at": "2023-09-12 22:51:15 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11076,7 +13308,7 @@ export const quotes = [
     "comment": "Он всегда пристально, алчно следил за младшим из своих братьев",
     "color": "yellow",
     "created_at": "2023-09-12 22:50:46 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11085,7 +13317,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 22:49:55 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11094,7 +13326,7 @@ export const quotes = [
     "comment": "непостижимый",
     "color": "yellow",
     "created_at": "2023-09-12 22:49:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11103,7 +13335,7 @@ export const quotes = [
     "comment": "грубый",
     "color": "yellow",
     "created_at": "2023-09-12 22:49:20 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11112,7 +13344,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 22:46:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11121,7 +13353,7 @@ export const quotes = [
     "comment": "Оттуда они втроем могли бы полететь во все уголки мира, чтобы отомстить тем преступникам, чьи преступления были достаточно отвратительны, чтобы заслужить их жестокое внимание.",
     "color": "yellow",
     "created_at": "2023-09-12 22:44:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11130,7 +13362,7 @@ export const quotes = [
     "comment": "причитания и стенания.",
     "color": "yellow",
     "created_at": "2023-09-12 22:41:01 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11139,7 +13371,7 @@ export const quotes = [
     "comment": "горе",
     "color": "yellow",
     "created_at": "2023-09-12 22:40:09 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11148,7 +13380,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 22:39:00 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11157,7 +13389,7 @@ export const quotes = [
     "comment": "веселье",
     "color": "yellow",
     "created_at": "2023-09-12 22:38:08 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11166,7 +13398,7 @@ export const quotes = [
     "comment": "Скромное божество, Гестия, обычно изображается в простом платье, подносящей пламя в чаше или сидящей на грубой шерстяной подушке на простом деревянном троне. В Греции был обычай читать ей молитву перед каждым приемом пищи.",
     "color": "yellow",
     "created_at": "2023-09-12 22:18:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11175,7 +13407,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 22:18:08 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11184,7 +13416,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 22:15:57 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11193,7 +13425,7 @@ export const quotes = [
     "comment": "очаг",
     "color": "yellow",
     "created_at": "2023-09-12 22:15:00 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11202,7 +13434,7 @@ export const quotes = [
     "comment": "непреодолимая мощь.",
     "color": "yellow",
     "created_at": "2023-09-12 22:09:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11211,7 +13443,7 @@ export const quotes = [
     "comment": "небесный свод",
     "color": "yellow",
     "created_at": "2023-09-12 22:08:56 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11220,7 +13452,7 @@ export const quotes = [
     "comment": "Победителям - трофеи.",
     "color": "yellow",
     "created_at": "2023-09-12 22:08:17 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11229,7 +13461,7 @@ export const quotes = [
     "comment": "Пришло время для установления нового порядка, порядка, очищенного от расточительной жажды крови и элементарной жестокости, которыми были отмечены прежние времена.",
     "color": "yellow",
     "created_at": "2023-09-12 22:07:50 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11238,7 +13470,7 @@ export const quotes = [
     "comment": "проявил великодушие и милосердие,",
     "color": "yellow",
     "created_at": "2023-09-12 22:03:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11247,7 +13479,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 22:02:04 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11256,7 +13488,7 @@ export const quotes = [
     "comment": "искаженный",
     "color": "yellow",
     "created_at": "2023-09-12 21:59:24 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11265,7 +13497,7 @@ export const quotes = [
     "comment": "враждебность",
     "color": "yellow",
     "created_at": "2023-09-12 21:58:43 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11274,7 +13506,7 @@ export const quotes = [
     "comment": "пал жертвой болезней",
     "color": "yellow",
     "created_at": "2023-09-12 21:57:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11283,7 +13515,7 @@ export const quotes = [
     "comment": "обитатели",
     "color": "yellow",
     "created_at": "2023-09-12 21:55:20 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11292,7 +13524,7 @@ export const quotes = [
     "comment": "когтистый",
     "color": "yellow",
     "created_at": "2023-09-12 21:53:15 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11301,7 +13533,7 @@ export const quotes = [
     "comment": "доброжелательный",
     "color": "yellow",
     "created_at": "2023-09-12 21:51:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11310,7 +13542,7 @@ export const quotes = [
     "comment": "мерзкие и алчные духи насильственной смерти.",
     "color": "yellow",
     "created_at": "2023-09-12 21:50:56 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11319,7 +13551,7 @@ export const quotes = [
     "comment": "падаль",
     "color": "yellow",
     "created_at": "2023-09-12 21:50:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11328,7 +13560,7 @@ export const quotes = [
     "comment": "скромно улыбаясь.",
     "color": "yellow",
     "created_at": "2023-09-12 21:50:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11337,7 +13569,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:48:44 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11346,7 +13578,7 @@ export const quotes = [
     "comment": "благоприятная взаимосвязь между законом природы и ходом времени – то, что вы могли бы назвать ‘божественной прозорливостью’.",
     "color": "yellow",
     "created_at": "2023-09-12 21:47:48 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11355,7 +13587,7 @@ export const quotes = [
     "comment": "благоприятный момент",
     "color": "yellow",
     "created_at": "2023-09-12 21:47:08 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11364,7 +13596,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:45:41 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11373,7 +13605,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:43:18 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11382,7 +13614,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:41:03 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11391,7 +13623,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:37:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11400,7 +13632,7 @@ export const quotes = [
     "comment": "шлак",
     "color": "yellow",
     "created_at": "2023-09-12 21:36:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11409,7 +13641,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:36:16 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11418,7 +13650,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:35:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11427,7 +13659,7 @@ export const quotes = [
     "comment": "Так было и с греческим космосом, творением, которое начиналось с неуклюжих и элементарных очертаний, а теперь воплотилось в богатую, разнообразную жизнь.",
     "color": "yellow",
     "created_at": "2023-09-12 21:34:31 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11436,7 +13668,7 @@ export const quotes = [
     "comment": "видообразование",
     "color": "yellow",
     "created_at": "2023-09-12 21:33:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11445,7 +13677,7 @@ export const quotes = [
     "comment": "Распространение",
     "color": "yellow",
     "created_at": "2023-09-12 21:31:26 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11454,7 +13686,7 @@ export const quotes = [
     "comment": "призвал к прекращению огня.",
     "color": "yellow",
     "created_at": "2023-09-12 21:31:06 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11463,7 +13695,7 @@ export const quotes = [
     "comment": "свирепость",
     "color": "yellow",
     "created_at": "2023-09-12 21:28:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11472,7 +13704,7 @@ export const quotes = [
     "comment": "оплошность",
     "color": "yellow",
     "created_at": "2023-09-12 21:28:07 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11481,7 +13713,7 @@ export const quotes = [
     "comment": "реветь",
     "color": "yellow",
     "created_at": "2023-09-12 21:27:20 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11490,7 +13722,7 @@ export const quotes = [
     "comment": "Было досадно, что",
     "color": "yellow",
     "created_at": "2023-09-12 21:24:23 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11499,7 +13731,7 @@ export const quotes = [
     "comment": "последний удар",
     "color": "yellow",
     "created_at": "2023-09-12 21:23:25 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11508,7 +13740,7 @@ export const quotes = [
     "comment": "ликование",
     "color": "yellow",
     "created_at": "2023-09-12 21:22:59 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11517,7 +13749,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:20:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11526,7 +13758,7 @@ export const quotes = [
     "comment": "волна",
     "color": "yellow",
     "created_at": "2023-09-12 21:20:17 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11535,7 +13767,7 @@ export const quotes = [
     "comment": "недоверие",
     "color": "yellow",
     "created_at": "2023-09-12 21:19:05 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11544,7 +13776,7 @@ export const quotes = [
     "comment": "предложенный",
     "color": "yellow",
     "created_at": "2023-09-12 21:18:43 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11553,7 +13785,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:17:48 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11562,7 +13794,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:16:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11571,7 +13803,7 @@ export const quotes = [
     "comment": "скверный характер",
     "color": "yellow",
     "created_at": "2023-09-12 21:16:33 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11580,7 +13812,7 @@ export const quotes = [
     "comment": "разрабатывая",
     "color": "yellow",
     "created_at": "2023-09-12 21:15:14 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11589,7 +13821,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:14:41 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11598,7 +13830,7 @@ export const quotes = [
     "comment": "изумленный",
     "color": "yellow",
     "created_at": "2023-09-12 21:13:56 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11607,7 +13839,7 @@ export const quotes = [
     "comment": "стремительный",
     "color": "yellow",
     "created_at": "2023-09-12 21:12:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11616,7 +13848,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:11:38 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11625,7 +13857,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:11:22 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11634,7 +13866,7 @@ export const quotes = [
     "comment": "пушистый",
     "color": "yellow",
     "created_at": "2023-09-12 21:09:20 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11643,7 +13875,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 21:08:02 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11652,7 +13884,7 @@ export const quotes = [
     "comment": "Клятва верности",
     "color": "yellow",
     "created_at": "2023-09-12 21:07:15 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11661,7 +13893,7 @@ export const quotes = [
     "comment": "роды",
     "color": "yellow",
     "created_at": "2023-09-12 21:05:20 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11670,7 +13902,7 @@ export const quotes = [
     "comment": "отрыжка",
     "color": "yellow",
     "created_at": "2023-09-12 21:04:45 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11679,7 +13911,7 @@ export const quotes = [
     "comment": "умоляющий",
     "color": "yellow",
     "created_at": "2023-09-12 21:04:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11688,7 +13920,7 @@ export const quotes = [
     "comment": "муки",
     "color": "yellow",
     "created_at": "2023-09-12 21:02:34 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11697,7 +13929,7 @@ export const quotes = [
     "comment": "чтить",
     "color": "yellow",
     "created_at": "2023-09-12 21:01:22 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11706,7 +13938,7 @@ export const quotes = [
     "comment": "И все же Кронос продолжал получать удовольствие от Реи, и все же она согласилась, безнадежно любя его и веря, что чудовищное поедание их первенца было своего рода отклонением от нормы.",
     "color": "yellow",
     "created_at": "2023-09-12 20:59:37 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11715,7 +13947,7 @@ export const quotes = [
     "comment": "угрюмый",
     "color": "yellow",
     "created_at": "2023-09-12 20:58:03 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11724,7 +13956,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:55:10 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11733,7 +13965,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:52:48 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11742,7 +13974,7 @@ export const quotes = [
     "comment": "Задумчивый",
     "color": "yellow",
     "created_at": "2023-09-12 20:51:50 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11751,7 +13983,7 @@ export const quotes = [
     "comment": "загон в угол",
     "color": "yellow",
     "created_at": "2023-09-12 20:51:12 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11760,7 +13992,7 @@ export const quotes = [
     "comment": "затевать",
     "color": "yellow",
     "created_at": "2023-09-12 20:51:03 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11769,7 +14001,7 @@ export const quotes = [
     "comment": "насмешка",
     "color": "yellow",
     "created_at": "2023-09-12 20:50:07 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11778,7 +14010,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:49:28 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11787,7 +14019,7 @@ export const quotes = [
     "comment": "грызущая агония",
     "color": "yellow",
     "created_at": "2023-09-12 20:48:40 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11796,7 +14028,7 @@ export const quotes = [
     "comment": "источал",
     "color": "yellow",
     "created_at": "2023-09-12 20:48:22 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11805,7 +14037,7 @@ export const quotes = [
     "comment": "бедствия",
     "color": "yellow",
     "created_at": "2023-09-12 20:46:25 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11814,7 +14046,7 @@ export const quotes = [
     "comment": "освежеванный",
     "color": "yellow",
     "created_at": "2023-09-12 20:46:07 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11823,7 +14055,7 @@ export const quotes = [
     "comment": "виновники преступлений",
     "color": "yellow",
     "created_at": "2023-09-12 20:45:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11832,7 +14064,7 @@ export const quotes = [
     "comment": "отмщение",
     "color": "yellow",
     "created_at": "2023-09-12 20:45:03 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11841,7 +14073,7 @@ export const quotes = [
     "comment": "безжалостный",
     "color": "yellow",
     "created_at": "2023-09-12 20:44:42 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11850,7 +14082,7 @@ export const quotes = [
     "comment": "хищный",
     "color": "yellow",
     "created_at": "2023-09-12 20:42:30 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11859,7 +14091,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:42:15 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11868,7 +14100,7 @@ export const quotes = [
     "comment": "плодовитый",
     "color": "yellow",
     "created_at": "2023-09-12 20:41:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11877,7 +14109,7 @@ export const quotes = [
     "comment": "извивающийся",
     "color": "yellow",
     "created_at": "2023-09-12 20:39:31 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11886,7 +14118,7 @@ export const quotes = [
     "comment": "мучение",
     "color": "yellow",
     "created_at": "2023-09-12 20:39:18 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11895,7 +14127,7 @@ export const quotes = [
     "comment": "рвение",
     "color": "yellow",
     "created_at": "2023-09-12 20:38:24 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11904,7 +14136,7 @@ export const quotes = [
     "comment": "Кастрированный",
     "color": "yellow",
     "created_at": "2023-09-12 20:37:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11913,7 +14145,7 @@ export const quotes = [
     "comment": "соблазнительный",
     "color": "yellow",
     "created_at": "2023-09-12 20:37:18 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11922,7 +14154,7 @@ export const quotes = [
     "comment": "прародитель",
     "color": "yellow",
     "created_at": "2023-09-12 20:35:22 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11931,7 +14163,7 @@ export const quotes = [
     "comment": "высокомерие",
     "color": "yellow",
     "created_at": "2023-09-12 20:34:34 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11940,7 +14172,7 @@ export const quotes = [
     "comment": "старческий",
     "color": "yellow",
     "created_at": "2023-09-12 20:33:32 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11949,7 +14181,7 @@ export const quotes = [
     "comment": "Обман",
     "color": "yellow",
     "created_at": "2023-09-12 20:33:09 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11958,7 +14190,7 @@ export const quotes = [
     "comment": "коротко",
     "color": "yellow",
     "created_at": "2023-09-12 20:30:58 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11967,7 +14199,7 @@ export const quotes = [
     "comment": "Вечер",
     "color": "yellow",
     "created_at": "2023-09-12 20:30:44 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11976,7 +14208,16 @@ export const quotes = [
     "comment": "коса",
     "color": "yellow",
     "created_at": "2023-09-12 20:29:52 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
+  },
+  {
+    "book_title": "Mythos",
+    "book_authors": "Stephen Fry",
+    "content": "scythe",
+    "comment": "коса",
+    "color": "yellow",
+    "created_at": "2023-09-12 20:29:52 +0300",
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11985,7 +14226,7 @@ export const quotes = [
     "comment": "задумчивое молчание",
     "color": "yellow",
     "created_at": "2023-09-12 20:28:49 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -11994,7 +14235,7 @@ export const quotes = [
     "comment": "Серп",
     "color": "yellow",
     "created_at": "2023-09-12 20:27:45 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -12003,7 +14244,7 @@ export const quotes = [
     "comment": "покорный стон",
     "color": "yellow",
     "created_at": "2023-09-12 20:27:24 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -12012,7 +14253,7 @@ export const quotes = [
     "comment": "ужасное место",
     "color": "yellow",
     "created_at": "2023-09-12 20:26:50 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -12021,7 +14262,7 @@ export const quotes = [
     "comment": "рычание",
     "color": "yellow",
     "created_at": "2023-09-12 20:24:06 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -12030,7 +14271,7 @@ export const quotes = [
     "comment": "щедрый",
     "color": "yellow",
     "created_at": "2023-09-12 20:18:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -12039,7 +14280,7 @@ export const quotes = [
     "comment": "в расщелине горы.",
     "color": "yellow",
     "created_at": "2023-09-12 20:18:06 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -12048,7 +14289,7 @@ export const quotes = [
     "comment": "самая ужасная и непримиримая ненависть",
     "color": "yellow",
     "created_at": "2023-09-12 20:17:27 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -12057,7 +14298,7 @@ export const quotes = [
     "comment": "отвратительный",
     "color": "yellow",
     "created_at": "2023-09-12 20:16:44 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -12066,7 +14307,7 @@ export const quotes = [
     "comment": "",
     "color": "blue",
     "created_at": "2023-09-12 20:16:17 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -12075,7 +14316,7 @@ export const quotes = [
     "comment": "отвращение",
     "color": "yellow",
     "created_at": "2023-09-12 20:15:39 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
     "book_title": "Mythos",
@@ -12084,6 +14325,6 @@ export const quotes = [
     "comment": "объединяться",
     "color": "yellow",
     "created_at": "2023-09-12 20:11:54 +0300",
-    "thumbnail": ""
+    "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   }
 ]
