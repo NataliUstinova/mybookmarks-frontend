@@ -7569,7 +7569,7 @@ export const quotes = [
     "thumbnail": "https://assets1.bmstatic.com/assets/books-covers/ea/81/KzBO4jmb-ipad.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "frolic",
     "comment": "резвость",
@@ -7578,7 +7578,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "free of delusional aspiration",
     "comment": "свободный от бредовых устремлений",
@@ -7587,7 +7587,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "pernicious",
     "comment": "пагубный",
@@ -7596,7 +7596,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "blithely ignorant of",
     "comment": "пребывающий в блаженном неведении относительно",
@@ -7605,7 +7605,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "presentiment",
     "comment": "предчувствие",
@@ -7614,7 +7614,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "fend off",
     "comment": "отбиваться от",
@@ -7623,7 +7623,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "buoyancy",
     "comment": "плавучесть",
@@ -7632,7 +7632,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "talons",
     "comment": "когти",
@@ -7641,7 +7641,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "afterthought",
     "comment": "запоздалая мысль",
@@ -7650,7 +7650,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "forethought",
     "comment": "предусмотрительность",
@@ -7659,7 +7659,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "compunctions",
     "comment": "угрызения совести",
@@ -7668,7 +7668,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Edith Hamilton’s Mythology: Timeless Tales of Gods and Heroes (1942)",
     "comment": "",
@@ -7677,7 +7677,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "prolific",
     "comment": "плодовитый",
@@ -7686,7 +7686,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "profuse",
     "comment": "обильный",
@@ -7695,7 +7695,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "irreverent",
     "comment": "непочтительный",
@@ -7704,7 +7704,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "candour",
     "comment": "искренность",
@@ -7713,7 +7713,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "maxim",
     "comment": "изречение",
@@ -7722,7 +7722,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "benevolence",
     "comment": "благожелательность",
@@ -7731,7 +7731,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "akin to",
     "comment": "родственный",
@@ -7740,7 +7740,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "At some point myth becomes cult becomes religion. It moves from stories told around the fire to a systematized set of beliefs to which obedience is owed. Priestly castes arose who ordained how people should behave.",
     "comment": "",
@@ -7749,7 +7749,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "hobbling",
     "comment": "ковыляющий",
@@ -7758,7 +7758,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "swarthy",
     "comment": "смуглый",
@@ -7767,7 +7767,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "accretes",
     "comment": "срастается",
@@ -7776,7 +7776,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Much as a pearl is formed around grit, so a legend is taken to have been built up around a grain of truth.",
     "comment": "",
@@ -7785,7 +7785,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "privy",
     "comment": "конфиденциальный",
@@ -7794,7 +7794,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "asinine",
     "comment": "идиотcкий, ослиный тупой",
@@ -7803,7 +7803,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "jeers",
     "comment": "насмешки",
@@ -7812,7 +7812,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "throng",
     "comment": "толпа",
@@ -7821,7 +7821,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "frolicking",
     "comment": "резвящийся",
@@ -7830,7 +7830,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "the merest suggestion of clothing covering his modesty",
     "comment": "малейший намек на одежду, прикрывающую его скромность",
@@ -7839,7 +7839,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "valueless – but priceless",
     "comment": "бесполезный – но бесценный",
@@ -7848,7 +7848,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "contorted dream",
     "comment": "искаженный сон",
@@ -7857,7 +7857,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "The unbounded delight began to fade",
     "comment": "Безграничный восторг начал угасать",
@@ -7866,7 +7866,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "unbounded",
     "comment": "неограниченный",
@@ -7875,7 +7875,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "giddy with joy",
     "comment": "голова кружится от радости",
@@ -7884,7 +7884,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "dodging",
     "comment": "уклоняющийся",
@@ -7893,7 +7893,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "rapacious or avaricious",
     "comment": "хищный или алчный",
@@ -7902,7 +7902,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "belligerently",
     "comment": "воинственно",
@@ -7911,7 +7911,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "entourage",
     "comment": "окружение",
@@ -7920,7 +7920,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "pawed",
     "comment": "облапанный",
@@ -7929,7 +7929,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "‘Wine tastes sour without you,’ he said.",
     "comment": "",
@@ -7938,7 +7938,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "choked lanes",
     "comment": "забитые переулки",
@@ -7947,7 +7947,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "inroads",
     "comment": "вторжения",
@@ -7956,7 +7956,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "twinkled",
     "comment": "мерцал",
@@ -7965,7 +7965,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "hoarse",
     "comment": "хриплый",
@@ -7974,7 +7974,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "alluring beauty",
     "comment": "манящая красота",
@@ -7983,7 +7983,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "flinching",
     "comment": "вздрагивая",
@@ -7992,7 +7992,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "oxcart",
     "comment": "запряженная волами повозка",
@@ -8001,7 +8001,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "foster",
     "comment": "способствовать",
@@ -8010,7 +8010,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "inundating",
     "comment": "наводняющий",
@@ -8019,7 +8019,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "pounced",
     "comment": "набросился",
@@ -8028,7 +8028,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "daze",
     "comment": "ошеломлять",
@@ -8037,7 +8037,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "inquisitiveness",
     "comment": "любознательность",
@@ -8046,7 +8046,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "deftly",
     "comment": "ловко",
@@ -8055,7 +8055,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "bustling up b",
     "comment": "суетящийся б",
@@ -8064,7 +8064,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "threshold",
     "comment": "порог",
@@ -8073,7 +8073,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "They had been married since they were very young and now in their old age they loved each other as deeply as ever, with a quiet unwavering intensity that amused their neighbours.",
     "comment": "",
@@ -8082,7 +8082,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "unwavering",
     "comment": "непоколебимый",
@@ -8091,7 +8091,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "sparse",
     "comment": "редкий",
@@ -8100,7 +8100,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "forlorn",
     "comment": "заброшенный",
@@ -8109,7 +8109,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "provender",
     "comment": "провиант",
@@ -8118,7 +8118,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "oak",
     "comment": "дуб",
@@ -8127,7 +8127,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "linden",
     "comment": "липы",
@@ -8136,7 +8136,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "kinship",
     "comment": "родство",
@@ -8145,7 +8145,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "befell",
     "comment": "постигший",
@@ -8154,7 +8154,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "gullible",
     "comment": "доверчивый",
@@ -8163,7 +8163,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "languished",
     "comment": "разомлевший",
@@ -8172,7 +8172,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "ploughed furrows",
     "comment": "вспаханные борозды",
@@ -8181,7 +8181,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "cathartic obsequy",
     "comment": "очищающее погребение",
@@ -8190,7 +8190,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "dirge",
     "comment": "панихида",
@@ -8199,7 +8199,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "threnody",
     "comment": "плач",
@@ -8208,7 +8208,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "heartily",
     "comment": "сердечно",
@@ -8217,7 +8217,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Snotty",
     "comment": "Сопливый",
@@ -8226,7 +8226,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "sullen",
     "comment": "угрюмый",
@@ -8235,7 +8235,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "bewitching",
     "comment": "завораживающий",
@@ -8244,7 +8244,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "ubiquitous",
     "comment": "вездесущий",
@@ -8253,7 +8253,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "prowess",
     "comment": "доблесть",
@@ -8262,7 +8262,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "blusters",
     "comment": "взрывы",
@@ -8271,7 +8271,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "prevailed",
     "comment": "преобладал",
@@ -8280,7 +8280,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "futile",
     "comment": "бесполезный",
@@ -8289,7 +8289,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "felicitous",
     "comment": "счастливый",
@@ -8298,7 +8298,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Yet, with the faith and demented fury of the lovestruck",
     "comment": "И все же, с верой и безумной яростью влюбленного",
@@ -8307,7 +8307,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "ardent lovers",
     "comment": "пылкие любовники",
@@ -8316,7 +8316,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "frankincense",
     "comment": "ладан",
@@ -8325,7 +8325,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "unreciprocated",
     "comment": "безответный",
@@ -8334,7 +8334,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "deplorable",
     "comment": "прискорбный",
@@ -8343,7 +8343,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "abate",
     "comment": "уменьшать",
@@ -8352,7 +8352,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "nuzzled",
     "comment": "уткнулся носом",
@@ -8361,7 +8361,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "tempestuously",
     "comment": "бурно",
@@ -8370,7 +8370,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "unyielding",
     "comment": "непоколебимый",
@@ -8379,7 +8379,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Her lines were sweepingly, swoopingly, swooningly smooth, supple and sensuous.",
     "comment": "Ее линии были размашистыми, стремительными, умопомрачительно плавными, податливыми и чувственными.",
@@ -8388,7 +8388,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "hesitation",
     "comment": "нерешительность",
@@ -8397,7 +8397,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "in a frenzy of creativity, of literal enthusiasm.",
     "comment": "в порыве творчества, буквального энтузиазма.",
@@ -8406,7 +8406,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Love and beauty, as most of us find out in the course of our lives, are remorseless, relentless and ruthless.",
     "comment": "Любовь и красота, как большинство из нас убеждается в течение своей жизни, безжалостны, неослабеваемы и безгрешны.",
@@ -8415,7 +8415,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "amorousness",
     "comment": "влюбленность",
@@ -8424,7 +8424,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "sexiness",
     "comment": "сексуальность",
@@ -8433,7 +8433,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "merciless",
     "comment": "беспощадный",
@@ -8442,7 +8442,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "shake his head in bewilderment",
     "comment": "недоуменно качает головой",
@@ -8451,7 +8451,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "slender",
     "comment": "стройный",
@@ -8460,7 +8460,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "tubby",
     "comment": "толстый",
@@ -8469,7 +8469,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "indiscriminately",
     "comment": "без разбора",
@@ -8478,7 +8478,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "insatiable carnal lust",
     "comment": "ненасытная плотская похоть",
@@ -8487,7 +8487,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "wrathful",
     "comment": "гневный",
@@ -8496,7 +8496,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "impertinence",
     "comment": "дерзость",
@@ -8505,7 +8505,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "pervaded",
     "comment": "наполненный",
@@ -8514,7 +8514,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "The island of Cyprus, being the landing ground of spume-born Aphrodite, had long worshipped the goddess of love and beauty with a special fervour, earning Cypriots a reputation for libertine licentiousness and libidinous loose-living. Cyprus was thought of by the mainland as a degenerate place, an Island of Free Love.",
     "comment": "",
@@ -8523,7 +8523,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "libidinous loose-living.",
     "comment": "похотливый разгульный образ жизни.",
@@ -8532,7 +8532,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "licentiousness",
     "comment": "распущенность",
@@ -8541,7 +8541,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "clutching",
     "comment": "сжимающий",
@@ -8550,7 +8550,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "garb",
     "comment": "наряд",
@@ -8559,7 +8559,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "quick-witted",
     "comment": "сообразительный",
@@ -8568,7 +8568,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "maddened beyond endurance",
     "comment": "обезумевший сверх всякой меры",
@@ -8577,7 +8577,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "enflamed",
     "comment": "воспламененный",
@@ -8586,7 +8586,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "intensified by the forbidden nature of their feelings and their thrillingly unbridgeable proximity.",
     "comment": "усиленный запретной природой их чувств и их волнующе непреодолимой близостью.",
@@ -8595,7 +8595,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "benevolent",
     "comment": "доброжелательный",
@@ -8604,7 +8604,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "feuding",
     "comment": "враждующий",
@@ -8613,7 +8613,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "ribaldry",
     "comment": "сквернословие",
@@ -8622,7 +8622,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "belittlement",
     "comment": "принижение",
@@ -8631,7 +8631,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "blithely disregarded.",
     "comment": "беспечно проигнорированный.",
@@ -8640,7 +8640,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "bequeathed",
     "comment": "завещанный",
@@ -8649,7 +8649,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "daffodil",
     "comment": "бледно-желтый",
@@ -8658,7 +8658,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "desolation",
     "comment": "опустошение",
@@ -8667,7 +8667,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "gleam",
     "comment": "отблеск",
@@ -8676,7 +8676,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "beguiling",
     "comment": "соблазнительный",
@@ -8685,7 +8685,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "tumultuous passions swirling inside her",
     "comment": "бурные страсти бурлили внутри нее",
@@ -8694,7 +8694,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "When love comes late it comes like a tornado.",
     "comment": "",
@@ -8703,7 +8703,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "splendidly alone.",
     "comment": "великолепно одинок.",
@@ -8712,7 +8712,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "brooding",
     "comment": "задумчивый",
@@ -8721,7 +8721,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "was instantly lovestruck.",
     "comment": "я мгновенно влюбился.",
@@ -8730,7 +8730,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "to welter in silent agony.",
     "comment": "корчиться в безмолвной агонии.",
@@ -8739,7 +8739,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "prattling",
     "comment": "болтающий",
@@ -8748,7 +8748,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "shunned",
     "comment": "остерегался",
@@ -8757,7 +8757,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "quailed",
     "comment": "испуганный",
@@ -8766,7 +8766,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "scheming liar!",
     "comment": "коварный лжец!",
@@ -8775,7 +8775,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "It is mortifying to be witnessed trying to catch your husband out.",
     "comment": "",
@@ -8784,7 +8784,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "deigned",
     "comment": "соизволил",
@@ -8793,7 +8793,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "inconsequential chatter",
     "comment": "несущественная болтовня",
@@ -8802,7 +8802,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "chaffinch",
     "comment": "зяблик",
@@ -8811,7 +8811,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "slushy, mushy and gushy,",
     "comment": "слякотный, кашеобразный и фонтанирующий,",
@@ -8820,7 +8820,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "mellifluous",
     "comment": "сладкозвучный",
@@ -8829,7 +8829,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "over-solicitous",
     "comment": "чрезмерно заботливый",
@@ -8838,7 +8838,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "tremendous",
     "comment": "огромный",
@@ -8847,7 +8847,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "comely",
     "comment": "симпатичный",
@@ -8856,7 +8856,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "comeliest",
     "comment": "самый симпатичный",
@@ -8865,7 +8865,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "joyfully",
     "comment": "радостно",
@@ -8874,7 +8874,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "pronouncement",
     "comment": "заявление",
@@ -8883,7 +8883,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "trod",
     "comment": "топтал",
@@ -8892,7 +8892,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Perhaps she was basing her opinion on the inexhaustible libido of her husband and her own more moderate sex drive.",
     "comment": "",
@@ -8901,7 +8901,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "arbitrate in a wager between",
     "comment": "выступать арбитром в пари между",
@@ -8910,7 +8910,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "soothsayers",
     "comment": "предсказатели",
@@ -8919,7 +8919,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "flagrantly indecent",
     "comment": "вопиюще неприличный",
@@ -8928,7 +8928,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "stonily",
     "comment": "с каменным видом",
@@ -8937,7 +8937,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "A lifetime of therapy could surely not clear up such a psychic mess as that.",
     "comment": "",
@@ -8946,7 +8946,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "paragons of male beauty.",
     "comment": "образцы мужской красоты.",
@@ -8955,7 +8955,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "smitten",
     "comment": "пораженный",
@@ -8964,7 +8964,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Smyrna had been acting out her passion in a kind of mad dream of lust",
     "comment": "Смирна проявляла свою страсть в каком-то безумном сне о вожделении",
@@ -8973,7 +8973,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "obliging",
     "comment": "услужливый",
@@ -8982,7 +8982,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "In the minds of mortals, though, even those of the notoriously laissez-faire and decadent Cyprus, incest was a taboo of the gravest kind.",
     "comment": "",
@@ -8991,7 +8991,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "spiteful",
     "comment": "злобный",
@@ -9000,7 +9000,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "brambly",
     "comment": "колючий",
@@ -9009,7 +9009,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "remorseless inevitability",
     "comment": "безжалостная неизбежность",
@@ -9018,7 +9018,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "imp",
     "comment": "чертенок",
@@ -9027,7 +9027,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "boon",
     "comment": "благо",
@@ -9036,7 +9036,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "sat in companionable silence",
     "comment": "сидели в дружеском молчании",
@@ -9045,7 +9045,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "exquisite",
     "comment": "изысканный",
@@ -9054,7 +9054,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "blithely unaware.",
     "comment": "пребывающий в блаженном неведении.",
@@ -9063,7 +9063,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "tumultuous",
     "comment": "беспорядочный",
@@ -9072,7 +9072,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "enticingly seductive",
     "comment": "заманчиво соблазнительный",
@@ -9081,7 +9081,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "unreconciled",
     "comment": "непримиримый",
@@ -9090,7 +9090,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "conundrum",
     "comment": "головоломка",
@@ -9099,7 +9099,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "vexingly subverted",
     "comment": "досадно ниспровергнутый",
@@ -9108,7 +9108,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "vulpine",
     "comment": "хищный",
@@ -9117,7 +9117,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "benighted",
     "comment": "погруженный во мрак",
@@ -9126,7 +9126,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "yearn",
     "comment": "тосковать",
@@ -9135,7 +9135,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "shunned",
     "comment": "остерегался",
@@ -9144,7 +9144,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "coaxed",
     "comment": "уговаривал",
@@ -9153,7 +9153,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "lascivious",
     "comment": "похотливый",
@@ -9162,7 +9162,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "haggard",
     "comment": "изможденный",
@@ -9171,7 +9171,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Selene’s words had planted a seed of doubt.",
     "comment": "Слова Селены посеяли семя сомнения.",
@@ -9180,7 +9180,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "beckon",
     "comment": "манить",
@@ -9189,7 +9189,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "trinkets",
     "comment": "безделушки",
@@ -9198,7 +9198,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "it takes is honey and money.’\n\n‘What’s that?’\n\n‘Honeyed words and silver coins turn the most virtuous to treachery.’",
     "comment": "",
@@ -9207,7 +9207,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "sorrowfully",
     "comment": "печально",
@@ -9216,7 +9216,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "insouciance",
     "comment": "беззаботность",
@@ -9225,7 +9225,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "All the time jealousy and injured pride were boiling inside her.",
     "comment": "",
@@ -9234,7 +9234,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "dreadfully",
     "comment": "ужасно",
@@ -9243,7 +9243,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "act of wanton lust.",
     "comment": "акт беспричинной похоти.",
@@ -9252,7 +9252,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "They had reckoned without the King of the Gods.",
     "comment": "Они не учли Царя Богов.",
@@ -9261,7 +9261,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "virile",
     "comment": "мужественный",
@@ -9270,7 +9270,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Those who knew him best said that his inner beauty matched or even exceeded his outer.",
     "comment": "",
@@ -9279,7 +9279,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "sulky, petulant or spoiled",
     "comment": "угрюмый, раздражительный или избалованный",
@@ -9288,7 +9288,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "No more beautiful youth had ever lived and moved upon the earth than this Prince Ganymede. His hair was golden, his skin like warm honey, his lips a soft, sweet invitation to lose yourself in mad and magical kisses.",
     "comment": "",
@@ -9297,7 +9297,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "hoopoe",
     "comment": "удод",
@@ -9306,7 +9306,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Tereus grunted his assent.",
     "comment": "Терей проворчал что-то в знак согласия.",
@@ -9315,7 +9315,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "unspeakable depravities,",
     "comment": "невыразимые пороки,",
@@ -9324,7 +9324,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "repulsive",
     "comment": "отталкивающий",
@@ -9333,7 +9333,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "abominable truth",
     "comment": "отвратительная правда",
@@ -9342,7 +9342,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "had long frothed with desire for this beautiful, unattainable girl",
     "comment": "уже давно сгорал от желания к этой прекрасной, недосягаемой девушке",
@@ -9351,7 +9351,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "harried",
     "comment": "измученный",
@@ -9360,7 +9360,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "plaintively",
     "comment": "жалобно",
@@ -9369,7 +9369,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "So maddened by desire did she become",
     "comment": "Настолько обезумевшей от желания она стала",
@@ -9378,7 +9378,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "in perpetuity.",
     "comment": "на веки вечные.",
@@ -9387,7 +9387,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "hurled",
     "comment": "брошенный",
@@ -9396,7 +9396,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "impermissible",
     "comment": "недопустимый",
@@ -9405,7 +9405,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "sacrilegious",
     "comment": "святотатственный",
@@ -9414,7 +9414,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "frenzied revelry.",
     "comment": "неистовое веселье.",
@@ -9423,7 +9423,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "contemplative",
     "comment": "созерцательный",
@@ -9432,7 +9432,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "despoiling",
     "comment": "разорение",
@@ -9441,7 +9441,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "depredations",
     "comment": "грабежи",
@@ -9450,7 +9450,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "degeneracy",
     "comment": "вырождение",
@@ -9459,7 +9459,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "unpardonable",
     "comment": "непростительный",
@@ -9468,7 +9468,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "despairingly",
     "comment": "в отчаянии",
@@ -9477,7 +9477,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "parables",
     "comment": "притчи",
@@ -9486,7 +9486,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "adorn",
     "comment": "украшать",
@@ -9495,7 +9495,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "impudence",
     "comment": "наглость",
@@ -9504,7 +9504,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "outwardly she managed to keep her composure",
     "comment": "внешне ей удавалось сохранять самообладание",
@@ -9513,7 +9513,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "heart thudded",
     "comment": "сердце глухо забилось",
@@ -9522,7 +9522,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "complacently",
     "comment": "самодовольно",
@@ -9531,7 +9531,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "wheezed",
     "comment": "хрипел",
@@ -9540,7 +9540,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "ill-chosen words.",
     "comment": "неудачно подобранные слова.",
@@ -9549,7 +9549,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Such praise as she daily received would have gone to anyone’s head.",
     "comment": "",
@@ -9558,7 +9558,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "without equal",
     "comment": "без равных",
@@ -9567,7 +9567,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "loom",
     "comment": "ткацкий станок",
@@ -9576,7 +9576,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "spinsters",
     "comment": "старые девы",
@@ -9585,7 +9585,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "distaff",
     "comment": "прялка",
@@ -9594,7 +9594,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "volley",
     "comment": "залп",
@@ -9603,7 +9603,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "sneer",
     "comment": "насмешка",
@@ -9612,7 +9612,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "imbued",
     "comment": "пропитанный",
@@ -9621,7 +9621,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "splendour",
     "comment": "пышность",
@@ -9630,7 +9630,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "flames of his pride flared up again.",
     "comment": "пламя его гордости вспыхнуло снова.",
@@ -9639,7 +9639,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "skidded to a halt,",
     "comment": "резко затормозил,",
@@ -9648,7 +9648,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "concertina",
     "comment": "гармошка",
@@ -9657,7 +9657,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "belched",
     "comment": "рыгнул",
@@ -9666,7 +9666,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "drowsy",
     "comment": "сонный",
@@ -9675,7 +9675,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "adulation",
     "comment": "преклонение",
@@ -9684,7 +9684,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "revelled in the fame",
     "comment": "упивался славой",
@@ -9693,7 +9693,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "disreputable",
     "comment": "пользующийся дурной репутацией",
@@ -9702,7 +9702,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "mellifluous sounds",
     "comment": "сладкозвучные звуки",
@@ -9711,7 +9711,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "affectation",
     "comment": "жеманство",
@@ -9720,7 +9720,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "such wretched and inconsolable unhappiness was terrible to behold.",
     "comment": "на такое жалкое и безутешное несчастье было страшно смотреть.",
@@ -9729,7 +9729,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "conceited",
     "comment": "тщеславный",
@@ -9738,7 +9738,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "boastful",
     "comment": "хвастливый",
@@ -9747,7 +9747,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Niobe unburdened herself of her haughtiest broadside",
     "comment": "Ниоба сбросила с себя бремя своего самого надменного выпада",
@@ -9756,7 +9756,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "conceit",
     "comment": "тщеславие",
@@ -9765,7 +9765,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "hubris",
     "comment": "высокомерие",
@@ -9774,7 +9774,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "earnestness",
     "comment": "серьезность",
@@ -9783,7 +9783,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "frolic",
     "comment": "резвость",
@@ -9792,7 +9792,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "precipitously",
     "comment": "стремительно",
@@ -9801,7 +9801,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "virtuous",
     "comment": "добродетельный",
@@ -9810,7 +9810,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "insolence",
     "comment": "наглость",
@@ -9819,7 +9819,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Flayed",
     "comment": "Освежеванный",
@@ -9828,7 +9828,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "bowed in meek submission",
     "comment": "склонился в кроткой покорности",
@@ -9837,7 +9837,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "obsequies",
     "comment": "погребальные обряды",
@@ -9846,7 +9846,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "entreaty",
     "comment": "мольба",
@@ -9855,7 +9855,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "logjam",
     "comment": "затор",
@@ -9864,7 +9864,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "incessant clamour",
     "comment": "непрекращающийся шум",
@@ -9873,7 +9873,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "nagged",
     "comment": "раздраженный",
@@ -9882,7 +9882,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "indignant",
     "comment": "возмущенный",
@@ -9891,7 +9891,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "impropriety",
     "comment": "неуместность",
@@ -9900,7 +9900,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "entreaties",
     "comment": "мольбы",
@@ -9909,7 +9909,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "manacles",
     "comment": "кандалы",
@@ -9918,7 +9918,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "contrived",
     "comment": "изобретенный",
@@ -9927,7 +9927,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "flutter",
     "comment": "трепетать",
@@ -9936,7 +9936,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "whimper",
     "comment": "хныканье",
@@ -9945,7 +9945,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "plundering",
     "comment": "разграбление",
@@ -9954,7 +9954,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "guileful",
     "comment": "коварный",
@@ -9963,7 +9963,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "preposterous",
     "comment": "нелепый",
@@ -9972,7 +9972,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "vainglorious",
     "comment": "тщеславный",
@@ -9981,7 +9981,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "I abominate, loathe, despise and abhor him,",
     "comment": "Я испытываю к нему отвращение, немилость, презираю его,",
@@ -9990,7 +9990,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "beguiling",
     "comment": "соблазнительный",
@@ -9999,7 +9999,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Fratricide",
     "comment": "Братоубийство",
@@ -10008,7 +10008,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Sisyphus hated Salmoneus so much it robbed him of his sleep.",
     "comment": "",
@@ -10017,7 +10017,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "enmity",
     "comment": "враждебность",
@@ -10026,7 +10026,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "foolhardy",
     "comment": "безрассудно",
@@ -10035,7 +10035,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "unquenchable zest",
     "comment": "неугасимый пыл",
@@ -10044,7 +10044,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "defiance",
     "comment": "неповиновение",
@@ -10053,7 +10053,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "tantalized",
     "comment": "дразнящий",
@@ -10062,7 +10062,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "There Tantalus stands to this day, agonizingly close to satisfaction, but always denied it, enacting the tortured frustration that bears his name – tantalized, but never satisfied, until the end of time.fn8",
     "comment": "",
@@ -10071,7 +10071,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "bough",
     "comment": "сук",
@@ -10080,7 +10080,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "ostentatious",
     "comment": "показной",
@@ -10089,7 +10089,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "opulent",
     "comment": "пышный",
@@ -10098,7 +10098,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "repentance",
     "comment": "раскаяние",
@@ -10107,7 +10107,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "ramifications",
     "comment": "последствия",
@@ -10116,7 +10116,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "temerity",
     "comment": "безрассудство",
@@ -10125,7 +10125,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "revolves",
     "comment": "вращается",
@@ -10134,7 +10134,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "firmament",
     "comment": "небесный свод",
@@ -10143,7 +10143,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "sprawled",
     "comment": "распростертый",
@@ -10152,7 +10152,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "incensed",
     "comment": "разгневанный",
@@ -10161,7 +10161,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "heinous",
     "comment": "отвратительный",
@@ -10170,7 +10170,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "lewd",
     "comment": "непристойный",
@@ -10179,7 +10179,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "congenital boorish idiocy",
     "comment": "врожденный хамский идиотизм",
@@ -10188,7 +10188,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "revulsion",
     "comment": "отвращение",
@@ -10197,7 +10197,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "catharsis, the ritual process of purification that would redeem him.",
     "comment": "",
@@ -10206,7 +10206,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "aptness",
     "comment": "пригодность",
@@ -10215,7 +10215,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "gruesome",
     "comment": "ужасный",
@@ -10224,7 +10224,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "admonishing",
     "comment": "увещевающий",
@@ -10233,7 +10233,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "precepts",
     "comment": "предписания",
@@ -10242,7 +10242,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Such astounding rebelliousness was not to be brooked.",
     "comment": "С таким поразительным бунтарством нельзя было мириться.",
@@ -10251,7 +10251,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "brooked",
     "comment": "терпимый",
@@ -10260,7 +10260,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "ascendancy",
     "comment": "господство",
@@ -10269,7 +10269,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "subverting",
     "comment": "подрывающий",
@@ -10278,7 +10278,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "convalescence, the return of a patient to full health.",
     "comment": "выздоровление, возвращение пациента к полному здоровью.",
@@ -10287,7 +10287,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "unassuageable",
     "comment": "неустранимый",
@@ -10296,7 +10296,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "gnawed",
     "comment": "обглоданный",
@@ -10305,7 +10305,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "his appetite was unsated",
     "comment": "его аппетит был неудовлетворен",
@@ -10314,7 +10314,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "scurfy hair",
     "comment": "растрепанные волосы",
@@ -10323,7 +10323,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "peckish",
     "comment": "голодный",
@@ -10332,7 +10332,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "harbinger",
     "comment": "предвестник",
@@ -10341,7 +10341,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "herald",
     "comment": "вестник",
@@ -10350,7 +10350,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "sacrilege",
     "comment": "святотатство",
@@ -10359,7 +10359,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "impetuous",
     "comment": "стремительный",
@@ -10368,7 +10368,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "wreath",
     "comment": "венок",
@@ -10377,7 +10377,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "abhorrent",
     "comment": "отвратительный",
@@ -10386,7 +10386,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "profanity",
     "comment": "кощунство",
@@ -10395,7 +10395,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "ogling",
     "comment": "глазеющий",
@@ -10404,7 +10404,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "inebriation",
     "comment": "опьянение",
@@ -10413,7 +10413,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "When nineteenth-century biologists looked down their microscopes and saw a bacterium with a tail, from which clusters of grape-like nodules sprouted, they called it Staphylococcus. ‘Methylated spirits’ and ‘methane’ take their names from Methe. Botrytis, the ‘noble rot’ that benignly affects grapes on the vine, lending premium dessert wines their incomparable (and shatteringly expensive) bouquet, owes its name to Botrys.",
     "comment": "",
@@ -10422,7 +10422,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "splendidly exemplifies",
     "comment": "великолепно иллюстрирует",
@@ -10431,7 +10431,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "viticulture",
     "comment": "виноградарство",
@@ -10440,7 +10440,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "enmity",
     "comment": "враждебность",
@@ -10449,7 +10449,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "first draught of wine.",
     "comment": "первый глоток вина.",
@@ -10458,7 +10458,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "mangled",
     "comment": "искореженный",
@@ -10467,7 +10467,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "foolhardy",
     "comment": "безрассудно",
@@ -10476,7 +10476,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "besotted",
     "comment": "одурманенный",
@@ -10485,7 +10485,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "revelry",
     "comment": "разгул",
@@ -10494,7 +10494,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "rout",
     "comment": "раут",
@@ -10503,7 +10503,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "weaned",
     "comment": "отлученный от груди",
@@ -10512,7 +10512,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "magisterial",
     "comment": "властный",
@@ -10521,7 +10521,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "incredulous",
     "comment": "недоверчивый",
@@ -10530,7 +10530,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "hotly indignant",
     "comment": "горячо возмущенный",
@@ -10539,7 +10539,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "wondrous",
     "comment": "чудесный",
@@ -10548,7 +10548,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "hag",
     "comment": "карга",
@@ -10557,7 +10557,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "In the fervour of his new infatuation he managed conveniently to forget",
     "comment": "",
@@ -10566,7 +10566,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "The eruption of lust he had felt was all over, but he was surprised to feel the stirrings of something deeper, glowing like embers in his heart.",
     "comment": "",
@@ -10575,7 +10575,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "wept",
     "comment": "плакал",
@@ -10584,7 +10584,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "dazzle",
     "comment": "ослеплять",
@@ -10593,7 +10593,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "writhing",
     "comment": "извивающийся",
@@ -10602,7 +10602,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "insupportable dread.",
     "comment": "невыносимый страх.",
@@ -10611,7 +10611,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "weary",
     "comment": "утомленный",
@@ -10620,7 +10620,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "unable to restrain the itchy feet of wanderlust",
     "comment": "не в силах сдержать зуд в ногах от жажды странствий",
@@ -10629,7 +10629,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "Consigned to the Dust",
     "comment": "Обращенный в прах",
@@ -10638,7 +10638,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "equivocating",
     "comment": "двусмысленный",
@@ -10647,7 +10647,7 @@ export const quotes = [
     "thumbnail": "https://cdn2.penguin.com.au/covers/original/9781405934138.jpg"
   },
   {
-    "book_title": "Mythos: A Retelling of the Myths of Ancient Greece",
+    "book_title": "Mythos",
     "book_authors": "Stephen Fry",
     "content": "giddy",
     "comment": "головокружительный",
