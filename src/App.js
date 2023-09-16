@@ -3,6 +3,7 @@ import api from "./Api";
 import {quotes} from "./api-draft"
 import {useEffect, useState} from "react";
 import { v4 as uuidv4 } from 'uuid';
+import BookCalendar from "./Bookcalendar";
 
 
 function BookTitleGrid({ quotes, handleBookClick, selectedBook, showAll }) {
@@ -141,6 +142,7 @@ function App() {
   
   return (
     <div className="w-full grid place-items-center sm:h-screen sm:overflow-hidden">
+      {/*<BookCalendar books={sortedQuotes} />*/}
       <div className="grid place-items-start grid-cols-1 sm:grid-cols-2 gap-x-6 md:gap-x-20  max-w-[1200px]">
         
         <div className="grid max-w-[700px] items-start justify-start sm:h-screen hidden-scrollbar overflow-scroll gap-4 sm:pb-10">
