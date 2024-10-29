@@ -16,21 +16,6 @@ function BookTitleGrid({ quotes, handleBookClick, selectedBook, showAll }) {
   
   const [data, setData] = useState([]);
 
-  // useEffect(() => {
-  //   api.getData()
-  //     .then((res) => {
-  //       setData(res);
-  //     })
-  //     .catch((err) => {
-  //       console.log(err);
-  //     })
-  // }, []);
-
-  // useEffect(() => {
-  //   console.log(data)
-  // }, [data]);
-  
-  
   return (
     <div className="px-5 sm:px-0 w-[100vw] sm:w-full overflow-scroll hidden-scrollbar flex justify-start sm:grid sm:grid-cols-3 md:grid-cols-4 place-content-evenly gap-3">
       {uniqueBookTitles.map((title, index) => {
@@ -42,8 +27,8 @@ function BookTitleGrid({ quotes, handleBookClick, selectedBook, showAll }) {
           <div key={title} className="cursor-pointer relative flex flex-col items-start justify-start sm:justify-end gap-1" onClick={() => handleBookClick({title})}>
             <input type="radio" name="books" value={title} id="book" className="absolute 
             top-0 left-0 w-full h-full peer/book z-10 opacity-0"/>
-            <h3 className={`peer-checked/book:opacity-100 ${showAll ? "opacity-100" : "opacity-70"} order-last sm:order-first
-            truncate whitespace-normal`}>{title}</h3>
+            {/*<h3 className={`peer-checked/book:opacity-100 ${showAll ? "opacity-100" : "opacity-70"} order-last sm:order-first*/}
+            {/*truncate whitespace-normal`}>{title}</h3>*/}
             <img src={thumbnailUrl} alt={`${title} Thumbnail`} className={`rounded-sm peer-checked/book:opacity-100 peer-checked/book:filter-none ${showAll ? "opacity-100 filter-none" : "opacity-70 grayscale"} w-full min-w-[120px] aspect-[10/14] object-cover`}/>
           </div>
         );
