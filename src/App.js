@@ -26,10 +26,10 @@ function BookTitleGrid({ quotes, handleBookClick, selectedBook, showAll }) {
         return (
           <div key={title} className="cursor-pointer relative flex flex-col items-start justify-start sm:justify-end gap-1" onClick={() => handleBookClick({title})}>
             <input type="radio" name="books" value={title} id="book" className="absolute 
-            top-0 left-0 w-full h-full peer/book z-10 opacity-0"/>
+            top-0 left-0 w-full h-full peer/book z-10 opacity-0 cursor-pointer"/>
             {/*<h3 className={`peer-checked/book:opacity-100 ${showAll ? "opacity-100" : "opacity-70"} order-last sm:order-first*/}
             {/*truncate whitespace-normal`}>{title}</h3>*/}
-            <img src={thumbnailUrl} alt={`${title} Thumbnail`} className={`rounded-sm peer-checked/book:opacity-100 peer-checked/book:filter-none ${showAll ? "opacity-100 filter-none" : "opacity-70 grayscale"} w-full min-w-[120px] aspect-[10/14] object-cover`}/>
+            <img src={thumbnailUrl} alt={`${title} Thumbnail`} className={`rounded-sm cursor-pointer peer-checked/book:opacity-100 peer-checked/book:filter-none ${showAll ? "opacity-100 filter-none" : "opacity-70 grayscale"} w-full min-w-[120px] aspect-[10/14] object-cover`}/>
           </div>
         );
       })}
